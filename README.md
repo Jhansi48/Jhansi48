@@ -16,8 +16,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Jhansi48&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jhansi48&show_icons=true)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+> 📚 "It does not matter how slowly you go as long as you do not stop." — Confucius
 
 ---
 ![](https://komarev.com/ghpvc/?username=Jhansi48&color=blue)
