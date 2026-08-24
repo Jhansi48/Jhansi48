@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 250" width="100%" height="100%">
+  <defs>
+    <!-- Gradients -->
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8B7CFF" />
+      <stop offset="100%" stop-color="#62E6D7" />
+    </linearGradient>
+    <linearGradient id="nodeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8B7CFF" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#62E6D7" stop-opacity="0.8" />
+    </linearGradient>
+    
+    <!-- Background Glows -->
+    <radialGradient id="violetGlow" cx="10%" cy="80%" r="60%">
+      <stop offset="0%" stop-color="#8B7CFF" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#08090D" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="cyanGlow" cx="90%" cy="20%" r="60%">
+      <stop offset="0%" stop-color="#62E6D7" stop-opacity="0.08" />
+      <stop offset="100%" stop-color="#08090D" stop-opacity="0" />
+    </radialGradient>
+    
+    <!-- Grid Pattern -->
+    <pattern id="grid" width="70" height="70" patternUnits="userSpaceOnUse">
+      <path d="M 70 0 L 0 0 0 70" fill="none" stroke="rgba(255, 255, 255, 0.02)" stroke-width="1" />
+    </pattern>
+    
+    <!-- Glow Filter -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Base Background -->
+  <rect width="830" height="250" fill="#08090D" rx="20" />
+  
+  <!-- Glow Overlays -->
+  <rect width="830" height="250" fill="url(#violetGlow)" rx="20" />
+  <rect width="830" height="250" fill="url(#cyanGlow)" rx="20" />
+  
+  <!-- Grid -->
+  <rect width="830" height="250" fill="url(#grid)" rx="20" />
+  
+  <!-- Glassmorphic Border -->
+  <rect x="0.5" y="0.5" width="829" height="249" fill="none" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" rx="19.5" />
+
+  <!-- Left Side: Typography -->
+  <g transform="translate(45, 0)">
+    <!-- Status Badge -->
+    <g transform="translate(0, 40)">
+      <rect width="250" height="24" rx="12" fill="rgba(139, 124, 255, 0.06)" stroke="rgba(139, 124, 255, 0.18)" stroke-width="1" />
+      <text x="12" y="15" fill="#8B7CFF" font-family="'Space Grotesk', system-ui, sans-serif" font-size="10" font-weight="600" letter-spacing="1">PORTFOLIO &amp; GITHUB PROFILE</text>
+      <!-- Green Available Dot -->
+      <circle cx="232" cy="12" r="4" fill="#62E6D7" filter="url(#glow)"/>
+    </g>
+    
+    <!-- Name -->
+    <text x="0" y="105" fill="url(#textGrad)" font-family="'Space Grotesk', system-ui, sans-serif" font-size="34" font-weight="700" letter-spacing="-0.5">Jhansi Lakshmi Sambhana</text>
+    
+    <!-- Tagline (AI/ML · Generative AI...) -->
+    <text x="0" y="142" fill="#62E6D7" font-family="'Space Grotesk', system-ui, sans-serif" font-size="14" font-weight="600" letter-spacing="2">AI/ML · GENERATIVE AI · VOICE AI · COMPUTER VISION</text>
+    
+    <!-- Core Statement -->
+    <text x="0" y="180" fill="#9AA2B3" font-family="'Manrope', system-ui, sans-serif" font-size="16" font-weight="500">
+      Building AI that can <tspan fill="#F4F6FB" font-weight="700">understand</tspan>, <tspan fill="#F4F6FB" font-weight="700">predict</tspan>, and <tspan fill="#F4F6FB" font-weight="700">interact</tspan>.
+    </text>
+  </g>
+
+  <!-- Right Side: Neural Network Graph (Abstract Vector Art) -->
+  <g transform="translate(560, 0)">
+    <!-- Connection Lines -->
+    <path d="M60,60 L120,40 M60,60 L90,110 M120,40 L170,80 M90,110 L170,80 M90,110 L110,180 M170,80 L210,130 M110,180 L210,130 M170,80 L110,180" 
+          stroke="rgba(255, 255, 255, 0.08)" stroke-width="1.5" fill="none" />
+          
+    <path d="M60,60 L120,40 M90,110 L170,80 M170,80 L210,130" 
+          stroke="url(#nodeGrad)" stroke-width="2" fill="none" opacity="0.6" />
+
+    <!-- Nodes with glow -->
+    <!-- Node A -->
+    <circle cx="60" cy="60" r="6" fill="#8B7CFF" filter="url(#glow)" />
+    <circle cx="60" cy="60" r="3" fill="#FFFFFF" />
+    
+    <!-- Node B -->
+    <circle cx="120" cy="40" r="5" fill="#62E6D7" />
+    
+    <!-- Node C -->
+    <circle cx="90" cy="110" r="8" fill="#8B7CFF" filter="url(#glow)" />
+    <circle cx="90" cy="110" r="4" fill="#FFFFFF" />
+    
+    <!-- Node D -->
+    <circle cx="170" cy="80" r="10" fill="#62E6D7" filter="url(#glow)" />
+    <circle cx="170" cy="80" r="5" fill="#FFFFFF" />
+    
+    <!-- Node E -->
+    <circle cx="110" cy="180" r="7" fill="#8B7CFF" />
+    
+    <!-- Node F -->
+    <circle cx="210" cy="130" r="9" fill="#62E6D7" filter="url(#glow)" />
+    <circle cx="210" cy="130" r="4" fill="#FFFFFF" />
+  </g>
+</svg>
