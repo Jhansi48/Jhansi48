@@ -8,7 +8,7 @@
     </linearGradient>
 
     <!-- Glowing effect -->
-    <filter id="nodeGlow" x="-20%" y="-20%" width="140%" height="140%">
+    <filter id="nodeGlow" x="-25%" y="-25%" width="150%" height="150%">
       <feGaussianBlur stdDeviation="3" result="blur" />
       <feMerge>
         <feMergeNode in="blur" />
@@ -22,80 +22,87 @@
   <rect x="0.5" y="0.5" width="829" height="139" fill="none" stroke="rgba(255, 255, 255, 0.04)" stroke-width="1" rx="5.5" />
 
   <!-- Connecting line -->
-  <line x1="55" y1="50" x2="745" y2="50" stroke="url(#roadGrad)" stroke-width="1.5" stroke-dasharray="3 2" opacity="0.6" />
+  <line x1="55" y1="65" x2="745" y2="65" stroke="url(#roadGrad)" stroke-width="1.5" stroke-dasharray="3 2" opacity="0.6" />
 
   <!-- Node 1: Machine Learning -->
-  <g transform="translate(55, 50)">
-    <circle cx="0" cy="0" r="20" fill="#0A0C10" stroke="#8B7CFF" stroke-width="1.5" filter="url(#nodeGlow)" />
+  <g transform="translate(55, 65)">
+    <circle cx="0" cy="0" r="18" fill="#0A0C10" stroke="#8B7CFF" stroke-width="1.2" />
     <!-- Brain icon -->
-    <path d="M-6,0 A5,5 0 0,1 4,-3 A4,4 0 0,1 6,3 A5,5 0 0,1 -6,0 Z" fill="none" stroke="#F4F6FB" stroke-width="1" />
-    <text x="0" y="42" fill="#9AA2B3" font-family="monospace" font-size="7.5" font-weight="600" text-anchor="middle">MACHINE</text>
-    <text x="0" y="52" fill="#9AA2B3" font-family="monospace" font-size="7.5" font-weight="600" text-anchor="middle">LEARNING</text>
+    <path d="M-5,0 A4,4 0 0,1 3,-2 A3,3 0 0,1 5,2 A4,4 0 0,1 -5,0 Z" fill="none" stroke="#F4F6FB" stroke-width="1" />
+    <text x="0" y="36" fill="#9AA2B3" font-family="monospace" font-size="7.5" font-weight="600" text-anchor="middle">MACHINE</text>
+    <text x="0" y="46" fill="#9AA2B3" font-family="monospace" font-size="7.5" font-weight="600" text-anchor="middle">LEARNING</text>
   </g>
-  <path d="M 100,47 L 105,50 L 100,53" stroke="#8B7CFF" stroke-width="1" fill="none" />
+  <path d="M 100,62 L 105,65 L 100,68" stroke="#8B7CFF" stroke-width="1" fill="none" />
 
   <!-- Node 2: Deep Learning -->
-  <g transform="translate(170, 50)">
-    <circle cx="0" cy="0" r="20" fill="#0A0C10" stroke="#8B7CFF" stroke-width="1.2" />
+  <g transform="translate(170, 65)">
+    <circle cx="0" cy="0" r="18" fill="#0A0C10" stroke="#8B7CFF" stroke-width="1.2" />
     <!-- Book icon -->
-    <rect x="-6" y="-6" width="12" height="10" rx="1" fill="none" stroke="#F4F6FB" stroke-width="1" />
-    <line x1="0" y1="-6" x2="0" y2="4" stroke="#F4F6FB" stroke-width="1" />
-    <text x="0" y="42" fill="#9AA2B3" font-family="monospace" font-size="7.5" font-weight="600" text-anchor="middle">DEEP</text>
-    <text x="0" y="52" fill="#9AA2B3" font-family="monospace" font-size="7.5" font-weight="600" text-anchor="middle">LEARNING</text>
+    <rect x="-5" y="-5" width="10" height="10" rx="1" fill="none" stroke="#F4F6FB" stroke-width="1" />
+    <line x1="0" y1="-5" x2="0" y2="5" stroke="#F4F6FB" stroke-width="1" />
+    <text x="0" y="36" fill="#9AA2B3" font-family="monospace" font-size="7.5" font-weight="600" text-anchor="middle">DEEP</text>
+    <text x="0" y="46" fill="#9AA2B3" font-family="monospace" font-size="7.5" font-weight="600" text-anchor="middle">LEARNING</text>
   </g>
-  <path d="M 215,47 L 220,50 L 215,53" stroke="#8B7CFF" stroke-width="1" fill="none" />
+  <path d="M 215,62 L 220,65 L 215,68" stroke="#8B7CFF" stroke-width="1" fill="none" />
 
   <!-- Node 3: Generative AI -->
-  <g transform="translate(285, 50)">
-    <circle cx="0" cy="0" r="20" fill="#0A0C10" stroke="#62E6D7" stroke-width="1.5" filter="url(#nodeGlow)" />
+  <g transform="translate(285, 65)">
+    <circle cx="0" cy="0" r="18" fill="#0A0C10" stroke="#62E6D7" stroke-width="1.2" />
     <!-- Sparkle icon -->
-    <path d="M-4,0 L4,0 M0,-4 L0,4 M-2,-2 L2,2 M-2,2 L2,-2" stroke="#62E6D7" stroke-width="1" />
-    <text x="0" y="42" fill="#9AA2B3" font-family="monospace" font-size="7.5" font-weight="600" text-anchor="middle">GENERATIVE</text>
-    <text x="0" y="52" fill="#9AA2B3" font-family="monospace" font-size="7.5" font-weight="600" text-anchor="middle">AI</text>
+    <path d="M-3,0 L3,0 M0,-3 L0,3 M-1.5,-1.5 L1.5,1.5 M-1.5,1.5 L1.5,-1.5" stroke="#F4F6FB" stroke-width="1" />
+    <text x="0" y="36" fill="#9AA2B3" font-family="monospace" font-size="7.5" font-weight="600" text-anchor="middle">GENERATIVE</text>
+    <text x="0" y="46" fill="#9AA2B3" font-family="monospace" font-size="7.5" font-weight="600" text-anchor="middle">AI</text>
   </g>
-  <path d="M 330,47 L 335,50 L 330,53" stroke="#62E6D7" stroke-width="1" fill="none" />
+  <path d="M 330,62 L 335,65 L 330,68" stroke="#62E6D7" stroke-width="1" fill="none" />
 
-  <!-- Node 4: AI Agents -->
-  <g transform="translate(400, 50)">
-    <circle cx="0" cy="0" r="20" fill="#0A0C10" stroke="#8B7CFF" stroke-width="1.5" filter="url(#nodeGlow)" />
+  <!-- Node 4: AI Agents (EMPHASIZED FOCUS NODE) -->
+  <g transform="translate(400, 65)">
+    <!-- Glowing background ring -->
+    <circle cx="0" cy="0" r="23" fill="none" stroke="#8B7CFF" stroke-width="1" stroke-dasharray="3 3" opacity="0.8" />
+    <!-- Core circle -->
+    <circle cx="0" cy="0" r="18" fill="#0A0C10" stroke="#8B7CFF" stroke-width="2" filter="url(#nodeGlow)" />
     <!-- Robot head icon -->
-    <rect x="-7" y="-5" width="14" height="10" rx="1.5" fill="none" stroke="#F4F6FB" stroke-width="1" />
-    <circle cx="-3" cy="-1" r="1" fill="#F4F6FB" />
-    <circle cx="3" cy="-1" r="1" fill="#F4F6FB" />
-    <path d="M-3,2 L3,2" stroke="#F4F6FB" stroke-width="1" />
-    <text x="0" y="42" fill="#9AA2B3" font-family="monospace" font-size="7.5" font-weight="600" text-anchor="middle">AI</text>
-    <text x="0" y="52" fill="#9AA2B3" font-family="monospace" font-size="7.5" font-weight="600" text-anchor="middle">AGENTS</text>
+    <rect x="-6" y="-4" width="12" height="8" rx="1" fill="none" stroke="#F4F6FB" stroke-width="1" />
+    <circle cx="-2.5" cy="-1.5" r="0.8" fill="#62E6D7" />
+    <circle cx="2.5" cy="-1.5" r="0.8" fill="#62E6D7" />
+    <path d="M-2,2 C-2,2 0,3 2,2" fill="none" stroke="#F4F6FB" stroke-width="1" stroke-linecap="round" />
+    
+    <!-- Focus Indicator Tag -->
+    <rect x="-24" y="-32" width="48" height="11" rx="2" fill="#8B7CFF" />
+    <text x="0" y="-24" fill="#08090D" font-family="monospace" font-size="6.5" font-weight="900" text-anchor="middle" letter-spacing="0.5">CURRENT</text>
+    
+    <text x="0" y="36" fill="#F4F6FB" font-family="monospace" font-size="8" font-weight="800" text-anchor="middle">AI AGENTS</text>
   </g>
-  <path d="M 445,47 L 450,50 L 445,53" stroke="#8B7CFF" stroke-width="1" fill="none" />
+  <path d="M 445,62 L 450,65 L 445,68" stroke="#8B7CFF" stroke-width="1" fill="none" />
 
   <!-- Node 5: RAG -->
-  <g transform="translate(515, 50)">
-    <circle cx="0" cy="0" r="20" fill="#0A0C10" stroke="#62E6D7" stroke-width="1.2" />
+  <g transform="translate(515, 65)">
+    <circle cx="0" cy="0" r="18" fill="#0A0C10" stroke="#62E6D7" stroke-width="1.2" />
     <!-- Database/Server icon -->
-    <rect x="-6" y="-6" width="12" height="12" rx="1" fill="none" stroke="#F4F6FB" stroke-width="1" />
-    <line x1="-6" y1="-2" x2="6" y2="-2" stroke="#F4F6FB" stroke-width="1" />
-    <line x1="-6" y1="2" x2="6" y2="2" stroke="#F4F6FB" stroke-width="1" />
-    <text x="0" y="42" fill="#9AA2B3" font-family="monospace" font-size="7.5" font-weight="600" text-anchor="middle">RAG</text>
+    <rect x="-5" y="-5" width="10" height="10" rx="1" fill="none" stroke="#F4F6FB" stroke-width="1" />
+    <line x1="-5" y1="-1" x2="5" y2="-1" stroke="#F4F6FB" stroke-width="1" />
+    <line x1="-5" y1="2" x2="5" y2="2" stroke="#F4F6FB" stroke-width="1" />
+    <text x="0" y="36" fill="#9AA2B3" font-family="monospace" font-size="7.5" font-weight="600" text-anchor="middle">RAG</text>
   </g>
-  <path d="M 560,47 L 565,50 L 560,53" stroke="#62E6D7" stroke-width="1" fill="none" />
+  <path d="M 560,62 L 565,65 L 560,68" stroke="#62E6D7" stroke-width="1" fill="none" />
 
   <!-- Node 6: Multimodal AI -->
-  <g transform="translate(630, 50)">
-    <circle cx="0" cy="0" r="20" fill="#0A0C10" stroke="#8B7CFF" stroke-width="1.5" filter="url(#nodeGlow)" />
+  <g transform="translate(630, 65)">
+    <circle cx="0" cy="0" r="18" fill="#0A0C10" stroke="#8B7CFF" stroke-width="1.2" />
     <!-- Image/Photo icon -->
-    <rect x="-7" y="-6" width="14" height="12" rx="1" fill="none" stroke="#F4F6FB" stroke-width="1" />
-    <circle cx="-3" cy="-2" r="1" fill="#F4F6FB" />
-    <path d="M-6,4 L-2,0 L1,2 L4,-2 L6,4 Z" fill="none" stroke="#F4F6FB" stroke-width="1" />
-    <text x="0" y="42" fill="#9AA2B3" font-family="monospace" font-size="7.5" font-weight="600" text-anchor="middle">MULTIMODAL</text>
-    <text x="0" y="52" fill="#9AA2B3" font-family="monospace" font-size="7.5" font-weight="600" text-anchor="middle">AI</text>
+    <rect x="-6" y="-5" width="12" height="10" rx="1" fill="none" stroke="#F4F6FB" stroke-width="1" />
+    <circle cx="-2.5" cy="-2.5" r="0.8" fill="#F4F6FB" />
+    <path d="M-5,3 L-2,0 L1,2 L4,-2 L5,3 Z" fill="none" stroke="#F4F6FB" stroke-width="1" />
+    <text x="0" y="36" fill="#9AA2B3" font-family="monospace" font-size="7.5" font-weight="600" text-anchor="middle">MULTIMODAL</text>
+    <text x="0" y="46" fill="#9AA2B3" font-family="monospace" font-size="7.5" font-weight="600" text-anchor="middle">AI</text>
   </g>
-  <path d="M 675,47 L 680,50 L 675,53" stroke="#8B7CFF" stroke-width="1" fill="none" />
+  <path d="M 675,62 L 680,65 L 675,68" stroke="#8B7CFF" stroke-width="1" fill="none" />
 
   <!-- Node 7: MLOps -->
-  <g transform="translate(745, 50)">
-    <circle cx="0" cy="0" r="20" fill="rgba(98, 230, 215, 0.05)" stroke="#62E6D7" stroke-width="1.5" filter="url(#nodeGlow)" />
+  <g transform="translate(745, 65)">
+    <circle cx="0" cy="0" r="18" fill="rgba(98, 230, 215, 0.05)" stroke="#62E6D7" stroke-width="1.5" />
     <!-- Cloud icon -->
-    <path d="M-6,2 A3.5,3.5 0 0,1 -4,-4 A5,5 0 0,1 4,-4 A3.5,3.5 0 0,1 6,2 Z" fill="none" stroke="#62E6D7" stroke-width="1" />
-    <text x="0" y="42" fill="#F4F6FB" font-family="monospace" font-size="7.5" font-weight="700" text-anchor="middle">MLOps</text>
+    <path d="M-5,1.5 A3,3 0 0,1 -3.5,-3 A4.5,4.5 0 0,1 3.5,-3 A3,3 0 0,1 5,1.5 Z" fill="none" stroke="#62E6D7" stroke-width="1" />
+    <text x="0" y="36" fill="#9AA2B3" font-family="monospace" font-size="7.5" font-weight="600" text-anchor="middle">MLOps</text>
   </g>
 </svg>

@@ -26,9 +26,9 @@
     <!-- Gradient Top Accent Line -->
     <rect width="200" height="2" fill="url(#violetCyan)" rx="1" />
     <!-- Metrics -->
-    <text x="20" y="42" fill="#F4F6FB" font-family="-apple-system, system-ui, sans-serif" font-size="24" font-weight="800">2026</text>
-    <text x="20" y="66" fill="#9AA2B3" font-family="monospace" font-size="9.5" font-weight="600">Selected for Google Cloud</text>
-    <text x="20" y="78" fill="#62E6D7" font-family="monospace" font-size="9" font-weight="600">Arcade Facilitator 2026</text>
+    <text x="20" y="42" fill="#F4F6FB" font-family="-apple-system, system-ui, sans-serif" font-size="18" font-weight="800" letter-spacing="-0.5">SELECTED</text>
+    <text x="20" y="66" fill="#9AA2B3" font-family="monospace" font-size="9.5" font-weight="600">Google Cloud Arcade</text>
+    <text x="20" y="78" fill="#62E6D7" font-family="monospace" font-size="9" font-weight="600">Facilitator 2026</text>
   </g>
 
   <!-- Card 3: Amazon ML School -->
