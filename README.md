@@ -35,14 +35,13 @@ I build practical intelligent applications across Machine Learning, Generative A
 
 ### Selected Work
 
-#### ✦ `01 / FEATURED` &nbsp; **EXPENSEMATE**
-> **Multilingual Voice-First Financial Assistant**
->
+#### ➔ `PROJECT 01 / FEATURED CASE STUDY` &nbsp; **EXPENSEMATE**
+##### **Multilingual Voice-First Financial Assistant** (Primary Showcase)
 > A multilingual voice-first financial assistant supporting English, Hindi, and Telugu. It combines real-time voice interactions, Gemini function calling, and multi-agent workflows to parse spoken commands into structured financial summaries.
 
-```text
-Voice Input ──➔ Speech Recognition (ASR) ──➔ Intent/NLP ──➔ AI Agent ──➔ Gemini Function ──➔ Financial Action ──➔ Voice Response (TTS)
-```
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/expensemate-pipeline.svg" alt="ExpenseMate Voice Pipeline Architecture" width="830" style="max-width: 100%; border-radius: 6px; margin: 12px 0;" />
+</div>
 
 * **Core Stack:** `LiveKit` &middot; `Google Gemini` &middot; `Murf` &middot; `ASR/TTS` &middot; `AI Agents`
 * **Interactive Scope:** English, Hindi, Telugu, and code-mixed multilingual interaction, low-latency WebRTC, and outbound calling configurations.
@@ -50,19 +49,17 @@ Voice Input ──➔ Speech Recognition (ASR) ──➔ Intent/NLP ──➔ AI
 
 <br />
 
-#### ✦ `02 / SYSTEM` &nbsp; **VENDOR IQ**
-> **Vendor Reliability Intelligence & Procurement Risk Platform**
->
-> Deployed as part of Infosys Springboard Virtual Internship 7.0. Ingests procurement telemetry and scoring vectors to calculate risk signals across active vendor pipelines.
+#### ➔ `PROJECT 02` &nbsp; **VENDOR IQ**
+##### **Vendor Reliability Intelligence & Procurement Risk Platform**
+> Developed as part of Infosys Springboard Virtual Internship 7.0. Ingests procurement telemetry and scoring vectors to calculate risk signals across active vendor pipelines.
 
 * **Core Stack:** `FastAPI` &middot; `Angular` &middot; `PostgreSQL` &middot; `SQLAlchemy` &middot; `JWT`
 * **Telemetry:** [View Source](https://github.com/Jhansi48/Infosys-Project) &nbsp;&middot;&nbsp; [Live Demo](https://vendoriq-rho.vercel.app/)
 
 <br />
 
-#### ✦ `03 / UTILITY` &nbsp; **TELEGRAM EXPENSE BOT**
-> **Voice → Structured Financial Data Engine**
->
+#### ➔ `PROJECT 03` &nbsp; **TELEGRAM VOICE EXPENSE BOT**
+##### **Voice → Structured Financial Data**
 > Translates spoken financial entries into formatted database spreadsheets using Whisper automatic voice transcription.
 
 * **Core Stack:** `Whisper` &middot; `Telegram API` &middot; `Python` &middot; `Pandas` &middot; `OpenPyXL`
@@ -70,9 +67,8 @@ Voice Input ──➔ Speech Recognition (ASR) ──➔ Intent/NLP ──➔ AI
 
 <br />
 
-#### ✦ `04 / EXPERIMENTAL` &nbsp; **GESTURE CONTROLLER**
-> **Computer Vision Game Controller**
->
+#### ➔ `PROJECT 04` &nbsp; **GESTURE-CONTROLLED SUBWAY SURFERS**
+##### **Computer Vision Game Controller**
 > Real-time gameplay controller translating MediaPipe keypoint tracking coordinates and OpenCV frame processing into desktop controls.
 
 * **Core Stack:** `OpenCV` &middot; `MediaPipe` &middot; `PyAutoGUI`
@@ -104,9 +100,9 @@ SkillForge  ..........................  Artificial Intelligence & Python Intern 
 
 | **LeetCode** | **Google Cloud** |
 | :--- | :--- |
-| `209+` Problems Solved | `Selected` for Google Cloud Arcade Facilitator 2026 |
+| `209+` LeetCode Problems Solved | `Selected` for Google Cloud Arcade Facilitator 2026 |
 | **Amazon ML School** | **B.Tech Academics** |
-| `Shortlisted` candidate (2026) | `9.19 / 10` Cumulative GPA (ANITS, Visakhapatnam) |
+| `Shortlisted` for Amazon ML Summer School 2026 | `CGPA 9.19/10` (ANITS, Visakhapatnam) |
 
 ---
 
