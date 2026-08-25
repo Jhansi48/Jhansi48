@@ -45,16 +45,16 @@ I build practical intelligent applications across Machine Learning, Generative A
 
 * **Core Stack:** `LiveKit` &middot; `Google Gemini` &middot; `Murf` &middot; `ASR/TTS` &middot; `AI Agents`
 * **Interactive Scope:** English, Hindi, Telugu, and code-mixed multilingual interaction, low-latency WebRTC, and outbound calling configurations.
-* **Telemetry:** [View Source](https://github.com/Jhansi48/murf-livekit-starter) &nbsp;&middot;&nbsp; [Technical Deep Dive](https://dev.to/jhansi_lakshmisambhana/from-make-it-talk-to-make-it-think-my-10-day-voice-ai-journey-3280)
+* **Explore:** [View Source](https://github.com/Jhansi48/murf-livekit-starter) &nbsp;&middot;&nbsp; [Technical Deep Dive](https://dev.to/jhansi_lakshmisambhana/from-make-it-talk-to-make-it-think-my-10-day-voice-ai-journey-3280)
 
 <br />
 
 #### ➔ `PROJECT 02` &nbsp; **VENDOR IQ**
 ##### **Vendor Reliability Intelligence & Procurement Risk Platform**
-> Developed as part of Infosys Springboard Virtual Internship 7.0. Ingests procurement telemetry and scoring vectors to calculate risk signals across active vendor pipelines.
+> Developed as part of Infosys Springboard Virtual Internship 7.0. Analyzes procurement data and vendor reliability signals to support risk-aware decision making.
 
 * **Core Stack:** `FastAPI` &middot; `Angular` &middot; `PostgreSQL` &middot; `SQLAlchemy` &middot; `JWT`
-* **Telemetry:** [View Source](https://github.com/Jhansi48/Infosys-Project) &nbsp;&middot;&nbsp; [Live Demo](https://vendoriq-rho.vercel.app/)
+* **Explore:** [View Source](https://github.com/Jhansi48/Infosys-Project) &nbsp;&middot;&nbsp; [Live Demo](https://vendoriq-rho.vercel.app/)
 
 <br />
 
@@ -63,7 +63,7 @@ I build practical intelligent applications across Machine Learning, Generative A
 > Translates spoken financial entries into formatted database spreadsheets using Whisper automatic voice transcription.
 
 * **Core Stack:** `Whisper` &middot; `Telegram API` &middot; `Python` &middot; `Pandas` &middot; `OpenPyXL`
-* **Telemetry:** [View Source](https://github.com/Jhansi48/expense-telegram-bot)
+* **Explore:** [View Source](https://github.com/Jhansi48/expense-telegram-bot)
 
 <br />
 
@@ -72,7 +72,7 @@ I build practical intelligent applications across Machine Learning, Generative A
 > Real-time gameplay controller translating MediaPipe keypoint tracking coordinates and OpenCV frame processing into desktop controls.
 
 * **Core Stack:** `OpenCV` &middot; `MediaPipe` &middot; `PyAutoGUI`
-* **Telemetry:** [View Source](https://github.com/Jhansi48/AI-Gesture-SubwaySurfers)
+* **Explore:** [View Source](https://github.com/Jhansi48/AI-Gesture-SubwaySurfers)
 
 ---
 
@@ -106,11 +106,13 @@ SkillForge  ..........................  Artificial Intelligence & Python Intern 
 
 ---
 
-### Telemetry
+### GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jhansi48&show_icons=true&theme=custom&title_color=8b7cff&icon_color=62e6d7&text_color=9aa2b3&bg_color=08090d&hide_border=true&rank_icon=github" height="135" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhansi48&layout=compact&theme=custom&title_color=8b7cff&icon_color=62e6d7&text_color=9aa2b3&bg_color=08090d&hide_border=true" height="135" alt="Top Languages" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jhansi48&show_icons=true&hide_border=true&bg_color=08090D&title_color=8B7CFF&icon_color=62E6D7&text_color=FFFFFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhansi48&layout=compact&hide_border=true&bg_color=08090D&title_color=8B7CFF&text_color=FFFFFF)
+
 </div>
 
 ---
