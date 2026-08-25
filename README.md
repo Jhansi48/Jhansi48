@@ -107,11 +107,11 @@ Currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at ANITS, 
 </div>
 <p style="font-size: 10px; color: #8B7CFF; font-family: monospace; margin: 15px 0 6px 0; font-weight: 600; letter-spacing: 0.5px;">Core Stack</p>
 <p style="margin: 0 0 15px 0; line-height: 1.8;">
-  <code><font color="#8B7CFF">LiveKit</font></code> &nbsp;
-  <code><font color="#8B7CFF">Google Gemini</font></code> &nbsp;
-  <code><font color="#8B7CFF">Murf</font></code> &nbsp;
-  <code><font color="#8B7CFF">ASR/TTS</font></code> &nbsp;
-  <code><font color="#8B7CFF">AI Agents</font></code>
+<table style="display: inline-block; border-collapse: collapse; margin-right: 6px; margin-bottom: 6px;"><tr style="border: none;"><td style="border: 1px solid rgba(139, 124, 255, 0.25); background: #0A0C10; padding: 2px 8px; border-radius: 4px;">$\color{#8B7CFF}{\text{\texttt{LiveKit}}}$</td></tr></table>
+<table style="display: inline-block; border-collapse: collapse; margin-right: 6px; margin-bottom: 6px;"><tr style="border: none;"><td style="border: 1px solid rgba(139, 124, 255, 0.25); background: #0A0C10; padding: 2px 8px; border-radius: 4px;">$\color{#8B7CFF}{\text{\texttt{Google Gemini}}}$</td></tr></table>
+<table style="display: inline-block; border-collapse: collapse; margin-right: 6px; margin-bottom: 6px;"><tr style="border: none;"><td style="border: 1px solid rgba(139, 124, 255, 0.25); background: #0A0C10; padding: 2px 8px; border-radius: 4px;">$\color{#8B7CFF}{\text{\texttt{Murf}}}$</td></tr></table>
+<table style="display: inline-block; border-collapse: collapse; margin-right: 6px; margin-bottom: 6px;"><tr style="border: none;"><td style="border: 1px solid rgba(139, 124, 255, 0.25); background: #0A0C10; padding: 2px 8px; border-radius: 4px;">$\color{#8B7CFF}{\text{\texttt{ASR/TTS}}}$</td></tr></table>
+<table style="display: inline-block; border-collapse: collapse; margin-right: 6px; margin-bottom: 6px;"><tr style="border: none;"><td style="border: 1px solid rgba(139, 124, 255, 0.25); background: #0A0C10; padding: 2px 8px; border-radius: 4px;">$\color{#8B7CFF}{\text{\texttt{AI Agents}}}$</td></tr></table>
 </p>
 <p style="font-size: 10px; color: #8B7CFF; font-family: monospace; margin: 10px 0 4px 0; font-weight: 600; letter-spacing: 0.5px;">Interactive Scope</p>
 <p style="margin: 0 0 15px 0; font-size: 11.5px; font-family: monospace; color: #9AA2B3;">English · Hindi · Telugu · code-mixed multilingual interaction · low-latency WebRTC · outbound calling</p>
@@ -136,11 +136,11 @@ Currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at ANITS, 
 </div>
 <p style="font-size: 10px; color: #62E6D7; font-family: monospace; margin: 15px 0 6px 0; font-weight: 600; letter-spacing: 0.5px;">Core Stack</p>
 <p style="margin: 0 0 15px 0; line-height: 1.8;">
-  <code><font color="#62E6D7">FastAPI</font></code> &nbsp;
-  <code><font color="#62E6D7">Angular</font></code> &nbsp;
-  <code><font color="#62E6D7">PostgreSQL</font></code> &nbsp;
-  <code><font color="#62E6D7">SQLAlchemy</font></code> &nbsp;
-  <code><font color="#62E6D7">JWT</font></code>
+<table style="display: inline-block; border-collapse: collapse; margin-right: 6px; margin-bottom: 6px;"><tr style="border: none;"><td style="border: 1px solid rgba(98, 230, 215, 0.25); background: #0A0C10; padding: 2px 8px; border-radius: 4px;">$\color{#62E6D7}{\text{\texttt{FastAPI}}}$</td></tr></table>
+<table style="display: inline-block; border-collapse: collapse; margin-right: 6px; margin-bottom: 6px;"><tr style="border: none;"><td style="border: 1px solid rgba(98, 230, 215, 0.25); background: #0A0C10; padding: 2px 8px; border-radius: 4px;">$\color{#62E6D7}{\text{\texttt{Angular}}}$</td></tr></table>
+<table style="display: inline-block; border-collapse: collapse; margin-right: 6px; margin-bottom: 6px;"><tr style="border: none;"><td style="border: 1px solid rgba(98, 230, 215, 0.25); background: #0A0C10; padding: 2px 8px; border-radius: 4px;">$\color{#62E6D7}{\text{\texttt{PostgreSQL}}}$</td></tr></table>
+<table style="display: inline-block; border-collapse: collapse; margin-right: 6px; margin-bottom: 6px;"><tr style="border: none;"><td style="border: 1px solid rgba(98, 230, 215, 0.25); background: #0A0C10; padding: 2px 8px; border-radius: 4px;">$\color{#62E6D7}{\text{\texttt{SQLAlchemy}}}$</td></tr></table>
+<table style="display: inline-block; border-collapse: collapse; margin-right: 6px; margin-bottom: 6px;"><tr style="border: none;"><td style="border: 1px solid rgba(98, 230, 215, 0.25); background: #0A0C10; padding: 2px 8px; border-radius: 4px;">$\color{#62E6D7}{\text{\texttt{JWT}}}$</td></tr></table>
 </p>
 <p style="margin: 0; font-size: 12px; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">
 <a href="https://github.com/Jhansi48/Infosys-Project" style="color: #62E6D7; text-decoration: none; font-weight: 600;">View Source &rarr;</a> &nbsp;&middot;&nbsp; 
@@ -163,11 +163,11 @@ Currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at ANITS, 
 </div>
 <p style="font-size: 10px; color: #8B7CFF; font-family: monospace; margin: 15px 0 6px 0; font-weight: 600; letter-spacing: 0.5px;">Core Stack</p>
 <p style="margin: 0 0 15px 0; line-height: 1.8;">
-  <code><font color="#8B7CFF">Whisper</font></code> &nbsp;
-  <code><font color="#8B7CFF">Telegram API</font></code> &nbsp;
-  <code><font color="#8B7CFF">Python</font></code> &nbsp;
-  <code><font color="#8B7CFF">Pandas</font></code> &nbsp;
-  <code><font color="#8B7CFF">OpenPyXL</font></code>
+<table style="display: inline-block; border-collapse: collapse; margin-right: 6px; margin-bottom: 6px;"><tr style="border: none;"><td style="border: 1px solid rgba(139, 124, 255, 0.25); background: #0A0C10; padding: 2px 8px; border-radius: 4px;">$\color{#8B7CFF}{\text{\texttt{Whisper}}}$</td></tr></table>
+<table style="display: inline-block; border-collapse: collapse; margin-right: 6px; margin-bottom: 6px;"><tr style="border: none;"><td style="border: 1px solid rgba(139, 124, 255, 0.25); background: #0A0C10; padding: 2px 8px; border-radius: 4px;">$\color{#8B7CFF}{\text{\texttt{Telegram API}}}$</td></tr></table>
+<table style="display: inline-block; border-collapse: collapse; margin-right: 6px; margin-bottom: 6px;"><tr style="border: none;"><td style="border: 1px solid rgba(139, 124, 255, 0.25); background: #0A0C10; padding: 2px 8px; border-radius: 4px;">$\color{#8B7CFF}{\text{\texttt{Python}}}$</td></tr></table>
+<table style="display: inline-block; border-collapse: collapse; margin-right: 6px; margin-bottom: 6px;"><tr style="border: none;"><td style="border: 1px solid rgba(139, 124, 255, 0.25); background: #0A0C10; padding: 2px 8px; border-radius: 4px;">$\color{#8B7CFF}{\text{\texttt{Pandas}}}$</td></tr></table>
+<table style="display: inline-block; border-collapse: collapse; margin-right: 6px; margin-bottom: 6px;"><tr style="border: none;"><td style="border: 1px solid rgba(139, 124, 255, 0.25); background: #0A0C10; padding: 2px 8px; border-radius: 4px;">$\color{#8B7CFF}{\text{\texttt{OpenPyXL}}}$</td></tr></table>
 </p>
 <p style="margin: 0; font-size: 12px; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">
 <a href="https://github.com/Jhansi48/expense-telegram-bot" style="color: #62E6D7; text-decoration: none; font-weight: 600;">View Source &rarr;</a>
@@ -189,9 +189,9 @@ Currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at ANITS, 
 </div>
 <p style="font-size: 10px; color: #62E6D7; font-family: monospace; margin: 15px 0 6px 0; font-weight: 600; letter-spacing: 0.5px;">Core Stack</p>
 <p style="margin: 0 0 15px 0; line-height: 1.8;">
-  <code><font color="#62E6D7">OpenCV</font></code> &nbsp;
-  <code><font color="#62E6D7">MediaPipe</font></code> &nbsp;
-  <code><font color="#62E6D7">PyAutoGUI</font></code>
+<table style="display: inline-block; border-collapse: collapse; margin-right: 6px; margin-bottom: 6px;"><tr style="border: none;"><td style="border: 1px solid rgba(98, 230, 215, 0.25); background: #0A0C10; padding: 2px 8px; border-radius: 4px;">$\color{#62E6D7}{\text{\texttt{OpenCV}}}$</td></tr></table>
+<table style="display: inline-block; border-collapse: collapse; margin-right: 6px; margin-bottom: 6px;"><tr style="border: none;"><td style="border: 1px solid rgba(98, 230, 215, 0.25); background: #0A0C10; padding: 2px 8px; border-radius: 4px;">$\color{#62E6D7}{\text{\texttt{MediaPipe}}}$</td></tr></table>
+<table style="display: inline-block; border-collapse: collapse; margin-right: 6px; margin-bottom: 6px;"><tr style="border: none;"><td style="border: 1px solid rgba(98, 230, 215, 0.25); background: #0A0C10; padding: 2px 8px; border-radius: 4px;">$\color{#62E6D7}{\text{\texttt{PyAutoGUI}}}$</td></tr></table>
 </p>
 <p style="margin: 0; font-size: 12px; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">
 <a href="https://github.com/Jhansi48/AI-Gesture-SubwaySurfers" style="color: #62E6D7; text-decoration: none; font-weight: 600;">View Source &rarr;</a>
