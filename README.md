@@ -99,14 +99,20 @@ Currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at ANITS, 
 <td style="border-top: 1px solid rgba(139, 124, 255, 0.25); border-left: 1px solid rgba(139, 124, 255, 0.25); border-bottom: 1px solid rgba(98, 230, 215, 0.25); border-right: 1px solid rgba(98, 230, 215, 0.25); background: #0A0C10; padding: 20px; border-radius: 6px; vertical-align: top;">
 <div style="height: 2px; background: #8B7CFF; border-radius: 1px; margin-bottom: 12px;"></div>
 <p style="color: #8B7CFF; font-family: monospace; font-size: 10px; margin: 0 0 4px 0; font-weight: 600; letter-spacing: 1px;">PROJECT 01</p>
-<h2 style="margin: 0 0 2px 0; font-size: 20px; color: #F4F6FB; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">ExpenseMate</h2>
+<h2 style="margin: 0 0 2px 0; font-size: 20px; color: #8B7CFF; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">ExpenseMate</h2>
 <h5 style="margin: 0 0 12px 0; color: #8B7CFF; font-size: 12px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600;">Multilingual Voice-First Financial Assistant</h5>
 <p style="color: #9AA2B3; font-size: 12.5px; margin: 0 0 15px 0; line-height: 1.4; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">A multilingual voice-first financial assistant supporting English, Hindi, and Telugu. It combines real-time voice interactions, Gemini function calling, and multi-agent workflows to parse spoken commands into structured financial summaries.</p>
 <div align="center" style="margin: 15px 0;">
 <img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/expensemate-pipeline.svg" alt="ExpenseMate Voice Pipeline" width="830" style="max-width: 100%; border: none;" />
 </div>
-<p style="font-size: 10px; color: #8B7CFF; font-family: monospace; margin: 15px 0 4px 0; font-weight: 600; letter-spacing: 0.5px;">Core Stack</p>
-<p style="margin: 0 0 8px 0; font-size: 11.5px; font-family: monospace; color: #F4F6FB;">LiveKit &middot; Google Gemini &middot; Murf &middot; ASR/TTS &middot; AI Agents</p>
+<p style="font-size: 10px; color: #8B7CFF; font-family: monospace; margin: 15px 0 6px 0; font-weight: 600; letter-spacing: 0.5px;">Core Stack</p>
+<p style="margin: 0 0 15px 0; line-height: 1.8;">
+  <code><font color="#8B7CFF">LiveKit</font></code> &nbsp;
+  <code><font color="#8B7CFF">Google Gemini</font></code> &nbsp;
+  <code><font color="#8B7CFF">Murf</font></code> &nbsp;
+  <code><font color="#8B7CFF">ASR/TTS</font></code> &nbsp;
+  <code><font color="#8B7CFF">AI Agents</font></code>
+</p>
 <p style="font-size: 10px; color: #8B7CFF; font-family: monospace; margin: 10px 0 4px 0; font-weight: 600; letter-spacing: 0.5px;">Interactive Scope</p>
 <p style="margin: 0 0 15px 0; font-size: 11.5px; font-family: monospace; color: #9AA2B3;">English · Hindi · Telugu · code-mixed multilingual interaction · low-latency WebRTC · outbound calling</p>
 <p style="margin: 0; font-size: 12px; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">
@@ -122,14 +128,20 @@ Currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at ANITS, 
 <td style="border-top: 1px solid rgba(139, 124, 255, 0.25); border-left: 1px solid rgba(139, 124, 255, 0.25); border-bottom: 1px solid rgba(98, 230, 215, 0.25); border-right: 1px solid rgba(98, 230, 215, 0.25); background: #0A0C10; padding: 20px; border-radius: 6px; vertical-align: top;">
 <div style="height: 2px; background: #62E6D7; border-radius: 1px; margin-bottom: 12px;"></div>
 <p style="color: #62E6D7; font-family: monospace; font-size: 10px; margin: 0 0 4px 0; font-weight: 600; letter-spacing: 1px;">PROJECT 02</p>
-<h2 style="margin: 0 0 2px 0; font-size: 20px; color: #F4F6FB; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Vendor IQ</h2>
+<h2 style="margin: 0 0 2px 0; font-size: 20px; color: #62E6D7; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Vendor IQ</h2>
 <h5 style="margin: 0 0 12px 0; color: #62E6D7; font-size: 12px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600;">Vendor Reliability &amp; Procurement Risk Platform</h5>
 <p style="color: #9AA2B3; font-size: 12.5px; margin: 0 0 15px 0; line-height: 1.4; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Analyzes procurement data and vendor reliability signals to support risk-aware decision making.</p>
 <div align="center" style="margin: 15px 0;">
 <img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/vendoriq-pipeline.svg" alt="Vendor IQ Pipeline" width="180" style="max-width: 100%; border: none;" />
 </div>
-<p style="font-size: 10px; color: #62E6D7; font-family: monospace; margin: 15px 0 4px 0; font-weight: 600; letter-spacing: 0.5px;">Core Stack</p>
-<p style="margin: 0 0 15px 0; font-size: 11.5px; font-family: monospace; color: #F4F6FB;">FastAPI &middot; Angular &middot; PostgreSQL &middot; SQLAlchemy &middot; JWT</p>
+<p style="font-size: 10px; color: #62E6D7; font-family: monospace; margin: 15px 0 6px 0; font-weight: 600; letter-spacing: 0.5px;">Core Stack</p>
+<p style="margin: 0 0 15px 0; line-height: 1.8;">
+  <code><font color="#62E6D7">FastAPI</font></code> &nbsp;
+  <code><font color="#62E6D7">Angular</font></code> &nbsp;
+  <code><font color="#62E6D7">PostgreSQL</font></code> &nbsp;
+  <code><font color="#62E6D7">SQLAlchemy</font></code> &nbsp;
+  <code><font color="#62E6D7">JWT</font></code>
+</p>
 <p style="margin: 0; font-size: 12px; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">
 <a href="https://github.com/Jhansi48/Infosys-Project" style="color: #62E6D7; text-decoration: none; font-weight: 600;">View Source &rarr;</a> &nbsp;&middot;&nbsp; 
 <a href="https://vendoriq-rho.vercel.app/" style="color: #62E6D7; text-decoration: none; font-weight: 600;">Live Demo &nearrow;</a>
@@ -143,14 +155,20 @@ Currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at ANITS, 
 <td style="border-top: 1px solid rgba(139, 124, 255, 0.25); border-left: 1px solid rgba(139, 124, 255, 0.25); border-bottom: 1px solid rgba(98, 230, 215, 0.25); border-right: 1px solid rgba(98, 230, 215, 0.25); background: #0A0C10; padding: 20px; border-radius: 6px; vertical-align: top;">
 <div style="height: 2px; background: #8B7CFF; border-radius: 1px; margin-bottom: 12px;"></div>
 <p style="color: #8B7CFF; font-family: monospace; font-size: 10px; margin: 0 0 4px 0; font-weight: 600; letter-spacing: 1px;">PROJECT 03</p>
-<h2 style="margin: 0 0 2px 0; font-size: 20px; color: #F4F6FB; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Telegram Voice Expense Bot</h2>
+<h2 style="margin: 0 0 2px 0; font-size: 20px; color: #8B7CFF; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Telegram Voice Expense Bot</h2>
 <h5 style="margin: 0 0 12px 0; color: #8B7CFF; font-size: 12px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600;">Voice ➔ Structured Financial Data</h5>
 <p style="color: #9AA2B3; font-size: 12.5px; margin: 0 0 15px 0; line-height: 1.4; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Translates spoken financial entries into structured spreadsheet/database-ready data using Whisper automatic voice transcription.</p>
 <div align="center" style="margin: 15px 0;">
 <img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/telegrambot-pipeline.svg" alt="Telegram Bot Pipeline" width="180" style="max-width: 100%; border: none;" />
 </div>
-<p style="font-size: 10px; color: #8B7CFF; font-family: monospace; margin: 15px 0 4px 0; font-weight: 600; letter-spacing: 0.5px;">Core Stack</p>
-<p style="margin: 0 0 15px 0; font-size: 11.5px; font-family: monospace; color: #F4F6FB;">Whisper &middot; Telegram API &middot; Python &middot; Pandas &middot; OpenPyXL</p>
+<p style="font-size: 10px; color: #8B7CFF; font-family: monospace; margin: 15px 0 6px 0; font-weight: 600; letter-spacing: 0.5px;">Core Stack</p>
+<p style="margin: 0 0 15px 0; line-height: 1.8;">
+  <code><font color="#8B7CFF">Whisper</font></code> &nbsp;
+  <code><font color="#8B7CFF">Telegram API</font></code> &nbsp;
+  <code><font color="#8B7CFF">Python</font></code> &nbsp;
+  <code><font color="#8B7CFF">Pandas</font></code> &nbsp;
+  <code><font color="#8B7CFF">OpenPyXL</font></code>
+</p>
 <p style="margin: 0; font-size: 12px; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">
 <a href="https://github.com/Jhansi48/expense-telegram-bot" style="color: #62E6D7; text-decoration: none; font-weight: 600;">View Source &rarr;</a>
 </p>
@@ -163,14 +181,18 @@ Currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at ANITS, 
 <td style="border-top: 1px solid rgba(139, 124, 255, 0.25); border-left: 1px solid rgba(139, 124, 255, 0.25); border-bottom: 1px solid rgba(98, 230, 215, 0.25); border-right: 1px solid rgba(98, 230, 215, 0.25); background: #0A0C10; padding: 20px; border-radius: 6px; vertical-align: top;">
 <div style="height: 2px; background: #62E6D7; border-radius: 1px; margin-bottom: 12px;"></div>
 <p style="color: #62E6D7; font-family: monospace; font-size: 10px; margin: 0 0 4px 0; font-weight: 600; letter-spacing: 1px;">PROJECT 04</p>
-<h2 style="margin: 0 0 2px 0; font-size: 20px; color: #F4F6FB; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Gesture-Controlled Subway Surfers</h2>
+<h2 style="margin: 0 0 2px 0; font-size: 20px; color: #62E6D7; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Gesture-Controlled Subway Surfers</h2>
 <h5 style="margin: 0 0 12px 0; color: #62E6D7; font-size: 12px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600;">Computer Vision Game Controller</h5>
 <p style="color: #9AA2B3; font-size: 12.5px; margin: 0 0 15px 0; line-height: 1.4; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Real-time gameplay controller translating MediaPipe keypoint tracking and OpenCV frame processing into desktop controls.</p>
 <div align="center" style="margin: 15px 0;">
 <img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/gesture-pipeline.svg" alt="Gesture Pipeline" width="550" style="max-width: 100%; border: none;" />
 </div>
-<p style="font-size: 10px; color: #62E6D7; font-family: monospace; margin: 15px 0 4px 0; font-weight: 600; letter-spacing: 0.5px;">Core Stack</p>
-<p style="margin: 0 0 15px 0; font-size: 11.5px; font-family: monospace; color: #F4F6FB;">OpenCV &middot; MediaPipe &middot; PyAutoGUI</p>
+<p style="font-size: 10px; color: #62E6D7; font-family: monospace; margin: 15px 0 6px 0; font-weight: 600; letter-spacing: 0.5px;">Core Stack</p>
+<p style="margin: 0 0 15px 0; line-height: 1.8;">
+  <code><font color="#62E6D7">OpenCV</font></code> &nbsp;
+  <code><font color="#62E6D7">MediaPipe</font></code> &nbsp;
+  <code><font color="#62E6D7">PyAutoGUI</font></code>
+</p>
 <p style="margin: 0; font-size: 12px; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">
 <a href="https://github.com/Jhansi48/AI-Gesture-SubwaySurfers" style="color: #62E6D7; text-decoration: none; font-weight: 600;">View Source &rarr;</a>
 </p>
