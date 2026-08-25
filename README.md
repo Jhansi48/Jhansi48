@@ -35,7 +35,7 @@ I build practical intelligent applications across Machine Learning, Generative A
 
 ### Selected Work
 
-#### ➔ `PROJECT 01 / FEATURED CASE STUDY` &nbsp; **EXPENSEMATE**
+#### ➔ `PROJECT 01 / FEATURED PROJECT` &nbsp; **EXPENSEMATE**
 ##### **Multilingual Voice-First Financial Assistant** (Primary Showcase)
 > A multilingual voice-first financial assistant supporting English, Hindi, and Telugu. It combines real-time voice interactions, Gemini function calling, and multi-agent workflows to parse spoken commands into structured financial summaries.
 
@@ -49,38 +49,87 @@ I build practical intelligent applications across Machine Learning, Generative A
 
 <br />
 
-#### ➔ `PROJECT 02` &nbsp; **VENDOR IQ**
-##### **Vendor Reliability Intelligence & Procurement Risk Platform**
-> Developed as part of Infosys Springboard Virtual Internship 7.0. Analyzes procurement data and vendor reliability signals to support risk-aware decision making.
-
-* **Core Stack:** `FastAPI` &middot; `Angular` &middot; `PostgreSQL` &middot; `SQLAlchemy` &middot; `JWT`
-* **Explore:** [View Source](https://github.com/Jhansi48/Infosys-Project) &nbsp;&middot;&nbsp; [Live Demo](https://vendoriq-rho.vercel.app/)
+<table width="100%" style="border-collapse: collapse; border: none; margin-top: 15px;">
+  <tr style="border: none;">
+    <!-- Project 02 Panel -->
+    <td width="48%" style="border: 1px solid rgba(255, 255, 255, 0.05); background: #0A0C10; padding: 15px; border-radius: 6px; vertical-align: top;">
+      <table width="100%" style="border-collapse: collapse; border: none;">
+        <tr style="border: none;">
+          <td width="60%" style="border: none; padding: 0; vertical-align: top;">
+            <code style="color: #8B7CFF; font-size: 9px;">PROJECT 02</code>
+            <h3 style="margin: 4px 0 2px 0; font-size: 15px; color: #F4F6FB;">VENDOR IQ</h3>
+            <h5 style="margin: 0 0 10px 0; color: #62E6D7; font-size: 11px;">Vendor Reliability &amp; Risk Platform</h5>
+            <p style="color: #9AA2B3; font-size: 11.5px; margin-bottom: 12px; line-height: 1.4;">Analyzes procurement data and vendor reliability signals to support risk-aware decision making.</p>
+            <code style="font-size: 9px; color: #8B7CFF; display: block; margin-bottom: 4px;">Core Stack</code>
+            <p style="margin-bottom: 12px; font-size: 11px;"><code>FastAPI</code> <code>Angular</code> <code>PostgreSQL</code> <code>SQLAlchemy</code> <code>JWT</code></p>
+            <p style="margin-bottom: 0; font-size: 11px;">
+              <a href="https://github.com/Jhansi48/Infosys-Project">View Source &rarr;</a> &nbsp;&middot;&nbsp; 
+              <a href="https://vendoriq-rho.vercel.app/">Live Demo &nearrow;</a>
+            </p>
+          </td>
+          <td width="40%" style="border: none; padding: 0 0 0 10px; vertical-align: middle;" align="right">
+            <img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/vendoriq-pipeline.svg" alt="Vendor IQ Pipeline" width="130" style="max-width: 100%;" />
+          </td>
+        </tr>
+      </table>
+    </td>
+    
+    <!-- Spacer column -->
+    <td width="4%" style="border: none; padding: 0;"></td>
+    
+    <!-- Project 03 Panel -->
+    <td width="48%" style="border: 1px solid rgba(255, 255, 255, 0.05); background: #0A0C10; padding: 15px; border-radius: 6px; vertical-align: top;">
+      <table width="100%" style="border-collapse: collapse; border: none;">
+        <tr style="border: none;">
+          <td width="60%" style="border: none; padding: 0; vertical-align: top;">
+            <code style="color: #8B7CFF; font-size: 9px;">PROJECT 03</code>
+            <h3 style="margin: 4px 0 2px 0; font-size: 15px; color: #F4F6FB;">TELEGRAM VOICE EXPENSE BOT</h3>
+            <h5 style="margin: 0 0 10px 0; color: #62E6D7; font-size: 11px;">Voice ➔ Structured Data</h5>
+            <p style="color: #9AA2B3; font-size: 11.5px; margin-bottom: 12px; line-height: 1.4;">Translates spoken financial entries into formatted database spreadsheets using Whisper automatic voice transcription.</p>
+            <code style="font-size: 9px; color: #8B7CFF; display: block; margin-bottom: 4px;">Core Stack</code>
+            <p style="margin-bottom: 12px; font-size: 11px;"><code>Whisper</code> <code>Telegram API</code> <code>Python</code> <code>Pandas</code> <code>OpenPyXL</code></p>
+            <p style="margin-bottom: 0; font-size: 11px;">
+              <a href="https://github.com/Jhansi48/expense-telegram-bot">View Source &rarr;</a>
+            </p>
+          </td>
+          <td width="40%" style="border: none; padding: 0 0 0 10px; vertical-align: middle;" align="right">
+            <img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/telegrambot-pipeline.svg" alt="Telegram Bot Pipeline" width="130" style="max-width: 100%;" />
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 <br />
 
-#### ➔ `PROJECT 03` &nbsp; **TELEGRAM VOICE EXPENSE BOT**
-##### **Voice → Structured Financial Data**
-> Translates spoken financial entries into formatted database spreadsheets using Whisper automatic voice transcription.
-
-* **Core Stack:** `Whisper` &middot; `Telegram API` &middot; `Python` &middot; `Pandas` &middot; `OpenPyXL`
-* **Explore:** [View Source](https://github.com/Jhansi48/expense-telegram-bot)
-
-<br />
-
-#### ➔ `PROJECT 04` &nbsp; **GESTURE-CONTROLLED SUBWAY SURFERS**
-##### **Computer Vision Game Controller**
-> Real-time gameplay controller translating MediaPipe keypoint tracking coordinates and OpenCV frame processing into desktop controls.
-
-* **Core Stack:** `OpenCV` &middot; `MediaPipe` &middot; `PyAutoGUI`
-* **Explore:** [View Source](https://github.com/Jhansi48/AI-Gesture-SubwaySurfers)
+<table width="100%" style="border-collapse: collapse; border: 1px solid rgba(255, 255, 255, 0.05); background: #0A0C10; padding: 20px; border-radius: 6px; margin-top: 10px;">
+  <tr style="border: none;">
+    <td width="45%" style="border: none; padding: 20px; vertical-align: top;">
+      <code style="color: #8B7CFF; font-size: 9px;">PROJECT 04</code>
+      <h3 style="margin: 4px 0 2px 0; font-size: 16px; color: #F4F6FB;">GESTURE-CONTROLLED SUBWAY SURFERS</h3>
+      <h5 style="margin: 0 0 10px 0; color: #62E6D7; font-size: 11px;">Computer Vision Game Controller</h5>
+      <p style="color: #9AA2B3; font-size: 12px; margin-bottom: 12px; line-height: 1.4;">Real-time gameplay controller translating MediaPipe keypoint tracking coordinates and OpenCV frame processing into desktop controls.</p>
+      <code style="font-size: 9px; color: #8B7CFF; display: block; margin-bottom: 4px;">Core Stack</code>
+      <p style="margin-bottom: 15px; font-size: 11px;"><code>OpenCV</code> &nbsp; <code>MediaPipe</code> &nbsp; <code>PyAutoGUI</code></p>
+      <p style="margin-bottom: 0; font-size: 11px;">
+        <a href="https://github.com/Jhansi48/AI-Gesture-SubwaySurfers">View Source &rarr;</a>
+      </p>
+    </td>
+    <td width="5%" style="border: none; padding: 0;"></td>
+    <td width="50%" style="border: none; padding: 20px; vertical-align: middle;" align="center">
+      <img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/gesture-pipeline.svg" alt="Gesture Pipeline" width="550" style="max-width: 100%;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### Currently Exploring
+### Currently Exploring / Building Toward
 
-```text
-Machine Learning ➔ Deep Learning ➔ Generative AI ➔ AI Agents ➔ RAG ➔ Multimodal AI ➔ MLOps
-```
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/exploring-roadmap.svg" alt="Exploring Roadmap" width="830" style="max-width: 100%; border-radius: 6px;" />
+</div>
 
 ---
 

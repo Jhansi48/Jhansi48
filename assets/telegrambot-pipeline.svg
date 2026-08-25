@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 270" width="100%" height="100%">
+  <defs>
+    <!-- Accent gradients -->
+    <linearGradient id="boxGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="rgba(139, 124, 255, 0.08)" />
+      <stop offset="100%" stop-color="rgba(98, 230, 215, 0.08)" />
+    </linearGradient>
+  </defs>
+
+  <!-- Frame Container -->
+  <rect x="0.5" y="0.5" width="179" height="269" fill="none" stroke="rgba(255, 255, 255, 0.04)" stroke-width="1" rx="4" />
+
+  <!-- Node 1: Voice -->
+  <g transform="translate(10, 8)">
+    <rect width="160" height="28" fill="url(#boxGrad)" stroke="rgba(139, 124, 255, 0.2)" stroke-width="1" rx="4" />
+    <path d="M 18,10 L 18,16 M 15,13 L 21,13" stroke="#8B7CFF" stroke-width="1.2" stroke-linecap="round" />
+    <text x="32" y="18" fill="#F4F6FB" font-family="monospace" font-size="8.5" font-weight="600" letter-spacing="0.5">VOICE INPUT</text>
+  </g>
+  <path d="M 90,36 L 90,44 M 87,41 L 90,44 L 93,41" stroke="#8B7CFF" stroke-width="1.2" fill="none" />
+
+  <!-- Node 2: Whisper -->
+  <g transform="translate(10, 46)">
+    <rect width="160" height="28" fill="url(#boxGrad)" stroke="rgba(98, 230, 215, 0.2)" stroke-width="1" rx="4" />
+    <circle cx="18" cy="14" r="3" fill="none" stroke="#62E6D7" stroke-width="1.2" />
+    <text x="32" y="18" fill="#F4F6FB" font-family="monospace" font-size="8.5" font-weight="600" letter-spacing="0.5">WHISPER ASR</text>
+  </g>
+  <path d="M 90,74 L 90,82 M 87,79 L 90,82 L 93,79" stroke="#62E6D7" stroke-width="1.2" fill="none" />
+
+  <!-- Node 3: Text -->
+  <g transform="translate(10, 84)">
+    <rect width="160" height="28" fill="url(#boxGrad)" stroke="rgba(139, 124, 255, 0.2)" stroke-width="1" rx="4" />
+    <rect x="13" y="10" width="10" height="8" fill="none" stroke="#8B7CFF" stroke-width="1.2" />
+    <text x="32" y="18" fill="#F4F6FB" font-family="monospace" font-size="8.5" font-weight="600" letter-spacing="0.5">TEXT TRANSCRIPT</text>
+  </g>
+  <path d="M 90,112 L 90,120 M 87,117 L 90,120 L 93,117" stroke="#8B7CFF" stroke-width="1.2" fill="none" />
+
+  <!-- Node 4: Expense Parsing -->
+  <g transform="translate(10, 122)">
+    <rect width="160" height="28" fill="url(#boxGrad)" stroke="rgba(98, 230, 215, 0.2)" stroke-width="1" rx="4" />
+    <circle cx="18" cy="14" r="3.5" fill="none" stroke="#62E6D7" stroke-width="1.2" />
+    <text x="32" y="18" fill="#F4F6FB" font-family="monospace" font-size="8.5" font-weight="600" letter-spacing="0.5">EXPENSE PARSING</text>
+  </g>
+  <path d="M 90,150 L 90,158 M 87,155 L 90,158 L 93,155" stroke="#62E6D7" stroke-width="1.2" fill="none" />
+
+  <!-- Node 5: Structured Data -->
+  <g transform="translate(10, 160)">
+    <rect width="160" height="28" fill="url(#boxGrad)" stroke="rgba(139, 124, 255, 0.2)" stroke-width="1" rx="4" />
+    <path d="M 13,18 C 13,18 15,10 18,10 C 21,10 23,18 23,18" fill="none" stroke="#8B7CFF" stroke-width="1.2" />
+    <text x="32" y="18" fill="#F4F6FB" font-family="monospace" font-size="8.5" font-weight="600" letter-spacing="0.5">STRUCTURED DATA</text>
+  </g>
+  <path d="M 90,188 L 90,196 M 87,193 L 90,196 L 93,193" stroke="#8B7CFF" stroke-width="1.2" fill="none" />
+
+  <!-- Node 6: Spreadsheet -->
+  <g transform="translate(10, 198)">
+    <rect width="160" height="28" fill="rgba(98, 230, 215, 0.05)" stroke="#62E6D7" stroke-width="1" rx="4" style="filter: drop-shadow(0px 0px 4px rgba(98,230,215,0.15));" />
+    <rect x="13" y="9" width="10" height="10" fill="none" stroke="#62E6D7" stroke-width="1.2" />
+    <line x1="16" y1="9" x2="16" y2="19" stroke="#62E6D7" stroke-width="1" />
+    <line x1="13" y1="12" x2="23" y2="12" stroke="#62E6D7" stroke-width="1" />
+    <text x="32" y="18" fill="#F4F6FB" font-family="monospace" font-size="8.5" font-weight="600" letter-spacing="0.5">SPREADSHEET EXPORT</text>
+  </g>
+</svg>
