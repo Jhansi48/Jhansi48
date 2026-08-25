@@ -16,17 +16,17 @@ Currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at ANITS, 
 
 ---
 
-## $\color{#62E6D7}{\text{✦}}$ Tools I Build With
+## $\color{#62E6D7}{\text{✦ Tools I Build With}}$
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; margin-top: 15px;">
 <tr style="border: none;">
-<td width="48%" style="border: 1px solid rgba(139, 124, 255, 0.15); background: #0A0C10; padding: 15px; border-radius: 6px; vertical-align: top;">
+<td width="48%" style="border-top: 1px solid rgba(139, 124, 255, 0.25); border-left: 1px solid rgba(139, 124, 255, 0.25); border-bottom: 1px solid rgba(98, 230, 215, 0.25); border-right: 1px solid rgba(98, 230, 215, 0.25); background: #0A0C10; padding: 15px; border-radius: 6px; vertical-align: top;">
 <div style="height: 2px; background: #8B7CFF; border-radius: 1px; margin-bottom: 8px;"></div>
 <h4 style="margin: 0 0 8px 0; color: #F4F6FB; font-family: monospace; font-size: 11px; letter-spacing: 1px;">INTELLIGENCE</h4>
 <p style="margin: 0; font-size: 12px; color: #9AA2B3; line-height: 1.5; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Python &middot; NumPy &middot; Pandas &middot; Scikit-learn &middot; XGBoost &middot; AutoGluon</p>
 </td>
 <td width="4%" style="border: none; padding: 0;"></td>
-<td width="48%" style="border: 1px solid rgba(98, 230, 215, 0.15); background: #0A0C10; padding: 15px; border-radius: 6px; vertical-align: top;">
+<td width="48%" style="border-top: 1px solid rgba(139, 124, 255, 0.25); border-left: 1px solid rgba(139, 124, 255, 0.25); border-bottom: 1px solid rgba(98, 230, 215, 0.25); border-right: 1px solid rgba(98, 230, 215, 0.25); background: #0A0C10; padding: 15px; border-radius: 6px; vertical-align: top;">
 <div style="height: 2px; background: #62E6D7; border-radius: 1px; margin-bottom: 8px;"></div>
 <h4 style="margin: 0 0 8px 0; color: #F4F6FB; font-family: monospace; font-size: 11px; letter-spacing: 1px;">GENERATIVE &amp; VOICE</h4>
 <p style="margin: 0; font-size: 12px; color: #9AA2B3; line-height: 1.5; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Google Gemini &middot; OpenAI Whisper &middot; LiveKit &middot; Murf &middot; RAG &middot; AI Agents &middot; Function Calling</p>
@@ -34,13 +34,13 @@ Currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at ANITS, 
 </tr>
 <tr style="border: none;"><td height="12" colspan="3" style="border: none; padding: 0;"></td></tr>
 <tr style="border: none;">
-<td width="48%" style="border: 1px solid rgba(98, 230, 215, 0.15); background: #0A0C10; padding: 15px; border-radius: 6px; vertical-align: top;">
+<td width="48%" style="border-top: 1px solid rgba(139, 124, 255, 0.25); border-left: 1px solid rgba(139, 124, 255, 0.25); border-bottom: 1px solid rgba(98, 230, 215, 0.25); border-right: 1px solid rgba(98, 230, 215, 0.25); background: #0A0C10; padding: 15px; border-radius: 6px; vertical-align: top;">
 <div style="height: 2px; background: #62E6D7; border-radius: 1px; margin-bottom: 8px;"></div>
 <h4 style="margin: 0 0 8px 0; color: #F4F6FB; font-family: monospace; font-size: 11px; letter-spacing: 1px;">COMPUTER VISION</h4>
 <p style="margin: 0; font-size: 12px; color: #9AA2B3; line-height: 1.5; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">OpenCV &middot; MediaPipe</p>
 </td>
 <td width="4%" style="border: none; padding: 0;"></td>
-<td width="48%" style="border: 1px solid rgba(139, 124, 255, 0.15); background: #0A0C10; padding: 15px; border-radius: 6px; vertical-align: top;">
+<td width="48%" style="border-top: 1px solid rgba(139, 124, 255, 0.25); border-left: 1px solid rgba(139, 124, 255, 0.25); border-bottom: 1px solid rgba(98, 230, 215, 0.25); border-right: 1px solid rgba(98, 230, 215, 0.25); background: #0A0C10; padding: 15px; border-radius: 6px; vertical-align: top;">
 <div style="height: 2px; background: #8B7CFF; border-radius: 1px; margin-bottom: 8px;"></div>
 <h4 style="margin: 0 0 8px 0; color: #F4F6FB; font-family: monospace; font-size: 11px; letter-spacing: 1px;">APPLICATION</h4>
 <p style="margin: 0; font-size: 12px; color: #9AA2B3; line-height: 1.5; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">FastAPI &middot; Angular &middot; React &middot; TypeScript &middot; SQLAlchemy &middot; JWT</p>
@@ -48,7 +48,7 @@ Currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at ANITS, 
 </tr>
 <tr style="border: none;"><td height="12" colspan="3" style="border: none; padding: 0;"></td></tr>
 <tr style="border: none;">
-<td colspan="3" style="border: 1px solid rgba(139, 124, 255, 0.15); background: #0A0C10; padding: 15px; border-radius: 6px; vertical-align: top;">
+<td colspan="3" style="border-top: 1px solid rgba(139, 124, 255, 0.25); border-left: 1px solid rgba(139, 124, 255, 0.25); border-bottom: 1px solid rgba(98, 230, 215, 0.25); border-right: 1px solid rgba(98, 230, 215, 0.25); background: #0A0C10; padding: 15px; border-radius: 6px; vertical-align: top;">
 <div style="height: 2px; background: #8B7CFF; border-radius: 1px; margin-bottom: 8px;"></div>
 <h4 style="margin: 0 0 8px 0; color: #F4F6FB; font-family: monospace; font-size: 11px; letter-spacing: 1px;">DATA &amp; CLOUD</h4>
 <p style="margin: 0; font-size: 12px; color: #9AA2B3; line-height: 1.5; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">PostgreSQL &middot; MySQL &middot; MongoDB &middot; Firebase &middot; Google Cloud</p>
@@ -58,17 +58,17 @@ Currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at ANITS, 
 
 ---
 
-## $\color{#8B7CFF}{\text{✦}}$ What I Build
+## $\color{#8B7CFF}{\text{✦ What I Build}}$
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; margin-top: 15px;">
 <tr style="border: none;">
-<td width="48%" style="border: 1px solid rgba(139, 124, 255, 0.15); background: #0A0C10; padding: 15px; border-radius: 6px; vertical-align: top;">
+<td width="48%" style="border-top: 1px solid rgba(139, 124, 255, 0.25); border-left: 1px solid rgba(139, 124, 255, 0.25); border-bottom: 1px solid rgba(98, 230, 215, 0.25); border-right: 1px solid rgba(98, 230, 215, 0.25); background: #0A0C10; padding: 15px; border-radius: 6px; vertical-align: top;">
 <div style="height: 2px; background: #8B7CFF; border-radius: 1px; margin-bottom: 8px;"></div>
 <h4 style="margin: 0 0 4px 0; color: #F4F6FB; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px;">Machine Learning</h4>
 <p style="margin: 0; font-size: 12px; color: #9AA2B3; line-height: 1.4;">Predictive modeling &middot; Forecasting &middot; Classification</p>
 </td>
 <td width="4%" style="border: none; padding: 0;"></td>
-<td width="48%" style="border: 1px solid rgba(98, 230, 215, 0.15); background: #0A0C10; padding: 15px; border-radius: 6px; vertical-align: top;">
+<td width="48%" style="border-top: 1px solid rgba(139, 124, 255, 0.25); border-left: 1px solid rgba(139, 124, 255, 0.25); border-bottom: 1px solid rgba(98, 230, 215, 0.25); border-right: 1px solid rgba(98, 230, 215, 0.25); background: #0A0C10; padding: 15px; border-radius: 6px; vertical-align: top;">
 <div style="height: 2px; background: #62E6D7; border-radius: 1px; margin-bottom: 8px;"></div>
 <h4 style="margin: 0 0 4px 0; color: #F4F6FB; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px;">Generative AI</h4>
 <p style="margin: 0; font-size: 12px; color: #9AA2B3; line-height: 1.4;">LLMs &middot; RAG &middot; Function Calling &middot; AI Agents</p>
@@ -76,13 +76,13 @@ Currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at ANITS, 
 </tr>
 <tr style="border: none;"><td height="12" colspan="3" style="border: none; padding: 0;"></td></tr>
 <tr style="border: none;">
-<td width="48%" style="border: 1px solid rgba(98, 230, 215, 0.15); background: #0A0C10; padding: 15px; border-radius: 6px; vertical-align: top;">
+<td width="48%" style="border-top: 1px solid rgba(139, 124, 255, 0.25); border-left: 1px solid rgba(139, 124, 255, 0.25); border-bottom: 1px solid rgba(98, 230, 215, 0.25); border-right: 1px solid rgba(98, 230, 215, 0.25); background: #0A0C10; padding: 15px; border-radius: 6px; vertical-align: top;">
 <div style="height: 2px; background: #62E6D7; border-radius: 1px; margin-bottom: 8px;"></div>
 <h4 style="margin: 0 0 4px 0; color: #F4F6FB; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px;">Voice AI</h4>
 <p style="margin: 0; font-size: 12px; color: #9AA2B3; line-height: 1.4;">ASR &middot; TTS &middot; Multilingual Voice &middot; Conversational AI</p>
 </td>
 <td width="4%" style="border: none; padding: 0;"></td>
-<td width="48%" style="border: 1px solid rgba(139, 124, 255, 0.15); background: #0A0C10; padding: 15px; border-radius: 6px; vertical-align: top;">
+<td width="48%" style="border-top: 1px solid rgba(139, 124, 255, 0.25); border-left: 1px solid rgba(139, 124, 255, 0.25); border-bottom: 1px solid rgba(98, 230, 215, 0.25); border-right: 1px solid rgba(98, 230, 215, 0.25); background: #0A0C10; padding: 15px; border-radius: 6px; vertical-align: top;">
 <div style="height: 2px; background: #8B7CFF; border-radius: 1px; margin-bottom: 8px;"></div>
 <h4 style="margin: 0 0 4px 0; color: #F4F6FB; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px;">Computer Vision</h4>
 <p style="margin: 0; font-size: 12px; color: #9AA2B3; line-height: 1.4;">OpenCV &middot; MediaPipe &middot; Real-Time Vision</p>
@@ -92,11 +92,11 @@ Currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at ANITS, 
 
 ---
 
-## $\color{#8B7CFF}{\text{✦}}$ Selected Work
+## $\color{#8B7CFF}{\text{✦ Selected Work}}$
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; margin-bottom: 20px;">
 <tr style="border: none;">
-<td style="border: 1px solid rgba(139, 124, 255, 0.15); background: #0A0C10; padding: 20px; border-radius: 6px; vertical-align: top;">
+<td style="border-top: 1px solid rgba(139, 124, 255, 0.25); border-left: 1px solid rgba(139, 124, 255, 0.25); border-bottom: 1px solid rgba(98, 230, 215, 0.25); border-right: 1px solid rgba(98, 230, 215, 0.25); background: #0A0C10; padding: 20px; border-radius: 6px; vertical-align: top;">
 <div style="height: 2px; background: #8B7CFF; border-radius: 1px; margin-bottom: 12px;"></div>
 <p style="color: #8B7CFF; font-family: monospace; font-size: 10px; margin: 0 0 4px 0; font-weight: 600; letter-spacing: 1px;">PROJECT 01</p>
 <h2 style="margin: 0 0 2px 0; font-size: 20px; color: #F4F6FB; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">ExpenseMate</h2>
@@ -119,7 +119,7 @@ Currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at ANITS, 
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; margin-bottom: 20px;">
 <tr style="border: none;">
-<td style="border: 1px solid rgba(98, 230, 215, 0.15); background: #0A0C10; padding: 20px; border-radius: 6px; vertical-align: top;">
+<td style="border-top: 1px solid rgba(139, 124, 255, 0.25); border-left: 1px solid rgba(139, 124, 255, 0.25); border-bottom: 1px solid rgba(98, 230, 215, 0.25); border-right: 1px solid rgba(98, 230, 215, 0.25); background: #0A0C10; padding: 20px; border-radius: 6px; vertical-align: top;">
 <div style="height: 2px; background: #62E6D7; border-radius: 1px; margin-bottom: 12px;"></div>
 <p style="color: #8B7CFF; font-family: monospace; font-size: 10px; margin: 0 0 4px 0; font-weight: 600; letter-spacing: 1px;">PROJECT 02</p>
 <h2 style="margin: 0 0 2px 0; font-size: 20px; color: #F4F6FB; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Vendor IQ</h2>
@@ -140,7 +140,7 @@ Currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at ANITS, 
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; margin-bottom: 20px;">
 <tr style="border: none;">
-<td style="border: 1px solid rgba(139, 124, 255, 0.15); background: #0A0C10; padding: 20px; border-radius: 6px; vertical-align: top;">
+<td style="border-top: 1px solid rgba(139, 124, 255, 0.25); border-left: 1px solid rgba(139, 124, 255, 0.25); border-bottom: 1px solid rgba(98, 230, 215, 0.25); border-right: 1px solid rgba(98, 230, 215, 0.25); background: #0A0C10; padding: 20px; border-radius: 6px; vertical-align: top;">
 <div style="height: 2px; background: #8B7CFF; border-radius: 1px; margin-bottom: 12px;"></div>
 <p style="color: #8B7CFF; font-family: monospace; font-size: 10px; margin: 0 0 4px 0; font-weight: 600; letter-spacing: 1px;">PROJECT 03</p>
 <h2 style="margin: 0 0 2px 0; font-size: 20px; color: #F4F6FB; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Telegram Voice Expense Bot</h2>
@@ -160,7 +160,7 @@ Currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at ANITS, 
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; margin-bottom: 20px;">
 <tr style="border: none;">
-<td style="border: 1px solid rgba(98, 230, 215, 0.15); background: #0A0C10; padding: 20px; border-radius: 6px; vertical-align: top;">
+<td style="border-top: 1px solid rgba(139, 124, 255, 0.25); border-left: 1px solid rgba(139, 124, 255, 0.25); border-bottom: 1px solid rgba(98, 230, 215, 0.25); border-right: 1px solid rgba(98, 230, 215, 0.25); background: #0A0C10; padding: 20px; border-radius: 6px; vertical-align: top;">
 <div style="height: 2px; background: #62E6D7; border-radius: 1px; margin-bottom: 12px;"></div>
 <p style="color: #8B7CFF; font-family: monospace; font-size: 10px; margin: 0 0 4px 0; font-weight: 600; letter-spacing: 1px;">PROJECT 04</p>
 <h2 style="margin: 0 0 2px 0; font-size: 20px; color: #F4F6FB; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Gesture-Controlled Subway Surfers</h2>
@@ -180,11 +180,11 @@ Currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at ANITS, 
 
 ---
 
-## $\color{#62E6D7}{\text{✦}}$ Currently Exploring
+## $\color{#62E6D7}{\text{✦ Currently Exploring}}$
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; margin-top: 15px;">
 <tr style="border: none;">
-<td style="border: 1px solid rgba(98, 230, 215, 0.15); background: #0A0C10; padding: 20px; border-radius: 6px; vertical-align: top;">
+<td style="border-top: 1px solid rgba(139, 124, 255, 0.25); border-left: 1px solid rgba(139, 124, 255, 0.25); border-bottom: 1px solid rgba(98, 230, 215, 0.25); border-right: 1px solid rgba(98, 230, 215, 0.25); background: #0A0C10; padding: 20px; border-radius: 6px; vertical-align: top;">
 <div align="center">
 <img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/exploring-roadmap.svg" alt="Exploring Roadmap" width="830" style="max-width: 100%; border: none;" />
 </div>
@@ -194,7 +194,7 @@ Currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at ANITS, 
 
 ---
 
-## $\color{#8B7CFF}{\text{✦}}$ Experience
+## $\color{#8B7CFF}{\text{✦ Experience}}$
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/experience-timeline.svg" alt="Experience Timeline" width="830" style="max-width: 100%; border-radius: 6px;" />
@@ -202,7 +202,7 @@ Currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at ANITS, 
 
 ---
 
-## $\color{#62E6D7}{\text{✦}}$ Proof of Work
+## $\color{#62E6D7}{\text{✦ Proof of Work}}$
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/proof-of-work.svg" alt="Proof of Work Metrics" width="830" style="max-width: 100%; border-radius: 6px;" />
@@ -210,11 +210,11 @@ Currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at ANITS, 
 
 ---
 
-## $\color{#8B7CFF}{\text{✦}}$ GitHub Activity
+## $\color{#8B7CFF}{\text{✦ GitHub Activity}}$
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; margin-top: 15px;">
 <tr style="border: none;">
-<td style="border: 1px solid rgba(139, 124, 255, 0.15); background: #0A0C10; padding: 20px; border-radius: 6px; vertical-align: top;">
+<td style="border-top: 1px solid rgba(139, 124, 255, 0.25); border-left: 1px solid rgba(139, 124, 255, 0.25); border-bottom: 1px solid rgba(98, 230, 215, 0.25); border-right: 1px solid rgba(98, 230, 215, 0.25); background: #0A0C10; padding: 20px; border-radius: 6px; vertical-align: top;">
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Jhansi48&amp;show_icons=true&amp;hide_border=true&amp;bg_color=08090D&amp;title_color=8B7CFF&amp;icon_color=62E6D7&amp;text_color=FFFFFF" alt="GitHub Stats" width="480" style="max-width: 100%;" />
 <br /><br />
