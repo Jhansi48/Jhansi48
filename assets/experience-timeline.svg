@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 290" width="100%" height="100%">
+  <defs>
+    <!-- Background Glows -->
+    <radialGradient id="violetGlow" cx="5%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#8B7CFF" stop-opacity="0.10" />
+      <stop offset="100%" stop-color="#08090D" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="cyanGlow" cx="95%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#62E6D7" stop-opacity="0.06" />
+      <stop offset="100%" stop-color="#08090D" stop-opacity="0" />
+    </radialGradient>
+    
+    <!-- Timeline Gradient Line -->
+    <linearGradient id="timelineGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#8B7CFF" />
+      <stop offset="100%" stop-color="#62E6D7" />
+    </linearGradient>
+
+    <!-- Node Glow Filter -->
+    <filter id="nodeGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="830" height="290" fill="#08090D" rx="6" />
+  <rect width="830" height="290" fill="url(#violetGlow)" rx="6" />
+  <rect width="830" height="290" fill="url(#cyanGlow)" rx="6" />
+  
+  <!-- Outer Thin Border -->
+  <rect x="0.5" y="0.5" width="829" height="289" fill="none" stroke="rgba(255, 255, 255, 0.05)" stroke-width="1" rx="5.5" />
+
+  <!-- Vertical Timeline Line -->
+  <line x1="45" y1="20" x2="45" y2="270" stroke="url(#timelineGrad)" stroke-width="1.5" stroke-linecap="round" />
+
+  <!-- Node 1: Future Interns -->
+  <g transform="translate(0, 0)">
+    <!-- Node -->
+    <circle cx="45" cy="35" r="5" fill="#08090D" stroke="#8B7CFF" stroke-width="2" filter="url(#nodeGlow)" />
+    <circle cx="45" cy="35" r="2" fill="#8B7CFF" />
+    <!-- Content -->
+    <text x="75" y="38" fill="#F4F6FB" font-family="-apple-system, system-ui, sans-serif" font-size="12" font-weight="700">Future Interns</text>
+    <text x="175" y="38" fill="#8B7CFF" font-family="monospace" font-size="10" font-weight="600">// Machine Learning Intern</text>
+    <text x="785" y="38" fill="#9AA2B3" font-family="monospace" font-size="9" text-anchor="end">Aug 2026 – Present</text>
+  </g>
+
+  <!-- Node 2: Infosys Springboard 7.0 -->
+  <g transform="translate(0, 55)">
+    <!-- Node -->
+    <circle cx="45" cy="35" r="5" fill="#08090D" stroke="#8B7CFF" stroke-width="2" />
+    <circle cx="45" cy="35" r="2" fill="#8B7CFF" />
+    <!-- Content -->
+    <text x="75" y="38" fill="#F4F6FB" font-family="-apple-system, system-ui, sans-serif" font-size="12" font-weight="700">Infosys Springboard 7.0</text>
+    <text x="235" y="38" fill="#8B7CFF" font-family="monospace" font-size="10" font-weight="600">// Software Development Intern</text>
+    <text x="785" y="38" fill="#9AA2B3" font-family="monospace" font-size="9" text-anchor="end">Jul 2026 – Present</text>
+  </g>
+
+  <!-- Node 3: MSME 360 -->
+  <g transform="translate(0, 110)">
+    <!-- Node -->
+    <circle cx="45" cy="35" r="5" fill="#08090D" stroke="#62E6D7" stroke-width="2" filter="url(#nodeGlow)" />
+    <circle cx="45" cy="35" r="2" fill="#62E6D7" />
+    <!-- Content -->
+    <text x="75" y="38" fill="#F4F6FB" font-family="-apple-system, system-ui, sans-serif" font-size="12" font-weight="700">MSME 360</text>
+    <text x="155" y="38" fill="#62E6D7" font-family="monospace" font-size="10" font-weight="600">// Machine Learning Engineer Intern</text>
+    <text x="785" y="38" fill="#9AA2B3" font-family="monospace" font-size="9" text-anchor="end">Jun 2026 – Present</text>
+  </g>
+
+  <!-- Node 4: Infosys Springboard -->
+  <g transform="translate(0, 165)">
+    <!-- Node -->
+    <circle cx="45" cy="35" r="5" fill="#08090D" stroke="#62E6D7" stroke-width="2" />
+    <circle cx="45" cy="35" r="2" fill="#62E6D7" />
+    <!-- Content -->
+    <text x="75" y="38" fill="#F4F6FB" font-family="-apple-system, system-ui, sans-serif" font-size="12" font-weight="700">Infosys Springboard</text>
+    <text x="215" y="38" fill="#62E6D7" font-family="monospace" font-size="10" font-weight="600">// Infosys Springboard — Pragathi Cohort 7</text>
+    <text x="785" y="38" fill="#9AA2B3" font-family="monospace" font-size="9" text-anchor="end">Dec 2025 – Feb 2026</text>
+  </g>
+
+  <!-- Node 5: SkillForge -->
+  <g transform="translate(0, 220)">
+    <!-- Node -->
+    <circle cx="45" cy="35" r="5" fill="#08090D" stroke="#62E6D7" stroke-width="2" filter="url(#nodeGlow)" />
+    <circle cx="45" cy="35" r="2" fill="#62E6D7" />
+    <!-- Content -->
+    <text x="75" y="38" fill="#F4F6FB" font-family="-apple-system, system-ui, sans-serif" font-size="12" font-weight="700">SkillForge</text>
+    <text x="155" y="38" fill="#62E6D7" font-family="monospace" font-size="10" font-weight="600">// Artificial Intelligence &amp; Python Intern</text>
+    <text x="785" y="38" fill="#9AA2B3" font-family="monospace" font-size="9" text-anchor="end">May 2025 – Jul 2025</text>
+  </g>
+</svg>

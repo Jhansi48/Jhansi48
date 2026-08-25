@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 100" width="100%" height="100%">
+  <defs>
+    <!-- Accent Gradients -->
+    <linearGradient id="violetCyan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8B7CFF" />
+      <stop offset="100%" stop-color="#62E6D7" />
+    </linearGradient>
+  </defs>
+
+  <!-- Card 1: LeetCode -->
+  <g transform="translate(0, 0)">
+    <!-- Card Frame -->
+    <rect width="200" height="100" fill="#0A0C10" rx="6" stroke="rgba(255, 255, 255, 0.05)" stroke-width="1" />
+    <!-- Gradient Top Accent Line -->
+    <rect width="200" height="2" fill="url(#violetCyan)" rx="1" />
+    <!-- Metrics -->
+    <text x="20" y="42" fill="#F4F6FB" font-family="-apple-system, system-ui, sans-serif" font-size="24" font-weight="800">209+</text>
+    <text x="20" y="66" fill="#9AA2B3" font-family="monospace" font-size="9.5" font-weight="600">LeetCode Problems</text>
+    <text x="20" y="78" fill="#8B7CFF" font-family="monospace" font-size="9" font-weight="600">Solved</text>
+  </g>
+
+  <!-- Card 2: Google Cloud -->
+  <g transform="translate(210, 0)">
+    <!-- Card Frame -->
+    <rect width="200" height="100" fill="#0A0C10" rx="6" stroke="rgba(255, 255, 255, 0.05)" stroke-width="1" />
+    <!-- Gradient Top Accent Line -->
+    <rect width="200" height="2" fill="url(#violetCyan)" rx="1" />
+    <!-- Metrics -->
+    <text x="20" y="42" fill="#F4F6FB" font-family="-apple-system, system-ui, sans-serif" font-size="24" font-weight="800">2026</text>
+    <text x="20" y="66" fill="#9AA2B3" font-family="monospace" font-size="9.5" font-weight="600">Selected for Google Cloud</text>
+    <text x="20" y="78" fill="#62E6D7" font-family="monospace" font-size="9" font-weight="600">Arcade Facilitator 2026</text>
+  </g>
+
+  <!-- Card 3: Amazon ML School -->
+  <g transform="translate(420, 0)">
+    <!-- Card Frame -->
+    <rect width="200" height="100" fill="#0A0C10" rx="6" stroke="rgba(255, 255, 255, 0.05)" stroke-width="1" />
+    <!-- Gradient Top Accent Line -->
+    <rect width="200" height="2" fill="url(#violetCyan)" rx="1" />
+    <!-- Metrics -->
+    <text x="20" y="42" fill="#F4F6FB" font-family="-apple-system, system-ui, sans-serif" font-size="18" font-weight="800" letter-spacing="-0.5">SHORTLISTED</text>
+    <text x="20" y="66" fill="#9AA2B3" font-family="monospace" font-size="9.5" font-weight="600">Amazon ML Summer</text>
+    <text x="20" y="78" fill="#8B7CFF" font-family="monospace" font-size="9" font-weight="600">School 2026</text>
+  </g>
+
+  <!-- Card 4: B.Tech GPA -->
+  <g transform="translate(630, 0)">
+    <!-- Card Frame -->
+    <rect width="200" height="100" fill="#0A0C10" rx="6" stroke="rgba(255, 255, 255, 0.05)" stroke-width="1" />
+    <!-- Gradient Top Accent Line -->
+    <rect width="200" height="2" fill="url(#violetCyan)" rx="1" />
+    <!-- Metrics -->
+    <text x="20" y="42" fill="#F4F6FB" font-family="-apple-system, system-ui, sans-serif" font-size="24" font-weight="800">9.19/10</text>
+    <text x="20" y="66" fill="#9AA2B3" font-family="monospace" font-size="9.5" font-weight="600">CGPA · ANITS</text>
+    <text x="20" y="78" fill="#62E6D7" font-family="monospace" font-size="9" font-weight="600">Visakhapatnam</text>
+  </g>
+</svg>

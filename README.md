@@ -86,42 +86,40 @@ Machine Learning ➔ Deep Learning ➔ Generative AI ➔ AI Agents ➔ RAG ➔ M
 
 ### Experience
 
-```text
-Future Interns  ......................  Machine Learning Intern (Aug 2026 — Present)
-Infosys Springboard 7.0  .............  Software Development Intern (Jul 2026 — Present)
-MSME 360  ............................  Machine Learning Engineer Intern (Jun 2026 — Present)
-Infosys Springboard  .................  Pragathi Cohort 7 (Dec 2025 — Feb 2026)
-SkillForge  ..........................  Artificial Intelligence & Python Intern (May 2025 — Jul 2025)
-```
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/experience-timeline.svg" alt="Experience Timeline" width="830" style="max-width: 100%; border-radius: 6px;" />
+</div>
 
 ---
 
-### Achievements
+### PROOF OF WORK
 
-| **LeetCode** | **Google Cloud** |
-| :--- | :--- |
-| `209+` LeetCode Problems Solved | `Selected` for Google Cloud Arcade Facilitator 2026 |
-| **Amazon ML School** | **B.Tech Academics** |
-| `Shortlisted` for Amazon ML Summer School 2026 | `CGPA 9.19/10` (ANITS, Visakhapatnam) |
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/proof-of-work.svg" alt="Proof of Work Metrics" width="830" style="max-width: 100%; border-radius: 6px;" />
+</div>
 
 ---
 
 ### GitHub Activity
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jhansi48&show_icons=true&hide_border=true&bg_color=08090D&title_color=8B7CFF&icon_color=62E6D7&text_color=FFFFFF)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhansi48&layout=compact&hide_border=true&bg_color=08090D&title_color=8B7CFF&text_color=FFFFFF)
-
-</div>
+| **Activity Metrics** |
+| :---: |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jhansi48&show_icons=true&hide_border=true&bg_color=08090D&title_color=8B7CFF&icon_color=62E6D7&text_color=FFFFFF) &nbsp;&nbsp;&nbsp;&nbsp; ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhansi48&layout=compact&hide_border=true&bg_color=08090D&title_color=8B7CFF&text_color=FFFFFF) |
 
 ---
 
 <div align="center">
-  <code>BUILD. LEARN. EXPERIMENT. CREATE IMPACT.</code> &nbsp;&middot;&nbsp; <code>Let's build something intelligent.</code>
+  <img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/gradient-line.svg" alt="Divider Line" width="830" style="max-width: 100%; margin: 20px 0;" />
+  
+  <h3 style="margin: 10px 0; letter-spacing: 2px; color: #F4F6FB;">BUILD. LEARN. EXPERIMENT. CREATE IMPACT.</h3>
+  <p style="color: #9AA2B3; font-size: 13px; margin-bottom: 15px;">Building intelligent applications across AI, voice, vision and software.</p>
+  
   <p>
-    <a href="https://jhansi48.github.io/Portfolio/">Portfolio</a> &nbsp;&middot;&nbsp; 
-    <a href="https://www.linkedin.com/in/jhansi-lakshmi-sambhana-64ba35393/">LinkedIn</a> &nbsp;&middot;&nbsp; 
-    <a href="https://github.com/jhansi48">GitHub</a>
+    <code><a href="https://jhansi48.github.io/Portfolio/">Portfolio</a></code> &nbsp;&middot;&nbsp; 
+    <code><a href="https://www.linkedin.com/in/jhansi-lakshmi-sambhana-64ba35393/">LinkedIn</a></code> &nbsp;&middot;&nbsp; 
+    <code><a href="https://github.com/jhansi48">GitHub</a></code> &nbsp;&middot;&nbsp; 
+    <code><a href="https://leetcode.com/u/jhansi_lakshmi_sambhana/">LeetCode</a></code>
   </p>
+  
+  <img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/gradient-line.svg" alt="Divider Line" width="830" style="max-width: 100%; margin: 20px 0;" />
 </div>
