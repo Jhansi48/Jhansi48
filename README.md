@@ -35,7 +35,7 @@ I build practical intelligent applications across Machine Learning, Generative A
 
 ### Selected Work
 
-#### ➔ `PROJECT 01 / FEATURED PROJECT` &nbsp; **EXPENSEMATE**
+#### **ExpenseMate** (Featured Project)
 ##### **Multilingual Voice-First Financial Assistant** (Primary Showcase)
 > A multilingual voice-first financial assistant supporting English, Hindi, and Telugu. It combines real-time voice interactions, Gemini function calling, and multi-agent workflows to parse spoken commands into structured financial summaries.
 
@@ -56,8 +56,7 @@ I build practical intelligent applications across Machine Learning, Generative A
       <table width="100%" style="border-collapse: collapse; border: none;">
         <tr style="border: none;">
           <td width="60%" style="border: none; padding: 0; vertical-align: top;">
-            <code style="color: #8B7CFF; font-size: 9px;">PROJECT 02</code>
-            <h3 style="margin: 4px 0 2px 0; font-size: 15px; color: #F4F6FB;">VENDOR IQ</h3>
+            <h3 style="margin: 0 0 2px 0; font-size: 15px; color: #F4F6FB;">Vendor IQ</h3>
             <h5 style="margin: 0 0 10px 0; color: #62E6D7; font-size: 11px;">Vendor Reliability &amp; Risk Platform</h5>
             <p style="color: #9AA2B3; font-size: 11.5px; margin-bottom: 12px; line-height: 1.4;">Analyzes procurement data and vendor reliability signals to support risk-aware decision making.</p>
             <code style="font-size: 9px; color: #8B7CFF; display: block; margin-bottom: 4px;">Core Stack</code>
@@ -82,8 +81,7 @@ I build practical intelligent applications across Machine Learning, Generative A
       <table width="100%" style="border-collapse: collapse; border: none;">
         <tr style="border: none;">
           <td width="60%" style="border: none; padding: 0; vertical-align: top;">
-            <code style="color: #8B7CFF; font-size: 9px;">PROJECT 03</code>
-            <h3 style="margin: 4px 0 2px 0; font-size: 15px; color: #F4F6FB;">TELEGRAM VOICE EXPENSE BOT</h3>
+            <h3 style="margin: 0 0 2px 0; font-size: 15px; color: #F4F6FB;">Telegram Voice Expense Bot</h3>
             <h5 style="margin: 0 0 10px 0; color: #62E6D7; font-size: 11px;">Voice ➔ Structured Data</h5>
             <p style="color: #9AA2B3; font-size: 11.5px; margin-bottom: 12px; line-height: 1.4;">Translates spoken financial entries into formatted database spreadsheets using Whisper automatic voice transcription.</p>
             <code style="font-size: 9px; color: #8B7CFF; display: block; margin-bottom: 4px;">Core Stack</code>
@@ -106,8 +104,7 @@ I build practical intelligent applications across Machine Learning, Generative A
 <table width="100%" style="border-collapse: collapse; border: 1px solid rgba(255, 255, 255, 0.05); background: #0A0C10; padding: 20px; border-radius: 6px; margin-top: 10px;">
   <tr style="border: none;">
     <td width="45%" style="border: none; padding: 20px; vertical-align: top;">
-      <code style="color: #8B7CFF; font-size: 9px;">PROJECT 04</code>
-      <h3 style="margin: 4px 0 2px 0; font-size: 16px; color: #F4F6FB;">GESTURE-CONTROLLED SUBWAY SURFERS</h3>
+      <h3 style="margin: 0 0 2px 0; font-size: 16px; color: #F4F6FB;">Gesture-Controlled Subway Surfers</h3>
       <h5 style="margin: 0 0 10px 0; color: #62E6D7; font-size: 11px;">Computer Vision Game Controller</h5>
       <p style="color: #9AA2B3; font-size: 12px; margin-bottom: 12px; line-height: 1.4;">Real-time gameplay controller translating MediaPipe keypoint tracking coordinates and OpenCV frame processing into desktop controls.</p>
       <code style="font-size: 9px; color: #8B7CFF; display: block; margin-bottom: 4px;">Core Stack</code>
@@ -125,7 +122,7 @@ I build practical intelligent applications across Machine Learning, Generative A
 
 ---
 
-### Currently Exploring / Building Toward
+### Currently Exploring
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/exploring-roadmap.svg" alt="Exploring Roadmap" width="830" style="max-width: 100%; border-radius: 6px;" />

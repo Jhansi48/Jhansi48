@@ -42,16 +42,16 @@
 
   <!-- Location Telemetry (Root Level - Bottom Right) -->
   <text x="790" y="200" fill="rgba(255, 255, 255, 0.15)" font-family="monospace" font-size="9" text-anchor="end">ANITS · VISAKHAPATNAM</text>
-  <text x="790" y="30" fill="#8B7CFF" font-family="monospace" font-size="9" text-anchor="end" font-weight="600">STATE: active_builds</text>
+  <text x="790" y="30" fill="#8B7CFF" font-family="monospace" font-size="9" text-anchor="end" font-weight="600">STATE: ACTIVE BUILDS</text>
 
   <!-- PANEL A: IDENTITY (LEFT) -->
   <g transform="translate(40, 0)">
     <!-- Metadata label -->
-    <text x="0" y="38" fill="rgba(255, 255, 255, 0.25)" font-family="monospace" font-size="8" letter-spacing="1">ID // jhansi_lakshmi_sambhana</text>
+    <text x="0" y="38" fill="rgba(255, 255, 255, 0.25)" font-family="monospace" font-size="8" letter-spacing="1">DEVELOPER STUDIO</text>
     
     <!-- Status Indicator -->
-    <circle cx="200" cy="35" r="3.5" fill="#62E6D7" />
-    <text x="208" y="38" fill="#62E6D7" font-family="monospace" font-size="8" font-weight="700" letter-spacing="0.5">STUDIO_ACTIVE</text>
+    <circle cx="150" cy="35" r="3.5" fill="#62E6D7" />
+    <text x="158" y="38" fill="#62E6D7" font-family="monospace" font-size="8" font-weight="700" letter-spacing="0.5">ONLINE</text>
 
     <!-- Name -->
     <text x="0" y="80" fill="#F4F6FB" font-family="-apple-system, system-ui, sans-serif" font-size="28" font-weight="700" letter-spacing="-0.8">Jhansi Lakshmi Sambhana</text>
@@ -65,45 +65,45 @@
     </text>
 
     <!-- Coordinates / Engine Readout -->
-    <text x="0" y="200" fill="rgba(255, 255, 255, 0.3)" font-family="monospace" font-size="8">ANITS · VISAKHAPATNAM  //  AI AGENTS · RAG · FULL-STACK AI APPLICATIONS</text>
+    <text x="0" y="200" fill="rgba(255, 255, 255, 0.3)" font-family="monospace" font-size="8">ANITS · VISAKHAPATNAM   ·   AI AGENTS · RAG · FULL-STACK AI APPLICATIONS</text>
   </g>
 
   <!-- PANEL B: TECHNICAL TELEMETRY (RIGHT) -->
   <g transform="translate(505, 0)">
     <!-- Metadata label -->
-    <text x="0" y="38" fill="rgba(255, 255, 255, 0.25)" font-family="monospace" font-size="8" letter-spacing="1">CORE_INTELLIGENCE // PROFILE_FOCUS</text>
+    <text x="0" y="38" fill="rgba(255, 255, 255, 0.25)" font-family="monospace" font-size="8" letter-spacing="1">CORE FOCUS · SPECIALTIES</text>
 
     <!-- Mini Visualizer Grid (4 nodes with status metrics) -->
     <!-- Node 1: ML -->
     <g transform="translate(0, 60)">
       <rect x="0" y="0" width="135" height="42" fill="rgba(255, 255, 255, 0.01)" stroke="rgba(255, 255, 255, 0.05)" stroke-width="0.75" rx="3" />
       <circle cx="15" cy="21" r="3" fill="#8B7CFF" />
-      <text x="26" y="20" fill="#F4F6FB" font-family="monospace" font-size="9" font-weight="600">01 / ML_MODEL</text>
-      <text x="26" y="31" fill="rgba(255, 255, 255, 0.3)" font-family="monospace" font-size="7">Status: active_eval</text>
+      <text x="26" y="20" fill="#F4F6FB" font-family="monospace" font-size="9" font-weight="600">01 · ML MODEL</text>
+      <text x="26" y="31" fill="rgba(255, 255, 255, 0.3)" font-family="monospace" font-size="7">Status: active</text>
     </g>
 
     <!-- Node 2: GENAI -->
     <g transform="translate(150, 60)">
       <rect x="0" y="0" width="135" height="42" fill="rgba(255, 255, 255, 0.01)" stroke="rgba(255, 255, 255, 0.05)" stroke-width="0.75" rx="3" />
       <circle cx="15" cy="21" r="3" fill="#62E6D7" />
-      <text x="26" y="20" fill="#F4F6FB" font-family="monospace" font-size="9" font-weight="600">02 / GEN_AI</text>
-      <text x="26" y="31" fill="rgba(255, 255, 255, 0.3)" font-family="monospace" font-size="7">Status: agents_idle</text>
+      <text x="26" y="20" fill="#F4F6FB" font-family="monospace" font-size="9" font-weight="600">02 · GENERATIVE AI</text>
+      <text x="26" y="31" fill="rgba(255, 255, 255, 0.3)" font-family="monospace" font-size="7">Status: active</text>
     </g>
 
     <!-- Node 3: VOICE -->
     <g transform="translate(0, 115)">
       <rect x="0" y="0" width="135" height="42" fill="rgba(255, 255, 255, 0.01)" stroke="rgba(255, 255, 255, 0.05)" stroke-width="0.75" rx="3" />
       <circle cx="15" cy="21" r="3" fill="#62E6D7" />
-      <text x="26" y="20" fill="#F4F6FB" font-family="monospace" font-size="9" font-weight="600">03 / VOICE_AI</text>
-      <text x="26" y="31" fill="rgba(255, 255, 255, 0.3)" font-family="monospace" font-size="7">Status: webrtc_ok</text>
+      <text x="26" y="20" fill="#F4F6FB" font-family="monospace" font-size="9" font-weight="600">03 · VOICE AI</text>
+      <text x="26" y="31" fill="rgba(255, 255, 255, 0.3)" font-family="monospace" font-size="7">Status: active</text>
     </g>
 
     <!-- Node 4: VISION -->
     <g transform="translate(150, 115)">
       <rect x="0" y="0" width="135" height="42" fill="rgba(255, 255, 255, 0.01)" stroke="rgba(255, 255, 255, 0.05)" stroke-width="0.75" rx="3" />
       <circle cx="15" cy="21" r="3" fill="#8B7CFF" />
-      <text x="26" y="20" fill="#F4F6FB" font-family="monospace" font-size="9" font-weight="600">04 / CV_ENGINE</text>
-      <text x="26" y="31" fill="rgba(255, 255, 255, 0.3)" font-family="monospace" font-size="7">Status: cv_capture</text>
+      <text x="26" y="20" fill="#F4F6FB" font-family="monospace" font-size="9" font-weight="600">04 · VISION ENGINE</text>
+      <text x="26" y="31" fill="rgba(255, 255, 255, 0.3)" font-family="monospace" font-size="7">Status: active</text>
     </g>
 
     <!-- System Sparkline/Load representation at bottom -->
