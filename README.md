@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/ai-system-header.svg" alt="JLS AI Engineering System Boot" width="830" style="max-width: 100%; border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/ai-system-header.svg" alt="JLS AI Engineering System Boot" width="830" style="max-width: 100%; border-radius: 8px;" />
 </div>
 
 <p align="center">
