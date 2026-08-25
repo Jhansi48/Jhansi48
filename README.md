@@ -106,21 +106,7 @@ Currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at ANITS, 
 <img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/expensemate-pipeline.svg" alt="ExpenseMate Voice Pipeline" width="830" style="max-width: 100%; border: none;" />
 </div>
 <p style="font-size: 10px; font-family: monospace; margin: 15px 0 6px 0; font-weight: 600; letter-spacing: 0.5px;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/core_stack.svg" alt="Core Stack" height="10"></p>
-<p style="margin: 0 0 15px 0; line-height: 1.8;">
-<table style="border: none; border-collapse: collapse; background: transparent; margin: 0; padding: 0;">
-<tr style="border: none; background: transparent;">
-<td style="border: 1px solid rgba(139, 124, 255, 0.25); background: #0A0C10; padding: 2px 8px; border-radius: 4px; color: #8B7CFF; font-family: monospace; font-size: 11px;">LiveKit</td>
-<td style="width: 6px; border: none; background: transparent; padding: 0;"></td>
-<td style="border: 1px solid rgba(139, 124, 255, 0.25); background: #0A0C10; padding: 2px 8px; border-radius: 4px; color: #8B7CFF; font-family: monospace; font-size: 11px;">Google Gemini</td>
-<td style="width: 6px; border: none; background: transparent; padding: 0;"></td>
-<td style="border: 1px solid rgba(139, 124, 255, 0.25); background: #0A0C10; padding: 2px 8px; border-radius: 4px; color: #8B7CFF; font-family: monospace; font-size: 11px;">Murf</td>
-<td style="width: 6px; border: none; background: transparent; padding: 0;"></td>
-<td style="border: 1px solid rgba(139, 124, 255, 0.25); background: #0A0C10; padding: 2px 8px; border-radius: 4px; color: #8B7CFF; font-family: monospace; font-size: 11px;">ASR/TTS</td>
-<td style="width: 6px; border: none; background: transparent; padding: 0;"></td>
-<td style="border: 1px solid rgba(139, 124, 255, 0.25); background: #0A0C10; padding: 2px 8px; border-radius: 4px; color: #8B7CFF; font-family: monospace; font-size: 11px;">AI Agents</td>
-</tr>
-</table>
-</p>
+<p style="margin: 0 0 15px 0; font-size: 12px; font-family: monospace; color: #F4F6FB; line-height: 1.4;">LiveKit &middot; Google Gemini &middot; Murf &middot; ASR/TTS &middot; AI Agents</p>
 <p style="font-size: 10px; font-family: monospace; margin: 10px 0 4px 0; font-weight: 600; letter-spacing: 0.5px;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/interactive_scope.svg" alt="Interactive Scope" height="10"></p>
 <p style="margin: 0 0 15px 0; font-size: 11.5px; font-family: monospace; color: #9AA2B3;">English · Hindi · Telugu · code-mixed multilingual interaction · low-latency WebRTC · outbound calling</p>
 <p style="margin: 0; font-size: 12px; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">
@@ -143,21 +129,7 @@ Currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at ANITS, 
 <img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/vendoriq-pipeline.svg" alt="Vendor IQ Pipeline" width="180" style="max-width: 100%; border: none;" />
 </div>
 <p style="font-size: 10px; font-family: monospace; margin: 15px 0 6px 0; font-weight: 600; letter-spacing: 0.5px;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/core_stack.svg" alt="Core Stack" height="10"></p>
-<p style="margin: 0 0 15px 0; line-height: 1.8;">
-<table style="border: none; border-collapse: collapse; background: transparent; margin: 0; padding: 0;">
-<tr style="border: none; background: transparent;">
-<td style="border: 1px solid rgba(98, 230, 215, 0.25); background: #0A0C10; padding: 2px 8px; border-radius: 4px; color: #62E6D7; font-family: monospace; font-size: 11px;">FastAPI</td>
-<td style="width: 6px; border: none; background: transparent; padding: 0;"></td>
-<td style="border: 1px solid rgba(98, 230, 215, 0.25); background: #0A0C10; padding: 2px 8px; border-radius: 4px; color: #62E6D7; font-family: monospace; font-size: 11px;">Angular</td>
-<td style="width: 6px; border: none; background: transparent; padding: 0;"></td>
-<td style="border: 1px solid rgba(98, 230, 215, 0.25); background: #0A0C10; padding: 2px 8px; border-radius: 4px; color: #62E6D7; font-family: monospace; font-size: 11px;">PostgreSQL</td>
-<td style="width: 6px; border: none; background: transparent; padding: 0;"></td>
-<td style="border: 1px solid rgba(98, 230, 215, 0.25); background: #0A0C10; padding: 2px 8px; border-radius: 4px; color: #62E6D7; font-family: monospace; font-size: 11px;">SQLAlchemy</td>
-<td style="width: 6px; border: none; background: transparent; padding: 0;"></td>
-<td style="border: 1px solid rgba(98, 230, 215, 0.25); background: #0A0C10; padding: 2px 8px; border-radius: 4px; color: #62E6D7; font-family: monospace; font-size: 11px;">JWT</td>
-</tr>
-</table>
-</p>
+<p style="margin: 0 0 15px 0; font-size: 12px; font-family: monospace; color: #F4F6FB; line-height: 1.4;">FastAPI &middot; Angular &middot; PostgreSQL &middot; SQLAlchemy &middot; JWT</p>
 <p style="margin: 0; font-size: 12px; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">
 <a href="https://github.com/Jhansi48/Infosys-Project" style="color: #62E6D7; text-decoration: none; font-weight: 600;">View Source &rarr;</a> &nbsp;&middot;&nbsp; 
 <a href="https://vendoriq-rho.vercel.app/" style="color: #62E6D7; text-decoration: none; font-weight: 600;">Live Demo &nearrow;</a>
@@ -178,21 +150,7 @@ Currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at ANITS, 
 <img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/telegrambot-pipeline.svg" alt="Telegram Bot Pipeline" width="180" style="max-width: 100%; border: none;" />
 </div>
 <p style="font-size: 10px; font-family: monospace; margin: 15px 0 6px 0; font-weight: 600; letter-spacing: 0.5px;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/core_stack.svg" alt="Core Stack" height="10"></p>
-<p style="margin: 0 0 15px 0; line-height: 1.8;">
-<table style="border: none; border-collapse: collapse; background: transparent; margin: 0; padding: 0;">
-<tr style="border: none; background: transparent;">
-<td style="border: 1px solid rgba(139, 124, 255, 0.25); background: #0A0C10; padding: 2px 8px; border-radius: 4px; color: #8B7CFF; font-family: monospace; font-size: 11px;">Whisper</td>
-<td style="width: 6px; border: none; background: transparent; padding: 0;"></td>
-<td style="border: 1px solid rgba(139, 124, 255, 0.25); background: #0A0C10; padding: 2px 8px; border-radius: 4px; color: #8B7CFF; font-family: monospace; font-size: 11px;">Telegram API</td>
-<td style="width: 6px; border: none; background: transparent; padding: 0;"></td>
-<td style="border: 1px solid rgba(139, 124, 255, 0.25); background: #0A0C10; padding: 2px 8px; border-radius: 4px; color: #8B7CFF; font-family: monospace; font-size: 11px;">Python</td>
-<td style="width: 6px; border: none; background: transparent; padding: 0;"></td>
-<td style="border: 1px solid rgba(139, 124, 255, 0.25); background: #0A0C10; padding: 2px 8px; border-radius: 4px; color: #8B7CFF; font-family: monospace; font-size: 11px;">Pandas</td>
-<td style="width: 6px; border: none; background: transparent; padding: 0;"></td>
-<td style="border: 1px solid rgba(139, 124, 255, 0.25); background: #0A0C10; padding: 2px 8px; border-radius: 4px; color: #8B7CFF; font-family: monospace; font-size: 11px;">OpenPyXL</td>
-</tr>
-</table>
-</p>
+<p style="margin: 0 0 15px 0; font-size: 12px; font-family: monospace; color: #F4F6FB; line-height: 1.4;">Whisper &middot; Telegram API &middot; Python &middot; Pandas &middot; OpenPyXL</p>
 <p style="margin: 0; font-size: 12px; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">
 <a href="https://github.com/Jhansi48/expense-telegram-bot" style="color: #62E6D7; text-decoration: none; font-weight: 600;">View Source &rarr;</a>
 </p>
@@ -212,17 +170,7 @@ Currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at ANITS, 
 <img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/gesture-pipeline.svg" alt="Gesture Pipeline" width="550" style="max-width: 100%; border: none;" />
 </div>
 <p style="font-size: 10px; font-family: monospace; margin: 15px 0 6px 0; font-weight: 600; letter-spacing: 0.5px;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/core_stack.svg" alt="Core Stack" height="10"></p>
-<p style="margin: 0 0 15px 0; line-height: 1.8;">
-<table style="border: none; border-collapse: collapse; background: transparent; margin: 0; padding: 0;">
-<tr style="border: none; background: transparent;">
-<td style="border: 1px solid rgba(98, 230, 215, 0.25); background: #0A0C10; padding: 2px 8px; border-radius: 4px; color: #62E6D7; font-family: monospace; font-size: 11px;">OpenCV</td>
-<td style="width: 6px; border: none; background: transparent; padding: 0;"></td>
-<td style="border: 1px solid rgba(98, 230, 215, 0.25); background: #0A0C10; padding: 2px 8px; border-radius: 4px; color: #62E6D7; font-family: monospace; font-size: 11px;">MediaPipe</td>
-<td style="width: 6px; border: none; background: transparent; padding: 0;"></td>
-<td style="border: 1px solid rgba(98, 230, 215, 0.25); background: #0A0C10; padding: 2px 8px; border-radius: 4px; color: #62E6D7; font-family: monospace; font-size: 11px;">PyAutoGUI</td>
-</tr>
-</table>
-</p>
+<p style="margin: 0 0 15px 0; font-size: 12px; font-family: monospace; color: #F4F6FB; line-height: 1.4;">OpenCV &middot; MediaPipe &middot; PyAutoGUI</p>
 <p style="margin: 0; font-size: 12px; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">
 <a href="https://github.com/Jhansi48/AI-Gesture-SubwaySurfers" style="color: #62E6D7; text-decoration: none; font-weight: 600;">View Source &rarr;</a>
 </p>
