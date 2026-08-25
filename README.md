@@ -16,13 +16,7 @@ Currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at ANITS, 
 
 ---
 
-<table width="100%" style="border-collapse: collapse; border: none; margin: 25px 0 10px 0;">
-<tr style="border: none;">
-<td style="border: none; color: #62E6D7; font-size: 19px; font-weight: bold; font-family: -apple-system, BlinkMacSystemFont, sans-serif; padding: 0;">
-  ✦ Tools I Build With
-</td>
-</tr>
-</table>
+## <font color="#62E6D7">✦ Tools I Build With</font>
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; margin-top: 15px;">
 <tr style="border: none;">
@@ -64,13 +58,7 @@ Currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at ANITS, 
 
 ---
 
-<table width="100%" style="border-collapse: collapse; border: none; margin: 25px 0 10px 0;">
-<tr style="border: none;">
-<td style="border: none; color: #8B7CFF; font-size: 19px; font-weight: bold; font-family: -apple-system, BlinkMacSystemFont, sans-serif; padding: 0;">
-  ✦ What I Build
-</td>
-</tr>
-</table>
+## <font color="#8B7CFF">✦ What I Build</font>
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; margin-top: 15px;">
 <tr style="border: none;">
@@ -104,13 +92,7 @@ Currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at ANITS, 
 
 ---
 
-<table width="100%" style="border-collapse: collapse; border: none; margin: 25px 0 10px 0;">
-<tr style="border: none;">
-<td style="border: none; color: #8B7CFF; font-size: 19px; font-weight: bold; font-family: -apple-system, BlinkMacSystemFont, sans-serif; padding: 0;">
-  ✦ Selected Work
-</td>
-</tr>
-</table>
+## <font color="#8B7CFF">✦ Selected Work</font>
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; margin-bottom: 20px;">
 <tr style="border: none;">
@@ -220,13 +202,7 @@ Currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at ANITS, 
 
 ---
 
-<table width="100%" style="border-collapse: collapse; border: none; margin: 25px 0 10px 0;">
-<tr style="border: none;">
-<td style="border: none; color: #62E6D7; font-size: 19px; font-weight: bold; font-family: -apple-system, BlinkMacSystemFont, sans-serif; padding: 0;">
-  ✦ Currently Exploring
-</td>
-</tr>
-</table>
+## <font color="#62E6D7">✦ Currently Exploring</font>
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; margin-top: 15px;">
 <tr style="border: none;">
@@ -240,13 +216,7 @@ Currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at ANITS, 
 
 ---
 
-<table width="100%" style="border-collapse: collapse; border: none; margin: 25px 0 10px 0;">
-<tr style="border: none;">
-<td style="border: none; color: #8B7CFF; font-size: 19px; font-weight: bold; font-family: -apple-system, BlinkMacSystemFont, sans-serif; padding: 0;">
-  ✦ Experience
-</td>
-</tr>
-</table>
+## <font color="#8B7CFF">✦ Experience</font>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/experience-timeline.svg" alt="Experience Timeline" width="830" style="max-width: 100%; border-radius: 6px;" />
@@ -254,13 +224,7 @@ Currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at ANITS, 
 
 ---
 
-<table width="100%" style="border-collapse: collapse; border: none; margin: 25px 0 10px 0;">
-<tr style="border: none;">
-<td style="border: none; color: #62E6D7; font-size: 19px; font-weight: bold; font-family: -apple-system, BlinkMacSystemFont, sans-serif; padding: 0;">
-  ✦ Proof of Work
-</td>
-</tr>
-</table>
+## <font color="#62E6D7">✦ Proof of Work</font>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/proof-of-work.svg" alt="Proof of Work Metrics" width="830" style="max-width: 100%; border-radius: 6px;" />
@@ -268,13 +232,7 @@ Currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at ANITS, 
 
 ---
 
-<table width="100%" style="border-collapse: collapse; border: none; margin: 25px 0 10px 0;">
-<tr style="border: none;">
-<td style="border: none; color: #8B7CFF; font-size: 19px; font-weight: bold; font-family: -apple-system, BlinkMacSystemFont, sans-serif; padding: 0;">
-  ✦ GitHub Activity
-</td>
-</tr>
-</table>
+## <font color="#8B7CFF">✦ GitHub Activity</font>
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; margin-top: 15px;">
 <tr style="border: none;">
