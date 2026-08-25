@@ -16,13 +16,13 @@ Currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at ANITS, 
 
 ---
 
-## $\color{#62E6D7}{\text{✦ Tools I Build With}}$
+## <font color="#8B7CFF">✦ Tools I Build With</font>
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; margin-top: 15px;">
 <tr style="border: none;">
 <td width="48%" style="border-top: 1px solid rgba(139, 124, 255, 0.25); border-left: 1px solid rgba(139, 124, 255, 0.25); border-bottom: 1px solid rgba(98, 230, 215, 0.25); border-right: 1px solid rgba(98, 230, 215, 0.25); background: #0A0C10; padding: 15px; border-radius: 6px; vertical-align: top;">
 <div style="height: 2px; background: #8B7CFF; border-radius: 1px; margin-bottom: 8px;"></div>
-<h4 style="margin: 0 0 8px 0; color: #8B7CFF; font-family: monospace; font-size: 11px; letter-spacing: 1px;">INTELLIGENCE</h4>
+<h4 style="margin: 0 0 8px 0; color: #62E6D7; font-family: monospace; font-size: 11px; letter-spacing: 1px;">INTELLIGENCE</h4>
 <p style="margin: 0; font-size: 12px; color: #9AA2B3; line-height: 1.5; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Python &middot; NumPy &middot; Pandas &middot; Scikit-learn &middot; XGBoost &middot; AutoGluon</p>
 </td>
 <td width="4%" style="border: none; padding: 0;"></td>
@@ -36,7 +36,7 @@ Currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at ANITS, 
 <tr style="border: none;">
 <td width="48%" style="border-top: 1px solid rgba(139, 124, 255, 0.25); border-left: 1px solid rgba(139, 124, 255, 0.25); border-bottom: 1px solid rgba(98, 230, 215, 0.25); border-right: 1px solid rgba(98, 230, 215, 0.25); background: #0A0C10; padding: 15px; border-radius: 6px; vertical-align: top;">
 <div style="height: 2px; background: #62E6D7; border-radius: 1px; margin-bottom: 8px;"></div>
-<h4 style="margin: 0 0 8px 0; color: #8B7CFF; font-family: monospace; font-size: 11px; letter-spacing: 1px;">COMPUTER VISION</h4>
+<h4 style="margin: 0 0 8px 0; color: #62E6D7; font-family: monospace; font-size: 11px; letter-spacing: 1px;">COMPUTER VISION</h4>
 <p style="margin: 0; font-size: 12px; color: #9AA2B3; line-height: 1.5; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">OpenCV &middot; MediaPipe</p>
 </td>
 <td width="4%" style="border: none; padding: 0;"></td>
@@ -50,7 +50,7 @@ Currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at ANITS, 
 <tr style="border: none;">
 <td colspan="3" style="border-top: 1px solid rgba(139, 124, 255, 0.25); border-left: 1px solid rgba(139, 124, 255, 0.25); border-bottom: 1px solid rgba(98, 230, 215, 0.25); border-right: 1px solid rgba(98, 230, 215, 0.25); background: #0A0C10; padding: 15px; border-radius: 6px; vertical-align: top;">
 <div style="height: 2px; background: #8B7CFF; border-radius: 1px; margin-bottom: 8px;"></div>
-<h4 style="margin: 0 0 8px 0; color: #8B7CFF; font-family: monospace; font-size: 11px; letter-spacing: 1px;">DATA &amp; CLOUD</h4>
+<h4 style="margin: 0 0 8px 0; color: #62E6D7; font-family: monospace; font-size: 11px; letter-spacing: 1px;">DATA &amp; CLOUD</h4>
 <p style="margin: 0; font-size: 12px; color: #9AA2B3; line-height: 1.5; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">PostgreSQL &middot; MySQL &middot; MongoDB &middot; Firebase &middot; Google Cloud</p>
 </td>
 </tr>
@@ -58,13 +58,13 @@ Currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at ANITS, 
 
 ---
 
-## $\color{#8B7CFF}{\text{✦ What I Build}}$
+## <font color="#8B7CFF">✦ What I Build</font>
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; margin-top: 15px;">
 <tr style="border: none;">
 <td width="48%" style="border-top: 1px solid rgba(139, 124, 255, 0.25); border-left: 1px solid rgba(139, 124, 255, 0.25); border-bottom: 1px solid rgba(98, 230, 215, 0.25); border-right: 1px solid rgba(98, 230, 215, 0.25); background: #0A0C10; padding: 15px; border-radius: 6px; vertical-align: top;">
 <div style="height: 2px; background: #8B7CFF; border-radius: 1px; margin-bottom: 8px;"></div>
-<h4 style="margin: 0 0 4px 0; color: #8B7CFF; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px;">Machine Learning</h4>
+<h4 style="margin: 0 0 4px 0; color: #62E6D7; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px;">Machine Learning</h4>
 <p style="margin: 0; font-size: 12px; color: #9AA2B3; line-height: 1.4;">Predictive modeling &middot; Forecasting &middot; Classification</p>
 </td>
 <td width="4%" style="border: none; padding: 0;"></td>
@@ -84,7 +84,7 @@ Currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at ANITS, 
 <td width="4%" style="border: none; padding: 0;"></td>
 <td width="48%" style="border-top: 1px solid rgba(139, 124, 255, 0.25); border-left: 1px solid rgba(139, 124, 255, 0.25); border-bottom: 1px solid rgba(98, 230, 215, 0.25); border-right: 1px solid rgba(98, 230, 215, 0.25); background: #0A0C10; padding: 15px; border-radius: 6px; vertical-align: top;">
 <div style="height: 2px; background: #8B7CFF; border-radius: 1px; margin-bottom: 8px;"></div>
-<h4 style="margin: 0 0 4px 0; color: #8B7CFF; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px;">Computer Vision</h4>
+<h4 style="margin: 0 0 4px 0; color: #62E6D7; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px;">Computer Vision</h4>
 <p style="margin: 0; font-size: 12px; color: #9AA2B3; line-height: 1.4;">OpenCV &middot; MediaPipe &middot; Real-Time Vision</p>
 </td>
 </tr>
@@ -92,20 +92,20 @@ Currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at ANITS, 
 
 ---
 
-## $\color{#8B7CFF}{\text{✦ Selected Work}}$
+## <font color="#8B7CFF">✦ Selected Work</font>
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; margin-bottom: 20px;">
 <tr style="border: none;">
 <td style="border-top: 1px solid rgba(139, 124, 255, 0.25); border-left: 1px solid rgba(139, 124, 255, 0.25); border-bottom: 1px solid rgba(98, 230, 215, 0.25); border-right: 1px solid rgba(98, 230, 215, 0.25); background: #0A0C10; padding: 20px; border-radius: 6px; vertical-align: top;">
 <div style="height: 2px; background: #8B7CFF; border-radius: 1px; margin-bottom: 12px;"></div>
-<p style="color: #8B7CFF; font-family: monospace; font-size: 10px; margin: 0 0 4px 0; font-weight: 600; letter-spacing: 1px;">PROJECT 01</p>
-<h2 style="margin: 0 0 2px 0; font-size: 20px; color: #8B7CFF; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">ExpenseMate</h2>
-<h5 style="margin: 0 0 12px 0; color: #8B7CFF; font-size: 12px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600;">Multilingual Voice-First Financial Assistant</h5>
+<p style="color: #62E6D7; font-family: monospace; font-size: 10px; margin: 0 0 4px 0; font-weight: 600; letter-spacing: 1px;">PROJECT 01</p>
+<h2 style="margin: 0 0 2px 0; font-size: 20px; color: #62E6D7; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">ExpenseMate</h2>
+<h5 style="margin: 0 0 12px 0; color: #62E6D7; font-size: 12px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600;">Multilingual Voice-First Financial Assistant</h5>
 <p style="color: #9AA2B3; font-size: 12.5px; margin: 0 0 15px 0; line-height: 1.4; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">A multilingual voice-first financial assistant supporting English, Hindi, and Telugu. It combines real-time voice interactions, Gemini function calling, and multi-agent workflows to parse spoken commands into structured financial summaries.</p>
 <div align="center" style="margin: 15px 0;">
 <img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/expensemate-pipeline.svg" alt="ExpenseMate Voice Pipeline" width="830" style="max-width: 100%; border: none;" />
 </div>
-<p style="font-size: 10px; color: #8B7CFF; font-family: monospace; margin: 15px 0 6px 0; font-weight: 600; letter-spacing: 0.5px;">Core Stack</p>
+<p style="font-size: 10px; color: #62E6D7; font-family: monospace; margin: 15px 0 6px 0; font-weight: 600; letter-spacing: 0.5px;">Core Stack</p>
 <p style="margin: 0 0 15px 0; line-height: 1.8;">
   <code><font color="#8B7CFF">LiveKit</font></code> &nbsp;
   <code><font color="#8B7CFF">Google Gemini</font></code> &nbsp;
@@ -113,7 +113,7 @@ Currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at ANITS, 
   <code><font color="#8B7CFF">ASR/TTS</font></code> &nbsp;
   <code><font color="#8B7CFF">AI Agents</font></code>
 </p>
-<p style="font-size: 10px; color: #8B7CFF; font-family: monospace; margin: 10px 0 4px 0; font-weight: 600; letter-spacing: 0.5px;">Interactive Scope</p>
+<p style="font-size: 10px; color: #62E6D7; font-family: monospace; margin: 10px 0 4px 0; font-weight: 600; letter-spacing: 0.5px;">Interactive Scope</p>
 <p style="margin: 0 0 15px 0; font-size: 11.5px; font-family: monospace; color: #9AA2B3;">English · Hindi · Telugu · code-mixed multilingual interaction · low-latency WebRTC · outbound calling</p>
 <p style="margin: 0; font-size: 12px; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">
 <a href="https://github.com/Jhansi48/murf-livekit-starter" style="color: #62E6D7; text-decoration: none; font-weight: 600;">View Source &rarr;</a> &nbsp;&middot;&nbsp; 
@@ -154,14 +154,14 @@ Currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at ANITS, 
 <tr style="border: none;">
 <td style="border-top: 1px solid rgba(139, 124, 255, 0.25); border-left: 1px solid rgba(139, 124, 255, 0.25); border-bottom: 1px solid rgba(98, 230, 215, 0.25); border-right: 1px solid rgba(98, 230, 215, 0.25); background: #0A0C10; padding: 20px; border-radius: 6px; vertical-align: top;">
 <div style="height: 2px; background: #8B7CFF; border-radius: 1px; margin-bottom: 12px;"></div>
-<p style="color: #8B7CFF; font-family: monospace; font-size: 10px; margin: 0 0 4px 0; font-weight: 600; letter-spacing: 1px;">PROJECT 03</p>
-<h2 style="margin: 0 0 2px 0; font-size: 20px; color: #8B7CFF; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Telegram Voice Expense Bot</h2>
-<h5 style="margin: 0 0 12px 0; color: #8B7CFF; font-size: 12px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600;">Voice ➔ Structured Financial Data</h5>
+<p style="color: #62E6D7; font-family: monospace; font-size: 10px; margin: 0 0 4px 0; font-weight: 600; letter-spacing: 1px;">PROJECT 03</p>
+<h2 style="margin: 0 0 2px 0; font-size: 20px; color: #62E6D7; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Telegram Voice Expense Bot</h2>
+<h5 style="margin: 0 0 12px 0; color: #62E6D7; font-size: 12px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600;">Voice ➔ Structured Financial Data</h5>
 <p style="color: #9AA2B3; font-size: 12.5px; margin: 0 0 15px 0; line-height: 1.4; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Translates spoken financial entries into structured spreadsheet/database-ready data using Whisper automatic voice transcription.</p>
 <div align="center" style="margin: 15px 0;">
 <img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/telegrambot-pipeline.svg" alt="Telegram Bot Pipeline" width="180" style="max-width: 100%; border: none;" />
 </div>
-<p style="font-size: 10px; color: #8B7CFF; font-family: monospace; margin: 15px 0 6px 0; font-weight: 600; letter-spacing: 0.5px;">Core Stack</p>
+<p style="font-size: 10px; color: #62E6D7; font-family: monospace; margin: 15px 0 6px 0; font-weight: 600; letter-spacing: 0.5px;">Core Stack</p>
 <p style="margin: 0 0 15px 0; line-height: 1.8;">
   <code><font color="#8B7CFF">Whisper</font></code> &nbsp;
   <code><font color="#8B7CFF">Telegram API</font></code> &nbsp;
@@ -202,7 +202,7 @@ Currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at ANITS, 
 
 ---
 
-## $\color{#62E6D7}{\text{✦ Currently Exploring}}$
+## <font color="#8B7CFF">✦ Currently Exploring</font>
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; margin-top: 15px;">
 <tr style="border: none;">
@@ -216,7 +216,7 @@ Currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at ANITS, 
 
 ---
 
-## $\color{#8B7CFF}{\text{✦ Experience}}$
+## <font color="#8B7CFF">✦ Experience</font>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/experience-timeline.svg" alt="Experience Timeline" width="830" style="max-width: 100%; border-radius: 6px;" />
@@ -224,7 +224,7 @@ Currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at ANITS, 
 
 ---
 
-## $\color{#62E6D7}{\text{✦ Proof of Work}}$
+## <font color="#8B7CFF">✦ Proof of Work</font>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/proof-of-work.svg" alt="Proof of Work Metrics" width="830" style="max-width: 100%; border-radius: 6px;" />
@@ -232,7 +232,7 @@ Currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at ANITS, 
 
 ---
 
-## $\color{#8B7CFF}{\text{✦ GitHub Activity}}$
+## <font color="#8B7CFF">✦ GitHub Activity</font>
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; margin-top: 15px;">
 <tr style="border: none;">
