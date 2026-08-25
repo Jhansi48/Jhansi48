@@ -12,7 +12,7 @@
 
 I build practical AI systems that understand, predict, and interact. 
 
-Currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at ANITS, Visakhapatnam, with hands-on work across Machine Learning, Generative AI, Voice AI, and Computer Vision.
+Currently a final-year B.Tech student in Computer Science & Engineering (AI & ML) at ANITS, Visakhapatnam, with hands-on work across Machine Learning, Generative AI, Voice AI, and Computer Vision.
 
 ---
 
@@ -23,7 +23,7 @@ Currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at ANITS, 
 <td width="48%" style="border-top: 1px solid rgba(139, 124, 255, 0.25); border-left: 1px solid rgba(139, 124, 255, 0.25); border-bottom: 1px solid rgba(98, 230, 215, 0.25); border-right: 1px solid rgba(98, 230, 215, 0.25); background: #0A0C10; padding: 15px; border-radius: 6px; vertical-align: top;">
 <div style="height: 2px; background: #8B7CFF; border-radius: 1px; margin-bottom: 8px;"></div>
 <h4 style="margin: 0 0 8px 0; font-family: monospace; font-size: 11px; letter-spacing: 1px;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/intelligence.svg" alt="INTELLIGENCE" height="16"></h4>
-<p style="margin: 0; font-size: 12px; color: #9AA2B3; line-height: 1.5; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Python &middot; NumPy &middot; Pandas &middot; Scikit-learn &middot; XGBoost &middot; AutoGluon</p>
+<p style="margin: 0; font-size: 12px; color: #9AA2B3; line-height: 1.5; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Python • NumPy • Pandas • Scikit-learn • XGBoost • AutoGluon</p>
 </td>
 <td width="4%" style="border: none; padding: 0;"></td>
 <td width="48%" style="border-top: 1px solid rgba(139, 124, 255, 0.25); border-left: 1px solid rgba(139, 124, 255, 0.25); border-bottom: 1px solid rgba(98, 230, 215, 0.25); border-right: 1px solid rgba(98, 230, 215, 0.25); background: #0A0C10; padding: 15px; border-radius: 6px; vertical-align: top;">
@@ -37,13 +37,13 @@ Currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at ANITS, 
 <td width="48%" style="border-top: 1px solid rgba(139, 124, 255, 0.25); border-left: 1px solid rgba(139, 124, 255, 0.25); border-bottom: 1px solid rgba(98, 230, 215, 0.25); border-right: 1px solid rgba(98, 230, 215, 0.25); background: #0A0C10; padding: 15px; border-radius: 6px; vertical-align: top;">
 <div style="height: 2px; background: #62E6D7; border-radius: 1px; margin-bottom: 8px;"></div>
 <h4 style="margin: 0 0 8px 0; font-family: monospace; font-size: 11px; letter-spacing: 1px;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/computer_vision.svg" alt="COMPUTER VISION" height="16"></h4>
-<p style="margin: 0; font-size: 12px; color: #9AA2B3; line-height: 1.5; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">OpenCV &middot; MediaPipe</p>
+<p style="margin: 0; font-size: 12px; color: #9AA2B3; line-height: 1.5; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">OpenCV • MediaPipe</p>
 </td>
 <td width="4%" style="border: none; padding: 0;"></td>
 <td width="48%" style="border-top: 1px solid rgba(139, 124, 255, 0.25); border-left: 1px solid rgba(139, 124, 255, 0.25); border-bottom: 1px solid rgba(98, 230, 215, 0.25); border-right: 1px solid rgba(98, 230, 215, 0.25); background: #0A0C10; padding: 15px; border-radius: 6px; vertical-align: top;">
 <div style="height: 2px; background: #8B7CFF; border-radius: 1px; margin-bottom: 8px;"></div>
 <h4 style="margin: 0 0 8px 0; font-family: monospace; font-size: 11px; letter-spacing: 1px;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/application.svg" alt="APPLICATION" height="16"></h4>
-<p style="margin: 0; font-size: 12px; color: #9AA2B3; line-height: 1.5; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">FastAPI &middot; Angular &middot; React &middot; TypeScript &middot; SQLAlchemy &middot; JWT</p>
+<p style="margin: 0; font-size: 12px; color: #9AA2B3; line-height: 1.5; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">FastAPI • Angular • React • TypeScript • SQLAlchemy • JWT</p>
 </td>
 </tr>
 <tr style="border: none;"><td height="12" colspan="3" style="border: none; padding: 0;"></td></tr>
@@ -51,7 +51,7 @@ Currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at ANITS, 
 <td colspan="3" style="border-top: 1px solid rgba(139, 124, 255, 0.25); border-left: 1px solid rgba(139, 124, 255, 0.25); border-bottom: 1px solid rgba(98, 230, 215, 0.25); border-right: 1px solid rgba(98, 230, 215, 0.25); background: #0A0C10; padding: 15px; border-radius: 6px; vertical-align: top;">
 <div style="height: 2px; background: #8B7CFF; border-radius: 1px; margin-bottom: 8px;"></div>
 <h4 style="margin: 0 0 8px 0; font-family: monospace; font-size: 11px; letter-spacing: 1px;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/data_cloud.svg" alt="DATA &amp; CLOUD" height="16"></h4>
-<p style="margin: 0; font-size: 12px; color: #9AA2B3; line-height: 1.5; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">PostgreSQL &middot; MySQL &middot; MongoDB &middot; Firebase &middot; Google Cloud</p>
+<p style="margin: 0; font-size: 12px; color: #9AA2B3; line-height: 1.5; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">PostgreSQL • MySQL • MongoDB • Firebase • Google Cloud</p>
 </td>
 </tr>
 </table>
@@ -65,13 +65,13 @@ Currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at ANITS, 
 <td width="48%" style="border-top: 1px solid rgba(139, 124, 255, 0.25); border-left: 1px solid rgba(139, 124, 255, 0.25); border-bottom: 1px solid rgba(98, 230, 215, 0.25); border-right: 1px solid rgba(98, 230, 215, 0.25); background: #0A0C10; padding: 15px; border-radius: 6px; vertical-align: top;">
 <div style="height: 2px; background: #8B7CFF; border-radius: 1px; margin-bottom: 8px;"></div>
 <h4 style="margin: 0 0 4px 0; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/ml.svg" alt="Machine Learning" height="16"></h4>
-<p style="margin: 0; font-size: 12px; color: #9AA2B3; line-height: 1.4;">Predictive modeling &middot; Forecasting &middot; Classification</p>
+<p style="margin: 0; font-size: 12px; color: #9AA2B3; line-height: 1.4;">Predictive modeling • Forecasting • Classification</p>
 </td>
 <td width="4%" style="border: none; padding: 0;"></td>
 <td width="48%" style="border-top: 1px solid rgba(139, 124, 255, 0.25); border-left: 1px solid rgba(139, 124, 255, 0.25); border-bottom: 1px solid rgba(98, 230, 215, 0.25); border-right: 1px solid rgba(98, 230, 215, 0.25); background: #0A0C10; padding: 15px; border-radius: 6px; vertical-align: top;">
 <div style="height: 2px; background: #62E6D7; border-radius: 1px; margin-bottom: 8px;"></div>
 <h4 style="margin: 0 0 4px 0; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/gen_ai.svg" alt="Generative AI" height="16"></h4>
-<p style="margin: 0; font-size: 12px; color: #9AA2B3; line-height: 1.4;">LLMs &middot; RAG &middot; Function Calling &middot; AI Agents</p>
+<p style="margin: 0; font-size: 12px; color: #9AA2B3; line-height: 1.4;">LLMs • RAG • Function Calling • AI Agents</p>
 </td>
 </tr>
 <tr style="border: none;"><td height="12" colspan="3" style="border: none; padding: 0;"></td></tr>
@@ -79,13 +79,13 @@ Currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at ANITS, 
 <td width="48%" style="border-top: 1px solid rgba(139, 124, 255, 0.25); border-left: 1px solid rgba(139, 124, 255, 0.25); border-bottom: 1px solid rgba(98, 230, 215, 0.25); border-right: 1px solid rgba(98, 230, 215, 0.25); background: #0A0C10; padding: 15px; border-radius: 6px; vertical-align: top;">
 <div style="height: 2px; background: #62E6D7; border-radius: 1px; margin-bottom: 8px;"></div>
 <h4 style="margin: 0 0 4px 0; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/voice_ai.svg" alt="Voice AI" height="16"></h4>
-<p style="margin: 0; font-size: 12px; color: #9AA2B3; line-height: 1.4;">ASR &middot; TTS &middot; Multilingual Voice &middot; Conversational AI</p>
+<p style="margin: 0; font-size: 12px; color: #9AA2B3; line-height: 1.4;">ASR • TTS • Multilingual Voice • Conversational AI</p>
 </td>
 <td width="4%" style="border: none; padding: 0;"></td>
 <td width="48%" style="border-top: 1px solid rgba(139, 124, 255, 0.25); border-left: 1px solid rgba(139, 124, 255, 0.25); border-bottom: 1px solid rgba(98, 230, 215, 0.25); border-right: 1px solid rgba(98, 230, 215, 0.25); background: #0A0C10; padding: 15px; border-radius: 6px; vertical-align: top;">
 <div style="height: 2px; background: #8B7CFF; border-radius: 1px; margin-bottom: 8px;"></div>
 <h4 style="margin: 0 0 4px 0; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/cv.svg" alt="Computer Vision" height="16"></h4>
-<p style="margin: 0; font-size: 12px; color: #9AA2B3; line-height: 1.4;">OpenCV &middot; MediaPipe &middot; Real-Time Vision</p>
+<p style="margin: 0; font-size: 12px; color: #9AA2B3; line-height: 1.4;">OpenCV • MediaPipe • Real-Time Vision</p>
 </td>
 </tr>
 </table>

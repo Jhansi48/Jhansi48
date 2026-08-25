@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 100" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1050 100" width="100%" height="100%">
   <defs>
     <!-- Accent Gradients -->
     <linearGradient id="violetCyan" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -43,8 +43,20 @@
     <text x="20" y="78" fill="#8B7CFF" font-family="monospace" font-size="9" font-weight="600">School 2026</text>
   </g>
 
-  <!-- Card 4: B.Tech GPA -->
+  <!-- Card 4: Flipkart Grid 8.0 -->
   <g transform="translate(630, 0)">
+    <!-- Card Frame -->
+    <rect width="200" height="100" fill="#0A0C10" rx="6" stroke="rgba(255, 255, 255, 0.05)" stroke-width="1" />
+    <!-- Gradient Top Accent Line -->
+    <rect width="200" height="2" fill="url(#violetCyan)" rx="1" />
+    <!-- Metrics -->
+    <text x="20" y="42" fill="#F4F6FB" font-family="-apple-system, system-ui, sans-serif" font-size="18" font-weight="800" letter-spacing="-0.5">SEMI-FINALIST</text>
+    <text x="20" y="66" fill="#9AA2B3" font-family="monospace" font-size="9.5" font-weight="600">Flipkart Grid 8.0</text>
+    <text x="20" y="78" fill="#62E6D7" font-family="monospace" font-size="9" font-weight="600">Round 3 (Semi-Finalist)</text>
+  </g>
+
+  <!-- Card 5: B.Tech GPA -->
+  <g transform="translate(840, 0)">
     <!-- Card Frame -->
     <rect width="200" height="100" fill="#0A0C10" rx="6" stroke="rgba(255, 255, 255, 0.05)" stroke-width="1" />
     <!-- Gradient Top Accent Line -->
@@ -52,6 +64,6 @@
     <!-- Metrics -->
     <text x="20" y="42" fill="#F4F6FB" font-family="-apple-system, system-ui, sans-serif" font-size="24" font-weight="800">9.19/10</text>
     <text x="20" y="66" fill="#9AA2B3" font-family="monospace" font-size="9.5" font-weight="600">CGPA · ANITS</text>
-    <text x="20" y="78" fill="#62E6D7" font-family="monospace" font-size="9" font-weight="600">Visakhapatnam</text>
+    <text x="20" y="78" fill="#8B7CFF" font-family="monospace" font-size="9" font-weight="600">Visakhapatnam</text>
   </g>
 </svg>
