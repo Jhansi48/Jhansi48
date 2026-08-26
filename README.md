@@ -232,16 +232,21 @@ Currently a final-year B.Tech student in Computer Science & Engineering (AI & ML
 <div align="center">
   <img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/gradient-line.svg" alt="Divider Line" width="830" style="max-width: 100%; margin: 20px 0;" />
   
-  <h3 style="margin: 10px 0; letter-spacing: 2px; color: #F4F6FB; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">BUILD. LEARN. EXPERIMENT. CREATE IMPACT.</h3>
-  <p style="color: #9AA2B3; font-size: 13px; margin-bottom: 15px; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Building intelligent applications across AI, voice, vision and software.</p>
-  
-  <p>
-    <code><a href="https://jhansi48.github.io/Portfolio/">Portfolio</a></code> &nbsp;&middot;&nbsp; 
-    <code><a href="https://www.linkedin.com/in/jhansi-lakshmi-sambhana-64ba35393/">LinkedIn</a></code> &nbsp;&middot;&nbsp; 
-    <code><a href="https://github.com/jhansi48">GitHub</a></code> &nbsp;&middot;&nbsp; 
-    <code><a href="https://leetcode.com/u/jhansi_lakshmi_sambhana/">LeetCode</a></code> &nbsp;&middot;&nbsp; 
-    <code><a href="https://www.credly.com/users/jhansi-lakshmi-sambhana">Credly</a></code>
-  </p>
+  <table width="100%" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed; width: 100%; border-collapse: collapse; border: none;">
+  <tr style="border: none; background: transparent;">
+  <td align="center" style="border: 1px solid #303640; background: #0A0C10; padding: 25px; border-radius: 6px; vertical-align: middle;">
+    <p style="margin: 0 0 10px 0; letter-spacing: 2px;"><font size="4" color="#8B7CFF"><b>BUILD. LEARN. EXPERIMENT. CREATE IMPACT.</b></font></p>
+    <p style="color: #9AA2B3; font-size: 13px; margin: 0 0 20px 0; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Building intelligent applications across AI, voice, vision and software.</p>
+    <p style="margin: 0; font-size: 13.5px; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">
+      <code><a href="https://jhansi48.github.io/Portfolio/" style="color: #62E6D7; text-decoration: none; font-weight: 600;">Portfolio</a></code> &nbsp;&middot;&nbsp; 
+      <code><a href="https://www.linkedin.com/in/jhansi-lakshmi-sambhana-64ba35393/" style="color: #62E6D7; text-decoration: none; font-weight: 600;">LinkedIn</a></code> &nbsp;&middot;&nbsp; 
+      <code><a href="https://github.com/jhansi48" style="color: #62E6D7; text-decoration: none; font-weight: 600;">GitHub</a></code> &nbsp;&middot;&nbsp; 
+      <code><a href="https://leetcode.com/u/jhansi_lakshmi_sambhana/" style="color: #62E6D7; text-decoration: none; font-weight: 600;">LeetCode</a></code> &nbsp;&middot;&nbsp; 
+      <code><a href="https://www.credly.com/users/jhansi-lakshmi-sambhana" style="color: #62E6D7; text-decoration: none; font-weight: 600;">Credly</a></code>
+    </p>
+  </td>
+  </tr>
+  </table>
   
   <img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/gradient-line.svg" alt="Divider Line" width="830" style="max-width: 100%; margin: 20px 0;" />
 </div>
