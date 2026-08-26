@@ -64,13 +64,13 @@ Currently a final-year B.Tech student in Computer Science & Engineering (AI & ML
 <tr style="border: none;">
 <td width="48%" style="border: 1px solid #303640; background: #0A0C10; padding: 15px; border-radius: 6px; vertical-align: top;">
 <div style="height: 2px; background: #8B7CFF; border-radius: 1px; margin-bottom: 8px;"></div>
-<h4 style="margin: 0 0 4px 0; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 16px;"><font color="#62E6D7">Machine Learning</font></h4>
+<p style="margin: 0 0 4px 0; font-family: -apple-system, BlinkMacSystemFont, sans-serif;"><font size="4" color="#62E6D7"><b>Machine Learning</b></font></p>
 <p style="margin: 0; font-size: 12px; color: #9AA2B3; line-height: 1.4;">Predictive modeling · Forecasting · Classification</p>
 </td>
 <td width="4%" style="border: none; padding: 0;"></td>
 <td width="48%" style="border: 1px solid #303640; background: #0A0C10; padding: 15px; border-radius: 6px; vertical-align: top;">
 <div style="height: 2px; background: #62E6D7; border-radius: 1px; margin-bottom: 8px;"></div>
-<h4 style="margin: 0 0 4px 0; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 16px;"><font color="#62E6D7">Generative AI</font></h4>
+<p style="margin: 0 0 4px 0; font-family: -apple-system, BlinkMacSystemFont, sans-serif;"><font size="4" color="#62E6D7"><b>Generative AI</b></font></p>
 <p style="margin: 0; font-size: 12px; color: #9AA2B3; line-height: 1.4;">LLMs · RAG · Function Calling · AI Agents</p>
 </td>
 </tr>
@@ -78,13 +78,13 @@ Currently a final-year B.Tech student in Computer Science & Engineering (AI & ML
 <tr style="border: none;">
 <td width="48%" style="border: 1px solid #303640; background: #0A0C10; padding: 15px; border-radius: 6px; vertical-align: top;">
 <div style="height: 2px; background: #62E6D7; border-radius: 1px; margin-bottom: 8px;"></div>
-<h4 style="margin: 0 0 4px 0; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 16px;"><font color="#62E6D7">Voice AI</font></h4>
+<p style="margin: 0 0 4px 0; font-family: -apple-system, BlinkMacSystemFont, sans-serif;"><font size="4" color="#62E6D7"><b>Voice AI</b></font></p>
 <p style="margin: 0; font-size: 12px; color: #9AA2B3; line-height: 1.4;">ASR · TTS · Multilingual Voice · Conversational AI</p>
 </td>
 <td width="4%" style="border: none; padding: 0;"></td>
 <td width="48%" style="border: 1px solid #303640; background: #0A0C10; padding: 15px; border-radius: 6px; vertical-align: top;">
 <div style="height: 2px; background: #8B7CFF; border-radius: 1px; margin-bottom: 8px;"></div>
-<h4 style="margin: 0 0 4px 0; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 16px;"><font color="#62E6D7">Computer Vision</font></h4>
+<p style="margin: 0 0 4px 0; font-family: -apple-system, BlinkMacSystemFont, sans-serif;"><font size="4" color="#62E6D7"><b>Computer Vision</b></font></p>
 <p style="margin: 0; font-size: 12px; color: #9AA2B3; line-height: 1.4;">OpenCV · MediaPipe · Real-Time Vision</p>
 </td>
 </tr>
