@@ -10,7 +10,7 @@
   <!-- Card 1: LeetCode -->
   <g transform="translate(0, 0)">
     <!-- Card Frame -->
-    <rect width="220" height="110" fill="#0A0C10" rx="6" stroke="#303640" stroke-width="1" />
+    <rect width="220" height="110" fill="#0A0C10" rx="6" stroke="#6974B8" stroke-width="1" />
     <!-- Gradient Top Accent Line -->
     <rect width="220" height="2" fill="url(#violetCyan)" rx="1" />
     <!-- Metrics -->
@@ -22,7 +22,7 @@
   <!-- Card 2: Google Cloud -->
   <g transform="translate(232, 0)">
     <!-- Card Frame -->
-    <rect width="220" height="110" fill="#0A0C10" rx="6" stroke="#303640" stroke-width="1" />
+    <rect width="220" height="110" fill="#0A0C10" rx="6" stroke="#6974B8" stroke-width="1" />
     <!-- Gradient Top Accent Line -->
     <rect width="220" height="2" fill="url(#violetCyan)" rx="1" />
     <!-- Metrics -->
@@ -34,7 +34,7 @@
   <!-- Card 3: Amazon ML School -->
   <g transform="translate(464, 0)">
     <!-- Card Frame -->
-    <rect width="220" height="110" fill="#0A0C10" rx="6" stroke="#303640" stroke-width="1" />
+    <rect width="220" height="110" fill="#0A0C10" rx="6" stroke="#6974B8" stroke-width="1" />
     <!-- Gradient Top Accent Line -->
     <rect width="220" height="2" fill="url(#violetCyan)" rx="1" />
     <!-- Metrics -->
@@ -46,7 +46,7 @@
   <!-- Card 4: Flipkart Grid 8.0 -->
   <g transform="translate(696, 0)">
     <!-- Card Frame -->
-    <rect width="220" height="110" fill="#0A0C10" rx="6" stroke="#303640" stroke-width="1" />
+    <rect width="220" height="110" fill="#0A0C10" rx="6" stroke="#6974B8" stroke-width="1" />
     <!-- Gradient Top Accent Line -->
     <rect width="220" height="2" fill="url(#violetCyan)" rx="1" />
     <!-- Metrics -->
@@ -58,7 +58,7 @@
   <!-- Card 5: B.Tech GPA -->
   <g transform="translate(928, 0)">
     <!-- Card Frame -->
-    <rect width="220" height="110" fill="#0A0C10" rx="6" stroke="#303640" stroke-width="1" />
+    <rect width="220" height="110" fill="#0A0C10" rx="6" stroke="#6974B8" stroke-width="1" />
     <!-- Gradient Top Accent Line -->
     <rect width="220" height="2" fill="url(#violetCyan)" rx="1" />
     <!-- Metrics -->
