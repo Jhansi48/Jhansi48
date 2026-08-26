@@ -215,7 +215,7 @@ Currently a final-year B.Tech student in Computer Science & Engineering (AI & ML
 
 ## <font color="#8B7CFF">✦ GitHub Activity</font>
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; background: transparent; margin-top: 15px;">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed; width: 100%; border-collapse: collapse; border: none; background: transparent; margin-top: 15px;">
 <tr style="border: none; background: transparent;">
 <td width="48%" style="border: none; background: transparent; padding: 0; vertical-align: top;">
   <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: 1px solid #303640; background: #0A0C10; border-radius: 6px;">
