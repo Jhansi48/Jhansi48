@@ -137,7 +137,7 @@ Currently a final-year B.Tech student in Computer Science & Engineering (AI & ML
 <div style="height: 2px; background: #62E6D7; border-radius: 1px; margin-bottom: 12px;"></div>
 <p style="margin: 0 0 4px 0; font-family: monospace; font-size: 10px; font-weight: 600; letter-spacing: 1px;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/project02.svg" alt="PROJECT 02" height="13"></p>
 <h2 style="margin: 0 0 2px 0; font-size: 20px; font-family: -apple-system, BlinkMacSystemFont, sans-serif;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/vendoriq.svg" alt="Vendor IQ" height="28"></h2>
-<h5 style="margin: 0 0 12px 0; font-size: 12px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/vendoriq_sub.svg" alt="Vendor Reliability &amp; Procurement Risk Platform" height="16"></h5>
+<h5 style="margin: 0 0 12px 0; font-size: 12px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/vendoriq_sub.svg?v=4" alt="Vendor Reliability Intelligence and Procurement Risk Management Platform" height="16"></h5>
 <p style="color: #9AA2B3; font-size: 13.5px; margin: 0 0 15px 0; line-height: 1.4; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Analyzes procurement data and vendor reliability signals to support risk-aware decision making.</p>
 <div align="center" style="margin: 15px 0;">
 <img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/vendoriq-pipeline.svg" alt="Vendor IQ Pipeline" width="180" style="max-width: 100%; border: none;" />
