@@ -218,11 +218,11 @@ Currently a final-year B.Tech student in Computer Science & Engineering (AI & ML
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; margin-top: 15px;">
 <tr style="border: none;">
 <td width="48%" align="center" style="border: 1px solid #303640; background: #0A0C10; padding: 15px; border-radius: 6px; vertical-align: middle;">
-<img src="https://github-readme-stats.vercel.app/api?username=Jhansi48&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true" alt="GitHub Stats" style="max-width: 100%; border: none;" />
+<img src="https://github-stats-extended.vercel.app/api?username=Jhansi48&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true" alt="GitHub Stats" style="max-width: 100%; border: none;" />
 </td>
 <td width="4%" style="border: none; padding: 0;"></td>
 <td width="48%" align="center" style="border: 1px solid #303640; background: #0A0C10; padding: 15px; border-radius: 6px; vertical-align: middle;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhansi48&amp;layout=compact&amp;theme=transparent&amp;hide_border=true" alt="Top Languages" style="max-width: 100%; border: none;" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jhansi48&amp;layout=compact&amp;theme=transparent&amp;hide_border=true" alt="Top Languages" style="max-width: 100%; border: none;" />
 </td>
 </tr>
 </table>
