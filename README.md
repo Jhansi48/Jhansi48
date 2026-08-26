@@ -235,8 +235,8 @@ Currently a final-year B.Tech student in Computer Science & Engineering (AI & ML
   <table width="100%" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed; width: 100%; border-collapse: collapse; border: none;">
   <tr style="border: none; background: transparent;">
   <td align="center" style="border: 1px solid #303640; background: #0A0C10; padding: 25px; border-radius: 6px; vertical-align: middle;">
-    <p style="margin: 0 0 10px 0; letter-spacing: 2px;"><font size="4" color="#8B7CFF"><b>BUILD. LEARN. EXPERIMENT. CREATE IMPACT.</b></font></p>
-    <p style="color: #9AA2B3; font-size: 13px; margin: 0 0 20px 0; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Building intelligent applications across AI, voice, vision and software.</p>
+    <p style="margin: 0 0 10px 0; letter-spacing: 2px;"><font size="4" color="#8B7CFF"><b>CURIOUS BY DEFAULT. BUILDING WITH PURPOSE.</b></font></p>
+    <p style="color: #9AA2B3; font-size: 13px; margin: 0 0 20px 0; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Always exploring new ideas, turning experiments into working systems, and learning something new with every build.</p>
     <p style="margin: 0; font-size: 13.5px; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">
       <code><a href="https://jhansi48.github.io/Portfolio/" style="color: #62E6D7; text-decoration: none; font-weight: 600;">Portfolio</a></code> &nbsp;&middot;&nbsp; 
       <code><a href="https://www.linkedin.com/in/jhansi-lakshmi-sambhana-64ba35393/" style="color: #62E6D7; text-decoration: none; font-weight: 600;">LinkedIn</a></code> &nbsp;&middot;&nbsp; 
