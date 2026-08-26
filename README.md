@@ -189,7 +189,7 @@ Currently a final-year B.Tech student in Computer Science & Engineering (AI & ML
 <tr style="border: none;">
 <td style="border: 1px solid #6974B8; background: #0A0C10; padding: 25px; border-radius: 6px; vertical-align: top;">
 <div align="center">
-<img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/exploring-roadmap.svg" alt="Exploring Roadmap" width="830" style="max-width: 100%; border: none;" />
+<img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/exploring-roadmap.svg?v=3" alt="Exploring Roadmap" width="830" style="max-width: 100%; border: none;" />
 </div>
 </td>
 </tr>
@@ -208,7 +208,7 @@ Currently a final-year B.Tech student in Computer Science & Engineering (AI & ML
 ## <img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/headings/proof_of_work.svg" alt="✦ Proof of Work" height="22">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/proof-of-work.svg" alt="Proof of Work Metrics" width="830" style="max-width: 100%; border-radius: 6px;" />
+  <img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/proof-of-work.svg?v=3" alt="Proof of Work Metrics" width="830" style="max-width: 100%; border-radius: 6px;" />
 </div>
 
 ---
