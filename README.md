@@ -19,39 +19,49 @@ Currently a final-year B.Tech student in Computer Science & Engineering (AI & ML
 ## <img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/headings/tools_i_build_with.svg" alt="✦ Tools I Build With" height="22">
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; margin-top: 15px;">
-<tr style="border: none;">
-<td width="48%" style="border: 1px solid #6974B8; background: #0A0C10; padding: 15px; border-radius: 6px; vertical-align: top;">
-<div style="height: 2px; background: #8B7CFF; border-radius: 1px; margin-bottom: 8px;"></div>
-<h4 style="margin: 0 0 8px 0; font-family: monospace; font-size: 11px; letter-spacing: 1px;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/intelligence.svg" alt="INTELLIGENCE" height="18"></h4>
-<p style="margin: 0; font-size: 12px; color: #9AA2B3; line-height: 1.5; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Python · NumPy · Pandas · Scikit-learn · XGBoost · AutoGluon</p>
+<tr style="border: none; background: transparent;">
+<td width="48%" style="border: none; background: transparent; padding: 0; vertical-align: top;">
+  <div style="border: 1px solid #6974B8; background: #0A0C10; padding: 15px; border-radius: 6px;">
+    <div style="height: 2px; background: #8B7CFF; border-radius: 1px; margin-bottom: 8px;"></div>
+    <h4 style="margin: 0 0 8px 0; font-family: monospace; font-size: 11px; letter-spacing: 1px;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/intelligence.svg" alt="INTELLIGENCE" height="18"></h4>
+    <p style="margin: 0; font-size: 12px; color: #9AA2B3; line-height: 1.5; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Python · NumPy · Pandas · Scikit-learn · XGBoost · AutoGluon</p>
+  </div>
 </td>
-<td width="4%" style="border: none; padding: 0;"></td>
-<td width="48%" style="border: 1px solid #6974B8; background: #0A0C10; padding: 15px; border-radius: 6px; vertical-align: top;">
-<div style="height: 2px; background: #62E6D7; border-radius: 1px; margin-bottom: 8px;"></div>
-<h4 style="margin: 0 0 8px 0; font-family: monospace; font-size: 11px; letter-spacing: 1px;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/generative_voice.svg" alt="GENERATIVE &amp; VOICE" height="18"></h4>
-<p style="margin: 0; font-size: 12px; color: #9AA2B3; line-height: 1.5; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Google Gemini · OpenAI · LLMs · RAG · AI Agents · Function Calling</p>
-</td>
-</tr>
-<tr style="border: none;"><td height="12" colspan="3" style="border: none; padding: 0;"></td></tr>
-<tr style="border: none;">
-<td width="48%" style="border: 1px solid #6974B8; background: #0A0C10; padding: 15px; border-radius: 6px; vertical-align: top;">
-<div style="height: 2px; background: #62E6D7; border-radius: 1px; margin-bottom: 8px;"></div>
-<h4 style="margin: 0 0 8px 0; font-family: monospace; font-size: 11px; letter-spacing: 1px;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/computer_vision.svg" alt="COMPUTER VISION" height="18"></h4>
-<p style="margin: 0; font-size: 12px; color: #9AA2B3; line-height: 1.5; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">OpenCV · MediaPipe</p>
-</td>
-<td width="4%" style="border: none; padding: 0;"></td>
-<td width="48%" style="border: 1px solid #6974B8; background: #0A0C10; padding: 15px; border-radius: 6px; vertical-align: top;">
-<div style="height: 2px; background: #8B7CFF; border-radius: 1px; margin-bottom: 8px;"></div>
-<h4 style="margin: 0 0 8px 0; font-family: monospace; font-size: 11px; letter-spacing: 1px;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/application.svg" alt="APPLICATION" height="18"></h4>
-<p style="margin: 0; font-size: 12px; color: #9AA2B3; line-height: 1.5; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">FastAPI · Angular · React · TypeScript · SQLAlchemy · JWT</p>
+<td width="4%" style="border: none; background: transparent; padding: 0;"></td>
+<td width="48%" style="border: none; background: transparent; padding: 0; vertical-align: top;">
+  <div style="border: 1px solid #6974B8; background: #0A0C10; padding: 15px; border-radius: 6px;">
+    <div style="height: 2px; background: #62E6D7; border-radius: 1px; margin-bottom: 8px;"></div>
+    <h4 style="margin: 0 0 8px 0; font-family: monospace; font-size: 11px; letter-spacing: 1px;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/generative_voice.svg" alt="GENERATIVE &amp; VOICE" height="18"></h4>
+    <p style="margin: 0; font-size: 12px; color: #9AA2B3; line-height: 1.5; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Google Gemini · OpenAI · LLMs · RAG · AI Agents · Function Calling</p>
+  </div>
 </td>
 </tr>
-<tr style="border: none;"><td height="12" colspan="3" style="border: none; padding: 0;"></td></tr>
-<tr style="border: none;">
-<td colspan="3" style="border: 1px solid #6974B8; background: #0A0C10; padding: 15px; border-radius: 6px; vertical-align: top;">
-<div style="height: 2px; background: #8B7CFF; border-radius: 1px; margin-bottom: 8px;"></div>
-<h4 style="margin: 0 0 8px 0; font-family: monospace; font-size: 11px; letter-spacing: 1px;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/data_cloud.svg" alt="DATA &amp; CLOUD" height="18"></h4>
-<p style="margin: 0; font-size: 12px; color: #9AA2B3; line-height: 1.5; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">PostgreSQL · MySQL · MongoDB · Firebase · Google Cloud</p>
+<tr style="border: none;"><td height="12" colspan="3" style="border: none; background: transparent; padding: 0;"></td></tr>
+<tr style="border: none; background: transparent;">
+<td width="48%" style="border: none; background: transparent; padding: 0; vertical-align: top;">
+  <div style="border: 1px solid #6974B8; background: #0A0C10; padding: 15px; border-radius: 6px;">
+    <div style="height: 2px; background: #62E6D7; border-radius: 1px; margin-bottom: 8px;"></div>
+    <h4 style="margin: 0 0 8px 0; font-family: monospace; font-size: 11px; letter-spacing: 1px;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/computer_vision.svg" alt="COMPUTER VISION" height="18"></h4>
+    <p style="margin: 0; font-size: 12px; color: #9AA2B3; line-height: 1.5; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">OpenCV · MediaPipe</p>
+  </div>
+</td>
+<td width="4%" style="border: none; background: transparent; padding: 0;"></td>
+<td width="48%" style="border: none; background: transparent; padding: 0; vertical-align: top;">
+  <div style="border: 1px solid #6974B8; background: #0A0C10; padding: 15px; border-radius: 6px;">
+    <div style="height: 2px; background: #8B7CFF; border-radius: 1px; margin-bottom: 8px;"></div>
+    <h4 style="margin: 0 0 8px 0; font-family: monospace; font-size: 11px; letter-spacing: 1px;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/application.svg" alt="APPLICATION" height="18"></h4>
+    <p style="margin: 0; font-size: 12px; color: #9AA2B3; line-height: 1.5; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">FastAPI · Angular · React · TypeScript · SQLAlchemy · JWT</p>
+  </div>
+</td>
+</tr>
+<tr style="border: none;"><td height="12" colspan="3" style="border: none; background: transparent; padding: 0;"></td></tr>
+<tr style="border: none; background: transparent;">
+<td colspan="3" style="border: none; background: transparent; padding: 0; vertical-align: top;">
+  <div style="border: 1px solid #6974B8; background: #0A0C10; padding: 15px; border-radius: 6px;">
+    <div style="height: 2px; background: #8B7CFF; border-radius: 1px; margin-bottom: 8px;"></div>
+    <h4 style="margin: 0 0 8px 0; font-family: monospace; font-size: 11px; letter-spacing: 1px;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/data_cloud.svg" alt="DATA &amp; CLOUD" height="18"></h4>
+    <p style="margin: 0; font-size: 12px; color: #9AA2B3; line-height: 1.5; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">PostgreSQL · MySQL · MongoDB · Firebase · Google Cloud</p>
+  </div>
 </td>
 </tr>
 </table>
@@ -96,7 +106,8 @@ Currently a final-year B.Tech student in Computer Science & Engineering (AI & ML
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; margin-bottom: 20px;">
 <tr style="border: none;">
-<td style="border: 1px solid #6974B8; background: #0A0C10; padding: 25px; border-radius: 6px; vertical-align: top;">
+<td style="border: none; background: transparent; padding: 0; vertical-align: top;">
+  <div style="border: 1px solid #6974B8; background: #0A0C10; padding: 25px; border-radius: 6px;">
 <div style="height: 2px; background: #8B7CFF; border-radius: 1px; margin-bottom: 12px;"></div>
 <p style="margin: 0 0 4px 0; font-family: monospace; font-size: 10px; font-weight: 600; letter-spacing: 1px;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/project01.svg" alt="PROJECT 01" height="13"></p>
 <h2 style="margin: 0 0 2px 0; font-size: 20px; font-family: -apple-system, BlinkMacSystemFont, sans-serif;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/expensemate.svg" alt="ExpenseMate" height="28"></h2>
@@ -113,13 +124,16 @@ Currently a final-year B.Tech student in Computer Science & Engineering (AI & ML
 <a href="https://github.com/Jhansi48/murf-livekit-starter" style="color: #62E6D7; text-decoration: none; font-weight: 600;">View Source &rarr;</a> &nbsp;&middot;&nbsp; 
 <a href="https://dev.to/jhansi_lakshmisambhana/from-make-it-talk-to-make-it-think-my-10-day-voice-ai-journey-3280" style="color: #62E6D7; text-decoration: none; font-weight: 600;">Technical Deep Dive &rarr;</a>
 </p>
+
+  </div>
 </td>
 </tr>
 </table>
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; margin-bottom: 20px;">
 <tr style="border: none;">
-<td style="border: 1px solid #6974B8; background: #0A0C10; padding: 25px; border-radius: 6px; vertical-align: top;">
+<td style="border: none; background: transparent; padding: 0; vertical-align: top;">
+  <div style="border: 1px solid #6974B8; background: #0A0C10; padding: 25px; border-radius: 6px;">
 <div style="height: 2px; background: #62E6D7; border-radius: 1px; margin-bottom: 12px;"></div>
 <p style="margin: 0 0 4px 0; font-family: monospace; font-size: 10px; font-weight: 600; letter-spacing: 1px;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/project02.svg" alt="PROJECT 02" height="13"></p>
 <h2 style="margin: 0 0 2px 0; font-size: 20px; font-family: -apple-system, BlinkMacSystemFont, sans-serif;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/vendoriq.svg" alt="Vendor IQ" height="28"></h2>
@@ -135,13 +149,16 @@ Currently a final-year B.Tech student in Computer Science & Engineering (AI & ML
 <a href="https://vendoriq-rho.vercel.app/" style="color: #62E6D7; text-decoration: none; font-weight: 600;">Live Demo &nearrow;</a>
 </p>
 <img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/gradient-line.svg" width="850" height="1" style="display: block; opacity: 0; margin: 0; height: 1px;" />
+
+  </div>
 </td>
 </tr>
 </table>
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; margin-bottom: 20px;">
 <tr style="border: none;">
-<td style="border: 1px solid #6974B8; background: #0A0C10; padding: 25px; border-radius: 6px; vertical-align: top;">
+<td style="border: none; background: transparent; padding: 0; vertical-align: top;">
+  <div style="border: 1px solid #6974B8; background: #0A0C10; padding: 25px; border-radius: 6px;">
 <div style="height: 2px; background: #8B7CFF; border-radius: 1px; margin-bottom: 12px;"></div>
 <p style="margin: 0 0 4px 0; font-family: monospace; font-size: 10px; font-weight: 600; letter-spacing: 1px;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/project03.svg" alt="PROJECT 03" height="13"></p>
 <h2 style="margin: 0 0 2px 0; font-size: 20px; font-family: -apple-system, BlinkMacSystemFont, sans-serif;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/telegrambot.svg" alt="Telegram Voice Expense Bot" height="28"></h2>
@@ -156,13 +173,16 @@ Currently a final-year B.Tech student in Computer Science & Engineering (AI & ML
 <a href="https://github.com/Jhansi48/expense-telegram-bot" style="color: #62E6D7; text-decoration: none; font-weight: 600;">View Source &rarr;</a>
 </p>
 <img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/gradient-line.svg" width="850" height="1" style="display: block; opacity: 0; margin: 0; height: 1px;" />
+
+  </div>
 </td>
 </tr>
 </table>
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; margin-bottom: 20px;">
 <tr style="border: none;">
-<td style="border: 1px solid #6974B8; background: #0A0C10; padding: 25px; border-radius: 6px; vertical-align: top;">
+<td style="border: none; background: transparent; padding: 0; vertical-align: top;">
+  <div style="border: 1px solid #6974B8; background: #0A0C10; padding: 25px; border-radius: 6px;">
 <div style="height: 2px; background: #62E6D7; border-radius: 1px; margin-bottom: 12px;"></div>
 <p style="margin: 0 0 4px 0; font-family: monospace; font-size: 10px; font-weight: 600; letter-spacing: 1px;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/project04.svg" alt="PROJECT 04" height="13"></p>
 <h2 style="margin: 0 0 2px 0; font-size: 20px; font-family: -apple-system, BlinkMacSystemFont, sans-serif;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/gesture.svg" alt="Gesture-Controlled Subway Surfers" height="28"></h2>
@@ -177,6 +197,8 @@ Currently a final-year B.Tech student in Computer Science & Engineering (AI & ML
 <a href="https://github.com/Jhansi48/AI-Gesture-SubwaySurfers" style="color: #62E6D7; text-decoration: none; font-weight: 600;">View Source &rarr;</a>
 </p>
 <img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/gradient-line.svg" width="850" height="1" style="display: block; opacity: 0; margin: 0; height: 1px;" />
+
+  </div>
 </td>
 </tr>
 </table>
@@ -187,10 +209,13 @@ Currently a final-year B.Tech student in Computer Science & Engineering (AI & ML
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; margin-top: 15px;">
 <tr style="border: none;">
-<td style="border: 1px solid #6974B8; background: #0A0C10; padding: 25px; border-radius: 6px; vertical-align: top;">
+<td style="border: none; background: transparent; padding: 0; vertical-align: top;">
+  <div style="border: 1px solid #6974B8; background: #0A0C10; padding: 25px; border-radius: 6px;">
 <div align="center">
 <img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/exploring-roadmap.svg?v=3" alt="Exploring Roadmap" width="830" style="max-width: 100%; border: none;" />
 </div>
+
+  </div>
 </td>
 </tr>
 </table>
@@ -217,12 +242,16 @@ Currently a final-year B.Tech student in Computer Science & Engineering (AI & ML
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed; width: 100%; border-collapse: separate; border-spacing: 0; border: none; background: transparent; margin-top: 15px;">
 <tr style="border: none; background: transparent;">
-<td width="48%" align="center" style="border: 1px solid #6974B8; background: #0A0C10; padding: 15px; border-radius: 6px; vertical-align: middle;">
-  <img src="https://github-stats-extended.vercel.app/api?username=Jhansi48&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true" alt="GitHub Stats" width="100%" style="max-width: 100%; height: auto; border: none; display: block;" />
+<td width="48%" style="border: none; background: transparent; padding: 0; vertical-align: middle;">
+  <div align="center" style="border: 1px solid #6974B8; background: #0A0C10; padding: 15px; border-radius: 6px;">
+    <img src="https://github-stats-extended.vercel.app/api?username=Jhansi48&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true" alt="GitHub Stats" width="100%" style="max-width: 100%; height: auto; border: none; display: block;" />
+  </div>
 </td>
 <td width="4%" style="border: none; background: transparent; padding: 0;"></td>
-<td width="48%" align="center" style="border: 1px solid #6974B8; background: #0A0C10; padding: 15px; border-radius: 6px; vertical-align: middle;">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jhansi48&amp;layout=compact&amp;theme=transparent&amp;hide_border=true" alt="Top Languages" width="100%" style="max-width: 100%; height: auto; border: none; display: block;" />
+<td width="48%" style="border: none; background: transparent; padding: 0; vertical-align: middle;">
+  <div align="center" style="border: 1px solid #6974B8; background: #0A0C10; padding: 15px; border-radius: 6px;">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jhansi48&amp;layout=compact&amp;theme=transparent&amp;hide_border=true" alt="Top Languages" width="100%" style="max-width: 100%; height: auto; border: none; display: block;" />
+  </div>
 </td>
 </tr>
 </table>
@@ -232,16 +261,18 @@ Currently a final-year B.Tech student in Computer Science & Engineering (AI & ML
 <div align="center">
   <table width="100%" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed; width: 100%; border-collapse: collapse; border: none; margin-top: 20px;">
   <tr style="border: none; background: transparent;">
-  <td align="center" style="border: 1px solid #6974B8; background: #0A0C10; padding: 25px; border-radius: 6px; color: #E6EAF0; vertical-align: middle;">
-    <p style="margin: 0 0 10px 0; letter-spacing: 2px;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/footer_tagline.svg" alt="CURIOUS BY DEFAULT. BUILDING WITH PURPOSE." height="18" /></p>
-    <p style="font-size: 13px; margin: 0 0 20px 0; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Always exploring new ideas, turning experiments into working systems, and learning something new with every build.</p>
-    <p style="margin: 0; font-size: 13.5px; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">
-      <code><a href="https://jhansi48.github.io/Portfolio/">Portfolio</a></code> &nbsp;&middot;&nbsp; 
-      <code><a href="https://www.linkedin.com/in/jhansi-lakshmi-sambhana-64ba35393/">LinkedIn</a></code> &nbsp;&middot;&nbsp; 
-      <code><a href="https://github.com/jhansi48">GitHub</a></code> &nbsp;&middot;&nbsp; 
-      <code><a href="https://leetcode.com/u/jhansi_lakshmi_sambhana/">LeetCode</a></code> &nbsp;&middot;&nbsp; 
-      <code><a href="https://www.credly.com/users/jhansi-lakshmi-sambhana">Credly</a></code>
-    </p>
+  <td style="border: none; background: transparent; padding: 0; vertical-align: middle;">
+    <div align="center" style="border: 1px solid #6974B8; background: #0A0C10; padding: 25px; border-radius: 6px; color: #E6EAF0;">
+      <p style="margin: 0 0 10px 0; letter-spacing: 2px;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/footer_tagline.svg" alt="CURIOUS BY DEFAULT. BUILDING WITH PURPOSE." height="18" /></p>
+      <p style="font-size: 13px; margin: 0 0 20px 0; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Always exploring new ideas, turning experiments into working systems, and learning something new with every build.</p>
+      <p style="margin: 0; font-size: 13.5px; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">
+        <code><a href="https://jhansi48.github.io/Portfolio/">Portfolio</a></code> &nbsp;&middot;&nbsp; 
+        <code><a href="https://www.linkedin.com/in/jhansi-lakshmi-sambhana-64ba35393/">LinkedIn</a></code> &nbsp;&middot;&nbsp; 
+        <code><a href="https://github.com/jhansi48">GitHub</a></code> &nbsp;&middot;&nbsp; 
+        <code><a href="https://leetcode.com/u/jhansi_lakshmi_sambhana/">LeetCode</a></code> &nbsp;&middot;&nbsp; 
+        <code><a href="https://www.credly.com/users/jhansi-lakshmi-sambhana">Credly</a></code>
+      </p>
+    </div>
   </td>
   </tr>
   </table>
