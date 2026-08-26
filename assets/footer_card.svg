@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 110" width="100%" height="100%">
+  <!-- Card Container -->
+  <rect width="830" height="110" fill="#0A0C10" rx="6" stroke="#6974B8" stroke-width="1" />
+
+  <!-- Tagline SVG -->
+  <image href="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/footer_tagline.svg" x="175" y="25" height="18" />
+
+  <!-- Description Text -->
+  <text x="50%" y="68" text-anchor="middle" fill="#E6EAF0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12px" font-weight="500">Always exploring new ideas, turning experiments into working systems, and learning something new with every build.</text>
+</svg>

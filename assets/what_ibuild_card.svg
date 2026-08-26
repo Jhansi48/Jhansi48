@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 156" width="100%" height="100%">
+  <!-- Card 1: Machine Learning -->
+  <g transform="translate(0, 0)">
+    <rect width="407" height="72" fill="#0A0C10" rx="6" stroke="#6974B8" stroke-width="1" />
+    <rect width="407" height="2" fill="#8B7CFF" rx="1" />
+    <image href="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/ml.svg" x="15" y="14" height="16" />
+    <text x="15" y="52" fill="#9AA2B3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5px" font-weight="500">Predictive modeling · Forecasting · Classification</text>
+  </g>
+
+  <!-- Card 2: Generative AI -->
+  <g transform="translate(423, 0)">
+    <rect width="407" height="72" fill="#0A0C10" rx="6" stroke="#6974B8" stroke-width="1" />
+    <rect width="407" height="2" fill="#62E6D7" rx="1" />
+    <image href="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/gen_ai.svg" x="15" y="14" height="16" />
+    <text x="15" y="52" fill="#9AA2B3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5px" font-weight="500">LLMs · RAG · Function Calling · AI Agents</text>
+  </g>
+
+  <!-- Card 3: Voice AI -->
+  <g transform="translate(0, 84)">
+    <rect width="407" height="72" fill="#0A0C10" rx="6" stroke="#6974B8" stroke-width="1" />
+    <rect width="407" height="2" fill="#62E6D7" rx="1" />
+    <image href="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/voice_ai.svg" x="15" y="14" height="16" />
+    <text x="15" y="52" fill="#9AA2B3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5px" font-weight="500">ASR · TTS · Multilingual Voice · Conversational AI</text>
+  </g>
+
+  <!-- Card 4: Computer Vision -->
+  <g transform="translate(423, 84)">
+    <rect width="407" height="72" fill="#0A0C10" rx="6" stroke="#6974B8" stroke-width="1" />
+    <rect width="407" height="2" fill="#8B7CFF" rx="1" />
+    <image href="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/cv.svg" x="15" y="14" height="16" />
+    <text x="15" y="52" fill="#9AA2B3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5px" font-weight="500">OpenCV · MediaPipe · Real-Time Vision</text>
+  </g>
+</svg>

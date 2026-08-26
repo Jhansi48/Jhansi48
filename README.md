@@ -18,207 +18,45 @@ Currently a final-year B.Tech student in Computer Science & Engineering (AI & ML
 
 ## <img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/headings/tools_i_build_with.svg" alt="✦ Tools I Build With" height="22">
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; margin-top: 15px;">
-<tr style="border: none; background: transparent;">
-<td width="48%" style="border: none; background: transparent; padding: 0; vertical-align: top;">
-  <div style="border: 1px solid #6974B8; background: #0A0C10; padding: 15px; border-radius: 6px;">
-    <div style="height: 2px; background: #8B7CFF; border-radius: 1px; margin-bottom: 8px;"></div>
-    <h4 style="margin: 0 0 8px 0; font-family: monospace; font-size: 11px; letter-spacing: 1px;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/intelligence.svg" alt="INTELLIGENCE" height="18"></h4>
-    <p style="margin: 0; font-size: 12px; color: #9AA2B3; line-height: 1.5; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Python · NumPy · Pandas · Scikit-learn · XGBoost · AutoGluon</p>
-  </div>
-</td>
-<td width="4%" style="border: none; background: transparent; padding: 0;"></td>
-<td width="48%" style="border: none; background: transparent; padding: 0; vertical-align: top;">
-  <div style="border: 1px solid #6974B8; background: #0A0C10; padding: 15px; border-radius: 6px;">
-    <div style="height: 2px; background: #62E6D7; border-radius: 1px; margin-bottom: 8px;"></div>
-    <h4 style="margin: 0 0 8px 0; font-family: monospace; font-size: 11px; letter-spacing: 1px;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/generative_voice.svg" alt="GENERATIVE &amp; VOICE" height="18"></h4>
-    <p style="margin: 0; font-size: 12px; color: #9AA2B3; line-height: 1.5; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Google Gemini · OpenAI · LLMs · RAG · AI Agents · Function Calling</p>
-  </div>
-</td>
-</tr>
-<tr style="border: none;"><td height="12" colspan="3" style="border: none; background: transparent; padding: 0;"></td></tr>
-<tr style="border: none; background: transparent;">
-<td width="48%" style="border: none; background: transparent; padding: 0; vertical-align: top;">
-  <div style="border: 1px solid #6974B8; background: #0A0C10; padding: 15px; border-radius: 6px;">
-    <div style="height: 2px; background: #62E6D7; border-radius: 1px; margin-bottom: 8px;"></div>
-    <h4 style="margin: 0 0 8px 0; font-family: monospace; font-size: 11px; letter-spacing: 1px;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/computer_vision.svg" alt="COMPUTER VISION" height="18"></h4>
-    <p style="margin: 0; font-size: 12px; color: #9AA2B3; line-height: 1.5; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">OpenCV · MediaPipe</p>
-  </div>
-</td>
-<td width="4%" style="border: none; background: transparent; padding: 0;"></td>
-<td width="48%" style="border: none; background: transparent; padding: 0; vertical-align: top;">
-  <div style="border: 1px solid #6974B8; background: #0A0C10; padding: 15px; border-radius: 6px;">
-    <div style="height: 2px; background: #8B7CFF; border-radius: 1px; margin-bottom: 8px;"></div>
-    <h4 style="margin: 0 0 8px 0; font-family: monospace; font-size: 11px; letter-spacing: 1px;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/application.svg" alt="APPLICATION" height="18"></h4>
-    <p style="margin: 0; font-size: 12px; color: #9AA2B3; line-height: 1.5; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">FastAPI · Angular · React · TypeScript · SQLAlchemy · JWT</p>
-  </div>
-</td>
-</tr>
-<tr style="border: none;"><td height="12" colspan="3" style="border: none; background: transparent; padding: 0;"></td></tr>
-<tr style="border: none; background: transparent;">
-<td colspan="3" style="border: none; background: transparent; padding: 0; vertical-align: top;">
-  <div style="border: 1px solid #6974B8; background: #0A0C10; padding: 15px; border-radius: 6px;">
-    <div style="height: 2px; background: #8B7CFF; border-radius: 1px; margin-bottom: 8px;"></div>
-    <h4 style="margin: 0 0 8px 0; font-family: monospace; font-size: 11px; letter-spacing: 1px;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/data_cloud.svg" alt="DATA &amp; CLOUD" height="18"></h4>
-    <p style="margin: 0; font-size: 12px; color: #9AA2B3; line-height: 1.5; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">PostgreSQL · MySQL · MongoDB · Firebase · Google Cloud</p>
-  </div>
-</td>
-</tr>
-</table>
+<div align="center" style="margin-top: 15px;">
+  <img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/tools_card.svg?v=3" alt="Tools I Build With" width="830" style="max-width: 100%;" />
+</div>
 
 ---
 
 ## <img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/headings/what_i_build.svg" alt="✦ What I Build" height="22">
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; margin-top: 15px;">
-<tr style="border: none;">
-<td width="48%" style="border: 1px solid #6974B8; background: #0A0C10; padding: 15px; border-radius: 6px; vertical-align: top;">
-<div style="height: 2px; background: #8B7CFF; border-radius: 1px; margin-bottom: 8px;"></div>
-<h4 style="margin: 0 0 4px 0; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/ml.svg" alt="Machine Learning" height="16"></h4>
-<p style="margin: 0; font-size: 12px; color: #9AA2B3; line-height: 1.4;">Predictive modeling · Forecasting · Classification</p>
-</td>
-<td width="4%" style="border: none; padding: 0;"></td>
-<td width="48%" style="border: 1px solid #6974B8; background: #0A0C10; padding: 15px; border-radius: 6px; vertical-align: top;">
-<div style="height: 2px; background: #62E6D7; border-radius: 1px; margin-bottom: 8px;"></div>
-<h4 style="margin: 0 0 4px 0; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/gen_ai.svg" alt="Generative AI" height="16"></h4>
-<p style="margin: 0; font-size: 12px; color: #9AA2B3; line-height: 1.4;">LLMs · RAG · Function Calling · AI Agents</p>
-</td>
-</tr>
-<tr style="border: none;"><td height="12" colspan="3" style="border: none; padding: 0;"></td></tr>
-<tr style="border: none;">
-<td width="48%" style="border: 1px solid #6974B8; background: #0A0C10; padding: 15px; border-radius: 6px; vertical-align: top;">
-<div style="height: 2px; background: #62E6D7; border-radius: 1px; margin-bottom: 8px;"></div>
-<h4 style="margin: 0 0 4px 0; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/voice_ai.svg" alt="Voice AI" height="16"></h4>
-<p style="margin: 0; font-size: 12px; color: #9AA2B3; line-height: 1.4;">ASR · TTS · Multilingual Voice · Conversational AI</p>
-</td>
-<td width="4%" style="border: none; padding: 0;"></td>
-<td width="48%" style="border: 1px solid #6974B8; background: #0A0C10; padding: 15px; border-radius: 6px; vertical-align: top;">
-<div style="height: 2px; background: #8B7CFF; border-radius: 1px; margin-bottom: 8px;"></div>
-<h4 style="margin: 0 0 4px 0; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/cv.svg" alt="Computer Vision" height="16"></h4>
-<p style="margin: 0; font-size: 12px; color: #9AA2B3; line-height: 1.4;">OpenCV · MediaPipe · Real-Time Vision</p>
-</td>
-</tr>
-</table>
+<div align="center" style="margin-top: 15px;">
+  <img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/what_ibuild_card.svg?v=3" alt="What I Build Focus" width="830" style="max-width: 100%;" />
+</div>
 
 ---
 
 ## <img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/headings/selected_work.svg" alt="✦ Selected Work" height="22">
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; margin-bottom: 20px;">
-<tr style="border: none;">
-<td style="border: none; background: transparent; padding: 0; vertical-align: top;">
-  <div style="border: 1px solid #6974B8; background: #0A0C10; padding: 25px; border-radius: 6px;">
-<div style="height: 2px; background: #8B7CFF; border-radius: 1px; margin-bottom: 12px;"></div>
-<p style="margin: 0 0 4px 0; font-family: monospace; font-size: 10px; font-weight: 600; letter-spacing: 1px;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/project01.svg" alt="PROJECT 01" height="13"></p>
-<h2 style="margin: 0 0 2px 0; font-size: 20px; font-family: -apple-system, BlinkMacSystemFont, sans-serif;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/expensemate.svg" alt="ExpenseMate" height="28"></h2>
-<h5 style="margin: 0 0 12px 0; font-size: 12px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/expensemate_sub.svg" alt="Multilingual Voice-First Financial Assistant" height="16"></h5>
-<p style="color: #9AA2B3; font-size: 13.5px; margin: 0 0 15px 0; line-height: 1.4; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">A multilingual voice-first financial assistant supporting English, Hindi, and Telugu. It combines real-time voice interactions, Gemini function calling, and multi-agent workflows to parse spoken commands into structured financial summaries.</p>
-<div align="center" style="margin: 15px 0;">
-<img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/expensemate-pipeline.svg" alt="ExpenseMate Voice Pipeline" width="830" style="max-width: 100%; border: none;" />
-</div>
-<p style="font-size: 10px; font-family: monospace; margin: 15px 0 6px 0; font-weight: 600; letter-spacing: 0.5px;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/core_stack.svg" alt="Core Stack" height="16"></p>
-<p style="margin: 0 0 15px 0; font-size: 13px; font-family: monospace; color: #F4F6FB; line-height: 1.4;">LiveKit · Google Gemini · Murf · ASR/TTS · AI Agents</p>
-<p style="font-size: 10px; font-family: monospace; margin: 10px 0 4px 0; font-weight: 600; letter-spacing: 0.5px;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/interactive_scope.svg" alt="Interactive Scope" height="16"></p>
-<p style="margin: 0 0 15px 0; font-size: 12.5px; font-family: monospace; color: #9AA2B3;">English · Hindi · Telugu · code-mixed multilingual interaction · low-latency WebRTC · outbound calling</p>
-<p style="margin: 0; font-size: 13px; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">
-<a href="https://github.com/Jhansi48/murf-livekit-starter" style="color: #62E6D7; text-decoration: none; font-weight: 600;">View Source &rarr;</a> &nbsp;&middot;&nbsp; 
-<a href="https://dev.to/jhansi_lakshmisambhana/from-make-it-talk-to-make-it-think-my-10-day-voice-ai-journey-3280" style="color: #62E6D7; text-decoration: none; font-weight: 600;">Technical Deep Dive &rarr;</a>
-</p>
+<a href="https://github.com/Jhansi48/murf-livekit-starter">
+  <img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/project_expensemate.svg?v=3" alt="Project 1: ExpenseMate" width="830" style="max-width: 100%; margin-bottom: 20px;" />
+</a>
 
-  </div>
-</td>
-</tr>
-</table>
+<a href="https://github.com/Jhansi48/Infosys-Project">
+  <img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/project_vendoriq.svg?v=3" alt="Project 2: Vendor IQ" width="830" style="max-width: 100%; margin-bottom: 20px;" />
+</a>
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; margin-bottom: 20px;">
-<tr style="border: none;">
-<td style="border: none; background: transparent; padding: 0; vertical-align: top;">
-  <div style="border: 1px solid #6974B8; background: #0A0C10; padding: 25px; border-radius: 6px;">
-<div style="height: 2px; background: #62E6D7; border-radius: 1px; margin-bottom: 12px;"></div>
-<p style="margin: 0 0 4px 0; font-family: monospace; font-size: 10px; font-weight: 600; letter-spacing: 1px;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/project02.svg" alt="PROJECT 02" height="13"></p>
-<h2 style="margin: 0 0 2px 0; font-size: 20px; font-family: -apple-system, BlinkMacSystemFont, sans-serif;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/vendoriq.svg" alt="Vendor IQ" height="28"></h2>
-<h5 style="margin: 0 0 12px 0; font-size: 12px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/vendoriq_sub.svg" alt="Vendor Reliability &amp; Procurement Risk Platform" height="16"></h5>
-<p style="color: #9AA2B3; font-size: 13.5px; margin: 0 0 15px 0; line-height: 1.4; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Analyzes procurement data and vendor reliability signals to support risk-aware decision making.</p>
-<div align="center" style="margin: 15px 0;">
-<img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/vendoriq-pipeline.svg" alt="Vendor IQ Pipeline" width="180" style="max-width: 100%; border: none;" />
-</div>
-<p style="font-size: 10px; font-family: monospace; margin: 15px 0 6px 0; font-weight: 600; letter-spacing: 0.5px;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/core_stack.svg" alt="Core Stack" height="16"></p>
-<p style="margin: 0 0 15px 0; font-size: 13px; font-family: monospace; color: #F4F6FB; line-height: 1.4;">FastAPI · Angular · PostgreSQL · SQLAlchemy · JWT</p>
-<p style="margin: 0; font-size: 13px; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">
-<a href="https://github.com/Jhansi48/Infosys-Project" style="color: #62E6D7; text-decoration: none; font-weight: 600;">View Source &rarr;</a> &nbsp;&middot;&nbsp; 
-<a href="https://vendoriq-rho.vercel.app/" style="color: #62E6D7; text-decoration: none; font-weight: 600;">Live Demo &nearrow;</a>
-</p>
-<img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/gradient-line.svg" width="850" height="1" style="display: block; opacity: 0; margin: 0; height: 1px;" />
+<a href="https://github.com/Jhansi48/expense-telegram-bot">
+  <img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/project_telegrambot.svg?v=3" alt="Project 3: Telegram Voice Expense Bot" width="830" style="max-width: 100%; margin-bottom: 20px;" />
+</a>
 
-  </div>
-</td>
-</tr>
-</table>
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; margin-bottom: 20px;">
-<tr style="border: none;">
-<td style="border: none; background: transparent; padding: 0; vertical-align: top;">
-  <div style="border: 1px solid #6974B8; background: #0A0C10; padding: 25px; border-radius: 6px;">
-<div style="height: 2px; background: #8B7CFF; border-radius: 1px; margin-bottom: 12px;"></div>
-<p style="margin: 0 0 4px 0; font-family: monospace; font-size: 10px; font-weight: 600; letter-spacing: 1px;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/project03.svg" alt="PROJECT 03" height="13"></p>
-<h2 style="margin: 0 0 2px 0; font-size: 20px; font-family: -apple-system, BlinkMacSystemFont, sans-serif;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/telegrambot.svg" alt="Telegram Voice Expense Bot" height="28"></h2>
-<h5 style="margin: 0 0 12px 0; font-size: 12px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/telegrambot_sub.svg" alt="Voice ➔ Structured Financial Data" height="16"></h5>
-<p style="color: #9AA2B3; font-size: 13.5px; margin: 0 0 15px 0; line-height: 1.4; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Translates spoken financial entries into structured spreadsheet/database-ready data using Whisper automatic voice transcription.</p>
-<div align="center" style="margin: 15px 0;">
-<img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/telegrambot-pipeline.svg" alt="Telegram Bot Pipeline" width="180" style="max-width: 100%; border: none;" />
-</div>
-<p style="font-size: 10px; font-family: monospace; margin: 15px 0 6px 0; font-weight: 600; letter-spacing: 0.5px;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/core_stack.svg" alt="Core Stack" height="16"></p>
-<p style="margin: 0 0 15px 0; font-size: 13px; font-family: monospace; color: #F4F6FB; line-height: 1.4;">Whisper · Telegram API · Python · Pandas · OpenPyXL</p>
-<p style="margin: 0; font-size: 13px; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">
-<a href="https://github.com/Jhansi48/expense-telegram-bot" style="color: #62E6D7; text-decoration: none; font-weight: 600;">View Source &rarr;</a>
-</p>
-<img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/gradient-line.svg" width="850" height="1" style="display: block; opacity: 0; margin: 0; height: 1px;" />
-
-  </div>
-</td>
-</tr>
-</table>
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; margin-bottom: 20px;">
-<tr style="border: none;">
-<td style="border: none; background: transparent; padding: 0; vertical-align: top;">
-  <div style="border: 1px solid #6974B8; background: #0A0C10; padding: 25px; border-radius: 6px;">
-<div style="height: 2px; background: #62E6D7; border-radius: 1px; margin-bottom: 12px;"></div>
-<p style="margin: 0 0 4px 0; font-family: monospace; font-size: 10px; font-weight: 600; letter-spacing: 1px;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/project04.svg" alt="PROJECT 04" height="13"></p>
-<h2 style="margin: 0 0 2px 0; font-size: 20px; font-family: -apple-system, BlinkMacSystemFont, sans-serif;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/gesture.svg" alt="Gesture-Controlled Subway Surfers" height="28"></h2>
-<h5 style="margin: 0 0 12px 0; font-size: 12px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/gesture_sub.svg" alt="Computer Vision Game Controller" height="16"></h5>
-<p style="color: #9AA2B3; font-size: 13.5px; margin: 0 0 15px 0; line-height: 1.4; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Real-time gameplay controller translating MediaPipe keypoint tracking and OpenCV frame processing into desktop controls.</p>
-<div align="center" style="margin: 15px 0;">
-<img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/gesture-pipeline.svg" alt="Gesture Pipeline" width="550" style="max-width: 100%; border: none;" />
-</div>
-<p style="font-size: 10px; font-family: monospace; margin: 15px 0 6px 0; font-weight: 600; letter-spacing: 0.5px;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/core_stack.svg" alt="Core Stack" height="16"></p>
-<p style="margin: 0 0 15px 0; font-size: 13px; font-family: monospace; color: #F4F6FB; line-height: 1.4;">OpenCV · MediaPipe · PyAutoGUI</p>
-<p style="margin: 0; font-size: 13px; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">
-<a href="https://github.com/Jhansi48/AI-Gesture-SubwaySurfers" style="color: #62E6D7; text-decoration: none; font-weight: 600;">View Source &rarr;</a>
-</p>
-<img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/gradient-line.svg" width="850" height="1" style="display: block; opacity: 0; margin: 0; height: 1px;" />
-
-  </div>
-</td>
-</tr>
-</table>
+<a href="https://github.com/Jhansi48/AI-Gesture-SubwaySurfers">
+  <img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/project_gesture.svg?v=3" alt="Project 4: Gesture-Controlled Subway Surfers" width="830" style="max-width: 100%; margin-bottom: 20px;" />
+</a>
 
 ---
 
 ## <img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/headings/currently_exploring.svg" alt="✦ Currently Exploring" height="22">
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; margin-top: 15px;">
-<tr style="border: none;">
-<td style="border: none; background: transparent; padding: 0; vertical-align: top;">
-  <div style="border: 1px solid #6974B8; background: #0A0C10; padding: 25px; border-radius: 6px;">
-<div align="center">
-<img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/exploring-roadmap.svg?v=3" alt="Exploring Roadmap" width="830" style="max-width: 100%; border: none;" />
+<div align="center" style="margin-top: 15px;">
+  <img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/currently_exploring_card.svg?v=3" alt="Currently Exploring" width="830" style="max-width: 100%;" />
 </div>
-
-  </div>
-</td>
-</tr>
-</table>
 
 ---
 
@@ -243,39 +81,26 @@ Currently a final-year B.Tech student in Computer Science & Engineering (AI & ML
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed; width: 100%; border-collapse: separate; border-spacing: 0; border: none; background: transparent; margin-top: 15px;">
 <tr style="border: none; background: transparent;">
 <td width="48%" style="border: none; background: transparent; padding: 0; vertical-align: middle;">
-  <div align="center" style="border: 1px solid #6974B8; background: #0A0C10; padding: 15px; border-radius: 6px;">
-    <img src="https://github-stats-extended.vercel.app/api?username=Jhansi48&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true" alt="GitHub Stats" width="100%" style="max-width: 100%; height: auto; border: none; display: block;" />
-  </div>
+  <img src="https://github-stats-extended.vercel.app/api?username=Jhansi48&amp;show_icons=true&amp;theme=transparent&amp;bg_color=0a0c10&amp;border_color=6974b8&amp;hide_border=false" alt="GitHub Stats" width="100%" style="max-width: 100%; height: auto; border: none; display: block;" />
 </td>
 <td width="4%" style="border: none; background: transparent; padding: 0;"></td>
 <td width="48%" style="border: none; background: transparent; padding: 0; vertical-align: middle;">
-  <div align="center" style="border: 1px solid #6974B8; background: #0A0C10; padding: 15px; border-radius: 6px;">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jhansi48&amp;layout=compact&amp;theme=transparent&amp;hide_border=true" alt="Top Languages" width="100%" style="max-width: 100%; height: auto; border: none; display: block;" />
-  </div>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jhansi48&amp;layout=compact&amp;theme=transparent&amp;bg_color=0a0c10&amp;border_color=6974b8&amp;hide_border=false" alt="Top Languages" width="100%" style="max-width: 100%; height: auto; border: none; display: block;" />
 </td>
 </tr>
 </table>
 
 ---
 
-<div align="center">
-  <table width="100%" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed; width: 100%; border-collapse: collapse; border: none; margin-top: 20px;">
-  <tr style="border: none; background: transparent;">
-  <td style="border: none; background: transparent; padding: 0; vertical-align: middle;">
-    <div align="center" style="border: 1px solid #6974B8; background: #0A0C10; padding: 25px; border-radius: 6px; color: #E6EAF0;">
-      <p style="margin: 0 0 10px 0; letter-spacing: 2px;"><img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/subheadings/footer_tagline.svg" alt="CURIOUS BY DEFAULT. BUILDING WITH PURPOSE." height="18" /></p>
-      <p style="font-size: 13px; margin: 0 0 20px 0; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Always exploring new ideas, turning experiments into working systems, and learning something new with every build.</p>
-      <p style="margin: 0; font-size: 13.5px; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">
-        <code><a href="https://jhansi48.github.io/Portfolio/">Portfolio</a></code> &nbsp;&middot;&nbsp; 
-        <code><a href="https://www.linkedin.com/in/jhansi-lakshmi-sambhana-64ba35393/">LinkedIn</a></code> &nbsp;&middot;&nbsp; 
-        <code><a href="https://github.com/jhansi48">GitHub</a></code> &nbsp;&middot;&nbsp; 
-        <code><a href="https://leetcode.com/u/jhansi_lakshmi_sambhana/">LeetCode</a></code> &nbsp;&middot;&nbsp; 
-        <code><a href="https://www.credly.com/users/jhansi-lakshmi-sambhana">Credly</a></code>
-      </p>
-    </div>
-  </td>
-  </tr>
-  </table>
+<div align="center" style="margin-top: 20px;">
+  <img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/footer_card.svg?v=3" alt="Footer Tagline &amp; Description" width="830" style="max-width: 100%;" />
+  <p style="margin: 15px 0 0 0; font-size: 13.5px; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">
+    <code><a href="https://jhansi48.github.io/Portfolio/">Portfolio</a></code> &nbsp;&middot;&nbsp; 
+    <code><a href="https://www.linkedin.com/in/jhansi-lakshmi-sambhana-64ba35393/">LinkedIn</a></code> &nbsp;&middot;&nbsp; 
+    <code><a href="https://github.com/jhansi48">GitHub</a></code> &nbsp;&middot;&nbsp; 
+    <code><a href="https://leetcode.com/u/jhansi_lakshmi_sambhana/">LeetCode</a></code> &nbsp;&middot;&nbsp; 
+    <code><a href="https://www.credly.com/users/jhansi-lakshmi-sambhana">Credly</a></code>
+  </p>
   
   <img src="https://raw.githubusercontent.com/Jhansi48/Jhansi48/main/assets/gradient-line.svg" alt="Divider Line" width="830" style="max-width: 100%; margin: 20px 0;" />
 </div>
